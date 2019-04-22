@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/project/</link>
+    <description>Recent content in Projects on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep PCa</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/deeppca/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/deeppca/</guid>
+      <description>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.</description>
+    </item>
+    
+    <item>
+      <title>CAMELYON</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/camelyon/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/camelyon/</guid>
+      <description>Overview Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.
+The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists.</description>
+    </item>
+    
+    <item>
+      <title>Automated Analysis of Histopathological Clinical Trial Data</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/aahctd/</link>
+      <pubDate>Wed, 01 Apr 2015 12:16:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/aahctd/</guid>
+      <description>To accuractely determine the outcome of clinical trials careful analysis of the biomarkers is required. In recent years this has become more and more complex due to quantity of biomarkers that has to be assessed in new clinical trials. Furthermore, as we move to more personalized therapy, we need to be able to measure even subtle changes in biomarker expression, putting a larger emphasis on accurate and precise biomarker quantification. These changes have made manual assessment of biomarker expression tedious, time-consuming, and, often, inaccurate.</description>
+    </item>
+    
+    <item>
+      <title>ASAP</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/asap/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/asap/</guid>
+      <description>ASAP (Automated Slide Analysis Platform) was developed by the Computation Pathology Group, part of the Diagnostic Image Analysis Group, at the Radboud University Medical Center. It was started after frustration with the current freely available software for annotating multi-resolution digital pathology images. For more details head to the project site.</description>
+    </item>
+    
+    <item>
+      <title>Computerized Detection of Prostate Cancer in Multi-Parametric MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/mpmri-pca/</link>
+      <pubDate>Thu, 07 Jan 2010 11:55:45 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/mpmri-pca/</guid>
+      <description>Prostate cancer is the most commonly diagnosed malignancy and the second leading cause of cancer death among men in the Netherlands. Due to the shortcomings of the current diagnostic pathway for prostate cancer, especially with respect to assessing cancer aggressiveness, alternative strategies are being investigated. Magnetic resonance imaging (MRI) has emerged as an important modality to assist and potentially replace (part of) the current diagnostic pathway. The high complexity of prostate MRI and the lack of sufficient expertise among the radiological community at large has opened the door for (semi-)automated analysis of prostate MRI by computer systems, with or without human intervention.</description>
+    </item>
+    
+  </channel>
+</rss>

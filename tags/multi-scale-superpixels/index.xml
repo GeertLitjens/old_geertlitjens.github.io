@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-scale superpixels on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/tags/multi-scale-superpixels/</link>
+    <description>Recent content in multi-scale superpixels on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/tags/multi-scale-superpixels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A multi-scale superpixel classification approach for region of interest detection in whole slide histopathology images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

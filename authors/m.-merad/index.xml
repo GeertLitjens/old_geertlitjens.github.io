@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Merad on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/m.-merad/</link>
+    <description>Recent content in M. Merad on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/m.-merad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In-depth tissue profiling using multiplexed immunohistochemical consecutive staining on single slide</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/rema-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/rema-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

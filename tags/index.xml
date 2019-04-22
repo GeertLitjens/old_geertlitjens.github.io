@@ -1,15 +1,394 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/tags/</link>
+    <description>Recent content in Tags on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://<USERNAME>.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Active</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/active/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adenocarcinoma</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/adenocarcinoma/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/adenocarcinoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms; Computer Simulation; Humans; Imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/algorithms-computer-simulation-humans-imaging/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/algorithms-computer-simulation-humans-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological; Radiographic Image Enhancement</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/biological-radiographic-image-enhancement/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/biological-radiographic-image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer;Computed tomography;Design automation;Feature extraction;Lesions;Lungs;Solids;computed tomography;computer-aided detection;convolutional networks;deep learning;lung cancer;pulmonary nodule</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenge</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/challenge/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Pathology</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/computational-pathology/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/computational-pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-Assisted</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/computer-assisted/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/computer-assisted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential; Humans; Magnetic Resonance Imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/differential-humans-magnetic-resonance-imaging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/differential-humans-magnetic-resonance-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ex-vivo; Magnetic resonance imaging; Squamous cell carcinoma; Tongue; Validation</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HNSCC; MAGE; cancer-testis antigens; head and neck squamous cell carcinoma; melanoma-associated antigen</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lymph Nodes</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/lymph-nodes/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/lymph-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lymph node metastases; MR lymphography; Prostate cancer; USPIO contrast agents</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR-US registration; accuracy; hotspot; prostate biopsy</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI; breast segmentation; deep learning</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/mri-breast-segmentation-deep-learning/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/mri-breast-segmentation-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/medical-imaging/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metastases</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/metastases/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/metastases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/open-source/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prostate Cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/prostate-cancer/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/prostate-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/software/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoracic</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/thoracic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/thoracic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/three-dimensional/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/three-dimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/viewer/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/viewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Ray Computed</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/x-ray-computed/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/x-ray-computed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breast cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagnosis/pathology/surgery; Aged; Diagnosis</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-aged-diagnosis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-aged-diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagnosis/pathology/surgery; Retrospective Studies</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-retrospective-studies/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-retrospective-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>histopathology</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/histopathology/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/histopathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Lung Diseases</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods-lung-diseases/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods-lung-diseases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Radiographic Image Interpretation</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods-radiographic-image-interpretation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods-radiographic-image-interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Radiography</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods-radiography/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods-radiography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Reproducibility of Results; Sensitivity and Specificity; Tomography</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-scale superpixels</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/multi-scale-superpixels/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/multi-scale-superpixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiography; Models</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/radiography-models/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/radiography-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>region of interest</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/region-of-interest/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/region-of-interest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whole-slide imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/whole-slide-imaging/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/whole-slide-imaging/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

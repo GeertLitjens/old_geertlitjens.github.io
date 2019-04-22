@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Ciompi on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/f.-ciompi/</link>
+    <description>Recent content in F. Ciompi on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/f.-ciompi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Different Methods for Tissue Segmentation In Histopathological Whole-Slide Images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/band-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Deep Learning in Medical Image Analysis</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/seti-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/seti-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prostate Cancer on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/tags/prostate-cancer/</link>
+    <description>Recent content in Prostate Cancer on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/tags/prostate-cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep PCa</title>
+      <link>https://&lt;USERNAME&gt;.github.io/project/deeppca/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/project/deeppca/</guid>
+      <description>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.</description>
+    </item>
+    
+  </channel>
+</rss>

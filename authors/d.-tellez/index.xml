@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Tellez on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/d.-tellez/</link>
+    <description>Recent content in D. Tellez on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/d.-tellez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

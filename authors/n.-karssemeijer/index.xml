@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Karssemeijer on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/n.-karssemeijer/</link>
+    <description>Recent content in N. Karssemeijer on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/n.-karssemeijer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware stacked convolutional neural networks for classification of breast carcinomas in whole-slide histopathology images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-17-b/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using deep learning to segment breast and fibroglandular tissue in MRI volumes</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/dalm-17/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/dalm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale deep learning for computer aided detection of mammographic lesions</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/kooi-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/kooi-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location Sensitive Deep Convolutional Neural Networks for Segmentation of White Matter Hyperintensities</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ghaf-17-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ghaf-17-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Detection of DCIS in Whole-Slide H&amp;E Stained Breast Histopathology Images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-16-a/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stain specific standardization of whole-slide histopathological images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical evaluation of a computer-aided diagnosis system for determining cancer aggressiveness in prostate MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-15-b/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-15-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-scale superpixel classification approach for region of interest detection in whole slide histopathology images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Detection of Prostate Cancer in Multi-parametric Magnetic Resonance Imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided detection of prostate cancer in MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial prospective evaluation of the prostate imaging reporting and data standard (PI-RADS): Can it reduce unnecessary MR guided biopsies?</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated computer-aided detection of prostate cancer in MR images: from a whole-organ to a zone-based approach</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-atlas approach for prostate segmentation in MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-d/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pattern recognition approach to zonal segmentation of the prostate on MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computerized characterization of central gland lesions using texture and relaxation features from T2-weighted prostate MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-c/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Computer Aided Detection of Abnormalities in Multi-Parametric Prostate MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zone-specific Automatic Computer-aided Detection of Prostate Cancer in MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-11-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training a Computer Aided Detection System with Simulated Lung Nodules in Chest Radiographs</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/snoe-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/snoe-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

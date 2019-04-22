@@ -1,14 +1,161 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
-    <link>/</link>
-    <description>Recent content in Academic on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Geert Litjens on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/</link>
+    <description>Recent content in Geert Litjens on Geert Litjens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 13:58:34 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robust and accurate quantification of biomarkers of immune cells in lung cancer micro-environment using deep convolutional neural networks.</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</link>
+      <pubDate>Mon, 08 Apr 2019 13:58:34 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-19-a/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large annotated medical image dataset for the development and evaluation of segmentation algorithms</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/simp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/simp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://&lt;USERNAME&gt;.github.io/cv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/pinc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/pinc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning in Medical Imaging</title>
+      <link>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://&lt;USERNAME&gt;.github.io/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/band-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dag van de Pathologie</title>
+      <link>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</guid>
+      <description>&lt;p&gt;This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vShDh2ln7_BMyIhnBJzjdLw71yzr9ojssfkyiuddkjpg7sZpN_6dbpw2JTEtJnPEMpWJf1zJUA6eeGR/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic color unmixing of IHC stained whole slide images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

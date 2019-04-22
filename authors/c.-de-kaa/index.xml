@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. de Kaa on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/c.-de-kaa/</link>
+    <description>Recent content in C. de Kaa on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/c.-de-kaa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiparametric MR imaging for the assessment of prostate cancer aggressiveness at 3 Tesla</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/vos-14-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/vos-14-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

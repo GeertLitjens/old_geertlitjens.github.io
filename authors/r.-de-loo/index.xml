@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. de Loo on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/r.-de-loo/</link>
+    <description>Recent content in R. de Loo on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/r.-de-loo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Different Methods for Tissue Segmentation In Histopathological Whole-Slide Images</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/band-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

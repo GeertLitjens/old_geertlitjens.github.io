@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Zanjani on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/f.-zanjani/</link>
+    <description>Recent content in F. Zanjani on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/f.-zanjani/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/band-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

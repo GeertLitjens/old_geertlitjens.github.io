@@ -1,61 +1,2459 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bult-19-a/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/simp-19/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/cv/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/pinc-19/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/band-18/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</loc>
+      <lastmod>2018-04-13T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</loc>
+      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/pinc-18/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</loc>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bejn-17-b/</loc>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/talk/kindergeneeskunde/</loc>
+      <lastmod>2017-06-12T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/stee-17/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/band-17/</loc>
+      <lastmod>2017-04-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</loc>
+      <lastmod>2017-04-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/dalm-17/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-17/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/kooi-17/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ghaf-17-c/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/laba-17/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
+      <loc>https://&lt;USERNAME&gt;.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/deba-16-a/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ehte-16-a/</loc>
+      <lastmod>2016-09-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</loc>
+      <lastmod>2016-09-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/deba-16/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/rema-16/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/deeppca/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/camelyon/</loc>
+      <lastmod>2016-01-22T22:00:35+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-16/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-16-b/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-16-c/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/seti-16/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-15-b/</loc>
+      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/vos-15/</loc>
+      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/aahctd/</loc>
+      <lastmod>2015-04-01T12:16:34+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/talk/lekenpraatje/</loc>
+      <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-15-a/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/asap/</loc>
+      <lastmod>2014-04-01T12:25:34+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14-e/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14-c/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14-b/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14-a/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/vos-14-c/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-14-d/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/vos-13/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/nage-13/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-13/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/maas-13-b/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-12-b/</loc>
+      <lastmod>2012-08-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-12/</loc>
+      <lastmod>2012-02-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-12-d/</loc>
+      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</loc>
+      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-12-c/</loc>
+      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/vos-12/</loc>
+      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/deba-11/</loc>
+      <lastmod>2011-11-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-11/</loc>
+      <lastmod>2011-03-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/deba-11-a/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/scho-11/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/ven-11-a/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-11-b/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/mpmri-pca/</loc>
+      <lastmod>2010-01-07T11:55:45+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/huis-10/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-10/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-10-a/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/snoe-10/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-09/</loc>
+      <lastmod>2009-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/author/geert/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/1/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
+  
+    <url>
     
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/2/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/3/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/4/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/6/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-baidoshvili/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-dahl/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-fortuin/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-gubern-m%C3%A9rida/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-halilovic/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-homeyer/</loc>
+      <lastmod>2016-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-kopp-schneider/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-maat/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-madabhushi/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-schilham/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-sch%C5%97%CC%88k/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-setio/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-sikora/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-simpson/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-veltien/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-wood/</loc>
+      <lastmod>2009-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-wright/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-zhong/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/a.-den-heeten/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/active/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/adenocarcinoma/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/algorithms-computer-simulation-humans-imaging/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-bejnordi/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-ehteshami-bejnordi/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-haar-romeny/</loc>
+      <lastmod>2009-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-haken/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-kiefer/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-landman/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-lee/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-maan/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-menze/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-platel/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-romeny/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/b.-van-ginneken/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/biological-radiographic-image-enhancement/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-brunner/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-davatzikos/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-hoeks/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-hulsbergen-van-de-kaa/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-hulsbergen-van-de-kaa/</loc>
+      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-hulsbergen-van-de-kaa/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-jacobs/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-kaa/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-s%C3%A1nchez/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-wauters/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-de-kaa/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/c.-van-der-kaa/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/challenge/</loc>
+      <lastmod>2016-01-22T22:00:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/computational-pathology/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/computer-assisted/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-barratt/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-damotte/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-geijs/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-komura/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-margolis/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/d.-tellez/</loc>
+      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/differential-humans-magnetic-resonance-imaging/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/e.-bekers/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/e.-halici/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/e.-marchiori/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/e.-vorontsov/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/e.-vos/</loc>
+      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-bootz/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-both/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-ciompi/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-jung/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-malmberg/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-zanjani/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-de-leeuw/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/f.-van-der-heijden/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-giebel/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-guillard/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-karczmar/</loc>
+      <lastmod>2009-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-kristiansen/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-litjens/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-silva-de-souza/</loc>
+      <lastmod>2017-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-spagnoli/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-swadi/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-vincent/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-zuidhof/</loc>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-van-pelt/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/g.-van-den-broek/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/geert-litjens/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-chen/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-huisman/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-jackson/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-kusters-vandevelde/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-lin/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-meijer/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/h.-pinckaers/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-gribbestad/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-kovacs/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-nagtegaal/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-otte-holler/</loc>
+      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-van-uden/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-barentsz/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-bomers/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-br%C3%ABlmann/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-buurman/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-doescher/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-dowling/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-franke/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-futterer/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-f%C3%BCtterer/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-golia-pernicka/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-hoven/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-klaase/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-lotz/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-mitra/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-thagaard/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-thierauf/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-wolchok/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-yuan/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-zhang/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-der-laak/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/j.-van-der-laak/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/jeroen-van-der-laak/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-farahani/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-fukuta/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-holland/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-macura/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-nagel/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-paeng/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-safferling/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/k.-selnas/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/l.-hogeweg/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/l.-jacobsson/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/l.-maier-hein/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/lilija-aprupe/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/lymph-nodes/</loc>
+      <lastmod>2016-01-22T22:00:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-antonelli/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-balkenhol/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-bilello/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-cardoso/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-cetin/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-dalmis/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-feldman/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-ghafoorian/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-gollub/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-haider/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-hedlund/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-heisen/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-hermsen/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-intezar/</loc>
+      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-kirschner/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-koopman/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-maas/</loc>
+      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-mchugo/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-medved/</loc>
+      <lastmod>2009-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-meijs/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-melnikova/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-merad/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-merkx/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-naqibullah/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-schouten/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-theodoraki/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-veta/</loc>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-viergever/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-wille/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-van-dijk/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/m.-van-rijthoven/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/mri-breast-segmentation-deep-learning/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/medical-imaging/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/metastases/</loc>
+      <lastmod>2016-01-22T22:00:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-birbeck/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-grabe/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-karssemeijer/</loc>
+      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-kl%C3%BCmper/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-shih/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-stathonikos/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-timofeeva/</loc>
+      <lastmod>2016-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/n.-weiss/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/niels-grabe/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/o.-debats/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/o.-geessink/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/o.-huisman/</loc>
+      <lastmod>2011-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/o.-ronneberger/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/open-source/</loc>
+      <lastmod>2014-04-01T12:25:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-bandi/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-bilic/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-bult/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-b%C3%A1ndi/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-christ/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-edwards/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-gerke/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-schuler/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-snoeren/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-vos/</loc>
+      <lastmod>2011-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-de-jong/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/p.-van-diest/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/post/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/project/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/prostate-cancer/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/publication_types/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/q.-gao/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/q.-li/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/q.-manson/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-chen/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-do/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-elliott/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-holland/</loc>
+      <lastmod>2016-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-krupar/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-mann/</loc>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-remark/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-strand/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-summers/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-takes/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-toth/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-vogels/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-de-loo/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/r.-van-de-loo/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-bakas/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-cheng/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-ghose/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-gnjatic/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-heckers/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-kerkstra/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-laban/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-mol/</loc>
+      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-napel/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-perner/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-steens/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-viswanath/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-zeng/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-zinger/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/s.-van-riel/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/software/</loc>
+      <lastmod>2014-04-01T12:25:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-hambrock/</loc>
+      <lastmod>2016-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-heskes/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-hoffmann/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-kobus/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-kooi/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-merghoub/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-scheenen/</loc>
+      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/</loc>
+      <lastmod>2016-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/thoracic/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/three-dimensional/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/titus-j.-brinker/</loc>
+      <lastmod>2019-04-08T13:58:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/v.-ovtcharov/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/viewer/</loc>
+      <lastmod>2014-04-01T12:25:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-bulten/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-jarnagin/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-mesker/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-qiu/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-vreuls/</loc>
+      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-weijs/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/w.-van-de-ven/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/x-ray-computed/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/y.-ou/</loc>
+      <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/z.-swiderska-chadaj/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/breast-cancer/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-aged-diagnosis/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/diagnosis/pathology/surgery-retrospective-studies/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/histopathology/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods-lung-diseases/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods-radiographic-image-interpretation/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods-radiography/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/multi-scale-superpixels/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/radiography-models/</loc>
+      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/region-of-interest/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/authors/t.-consortium/</loc>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/whole-slide-imaging/</loc>
+      <lastmod>2015-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
   
 </urlset>

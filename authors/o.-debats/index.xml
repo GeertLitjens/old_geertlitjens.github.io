@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Debats on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/o.-debats/</link>
+    <description>Recent content in O. Debats on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/o.-debats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intranodal signal suppression in pelvic MR lymphography of prostate cancer patients: a quantitative comparison of ferumoxtran-10 and ferumoxytol.</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/deba-16-a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/deba-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated multistructure atlas-assisted detection of lymph nodes using pelvic MR lymphography in prostate cancer patients</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/deba-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/deba-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided detection of prostate cancer in MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pattern recognition approach to zonal segmentation of the prostate on MRI</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Lymph Node Metastases with Ferumoxtran-10 vs Ferumoxytol</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/deba-11-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/deba-11-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

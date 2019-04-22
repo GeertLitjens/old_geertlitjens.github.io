@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Maas on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/m.-maas/</link>
+    <description>Recent content in M. Maas on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/authors/m.-maas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiparametric Magnetic Resonance Imaging for Discriminating Low-Grade From High-Grade Prostate Cancer</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/vos-15/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/vos-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiparametric MR imaging for the assessment of prostate cancer aggressiveness at 3 Tesla</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/vos-14-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/vos-14-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prostate Cancer localization with a Multiparametric MR Approach (PCaMAP): initial results of a multi-center study</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/maas-13-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/maas-13-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
