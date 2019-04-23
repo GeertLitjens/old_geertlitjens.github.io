@@ -57,8 +57,20 @@
   
     <url>
     
+      <loc>https://&lt;USERNAME&gt;.github.io/media/wetenschapvandaag-zomercollege/</loc>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</loc>
       <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/media/beter-interview/</loc>
+      <lastmod>2018-06-04T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -107,6 +119,12 @@
     
       <loc>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/media/nieuwsuur_camelyon/</loc>
+      <lastmod>2017-12-13T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -219,6 +237,12 @@
   
     <url>
     
+      <loc>https://&lt;USERNAME&gt;.github.io/media/alpehuzes-interview/</loc>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://&lt;USERNAME&gt;.github.io/project/deeppca/</loc>
       <lastmod>2016-05-01T00:00:00+02:00</lastmod>
     </url>
@@ -292,6 +316,12 @@
     <url>
     
       <loc>https://&lt;USERNAME&gt;.github.io/publication/litj-15-a/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/media/vox-famelab/</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
   
@@ -1239,6 +1269,12 @@
       <loc>https://&lt;USERNAME&gt;.github.io/authors/i.-van-uden/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/media/</loc>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
     </url>
   
     <url>

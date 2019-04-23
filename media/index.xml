@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In the Media on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/media/</link>
+    <description>Recent content in In the Media on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BNR Wetenschap Vandaag - Zomercollege</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/wetenschapvandaag-zomercollege/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/wetenschapvandaag-zomercollege/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>BNR Beter - Interview</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/beter-interview/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/beter-interview/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Report on Nieuwsuur about CAMELYON.</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/nieuwsuur_camelyon/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/nieuwsuur_camelyon/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Interview Regional TV at Alpe Hu&#39;Zes</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/alpehuzes-interview/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/alpehuzes-interview/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Interview with Vox about FameLab</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/vox-famelab/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/vox-famelab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

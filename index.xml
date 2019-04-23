@@ -99,12 +99,40 @@
     </item>
     
     <item>
+      <title>BNR Wetenschap Vandaag - Zomercollege</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/wetenschapvandaag-zomercollege/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/wetenschapvandaag-zomercollege/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/sKz4mGxbSxw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
       <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BNR Beter - Interview</title>
+      <link>https://&lt;USERNAME&gt;.github.io/media/beter-interview/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/media/beter-interview/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/nh5ruSNs37Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
@@ -136,24 +164,6 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic color unmixing of IHC stained whole slide images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</guid>
       <description></description>
     </item>
     
