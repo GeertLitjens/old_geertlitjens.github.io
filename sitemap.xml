@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</loc>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</loc>
       <lastmod>2019-04-19T13:41:14+02:00</lastmod>
     </url>
@@ -902,6 +908,13 @@
   
     <url>
     
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/camelyon/</loc>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://&lt;USERNAME&gt;.github.io/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1175,14 +1188,14 @@
     <url>
     
       <loc>https://&lt;USERNAME&gt;.github.io/</loc>
-      <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://&lt;USERNAME&gt;.github.io/authors/geert-litjens/</loc>
-      <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1972,7 +1985,7 @@
     <url>
     
       <loc>https://&lt;USERNAME&gt;.github.io/post/</loc>
-      <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
     </url>
   
     <url>
@@ -2432,7 +2445,7 @@
     <url>
     
       <loc>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2517,6 +2530,13 @@
     
       <loc>https://&lt;USERNAME&gt;.github.io/tags/teaching/</loc>
       <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</loc>
+      <lastmod>2018-09-16T09:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   

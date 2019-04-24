@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMELYON on Geert Litjens</title>
+    <link>https://&lt;USERNAME&gt;.github.io/tags/camelyon/</link>
+    <description>Recent content in CAMELYON on Geert Litjens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://<USERNAME>.github.io/tags/camelyon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With Camelyon (Part 1)</title>
+      <link>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</link>
+      <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</guid>
+      <description>This is the first part of a three part tutorial on how to get started with the CAMELYON dataset. This first part will focus on getting a basic convolutional neural network trained using PatchCAMELYON, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.</description>
+    </item>
+    
+  </channel>
+</rss>

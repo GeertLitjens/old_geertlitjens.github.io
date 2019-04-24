@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>CAMELYON</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/camelyon/</link>
+      <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/camelyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cancer;Computed tomography;Design automation;Feature extraction;Lesions;Lungs;Solids;computed tomography;computer-aided detection;convolutional networks;deep learning;lung cancer;pulmonary nodule</title>
       <link>https://&lt;USERNAME&gt;.github.io/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
@@ -312,7 +321,7 @@
     <item>
       <title>machine learning</title>
       <link>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
+      <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
       <guid>https://&lt;USERNAME&gt;.github.io/tags/machine-learning/</guid>
       <description></description>
@@ -414,6 +423,15 @@
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       
       <guid>https://&lt;USERNAME&gt;.github.io/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
