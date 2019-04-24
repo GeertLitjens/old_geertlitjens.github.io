@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 13:58:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 13:41:14 +0200</lastBuildDate>
     
 	<atom:link href="https://<USERNAME>.github.io/authors/geert-litjens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAMELYON for Elementary School</title>
+      <link>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</link>
+      <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</guid>
+      <description>In 2018 Jeroen van der Laak and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the Radboud Wetenschapsknooppunt and two of our PhD students: Meyke Hermsen and Maschenka Balkenhol.</description>
+    </item>
     
     <item>
       <title>Robust and accurate quantification of biomarkers of immune cells in lung cancer micro-environment using deep convolutional neural networks.</title>
