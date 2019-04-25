@@ -414,6 +414,15 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     </item>
     
     <item>
+      <title>Bessensap</title>
+      <link>https://geertlitjens.nl/talk/bessensap/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/talk/bessensap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BNR Beter - Interview</title>
       <link>https://geertlitjens.nl/media/beter-interview/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0200</pubDate>
@@ -425,15 +434,6 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 &lt;/div&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
-      <link>https://geertlitjens.nl/publication/litj-18/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/publication/litj-18/</guid>
-      <description></description>
     </item>
     
   </channel>
