@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/publication_types/2/</link>
+    <link>https://geertlitjens.nl/publication_types/2/</link>
     <description>Recent content in 2 on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 08 Apr 2019 13:58:34 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robust and accurate quantification of biomarkers of immune cells in lung cancer micro-environment using deep convolutional neural networks.</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</link>
+      <link>https://geertlitjens.nl/publication/apru-19/</link>
       <pubDate>Mon, 08 Apr 2019 13:58:34 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</guid>
+      <guid>https://geertlitjens.nl/publication/apru-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/pinc-19/</link>
+      <link>https://geertlitjens.nl/publication/pinc-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/pinc-19/</guid>
+      <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</link>
+      <link>https://geertlitjens.nl/publication/bult-18-a/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18-a/</guid>
+      <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</link>
+      <link>https://geertlitjens.nl/publication/bult-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</guid>
+      <guid>https://geertlitjens.nl/publication/bult-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic color unmixing of IHC stained whole slide images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</link>
+      <link>https://geertlitjens.nl/publication/geij-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</guid>
+      <guid>https://geertlitjens.nl/publication/geij-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</link>
+      <link>https://geertlitjens.nl/publication/tell-18-a/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</guid>
+      <guid>https://geertlitjens.nl/publication/tell-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training convolutional neural networks with megapixel images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/pinc-18/</link>
+      <link>https://geertlitjens.nl/publication/pinc-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/pinc-18/</guid>
+      <guid>https://geertlitjens.nl/publication/pinc-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</link>
+      <link>https://geertlitjens.nl/publication/swid-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</guid>
+      <guid>https://geertlitjens.nl/publication/swid-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Different Methods for Tissue Segmentation In Histopathological Whole-Slide Images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/band-17/</link>
+      <link>https://geertlitjens.nl/publication/band-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-17/</guid>
+      <guid>https://geertlitjens.nl/publication/band-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</link>
+      <link>https://geertlitjens.nl/publication/ciom-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</guid>
+      <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated robust registration of grossly misregistered whole-slide images with varying stains</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-16/</link>
+      <link>https://geertlitjens.nl/publication/litj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-16/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A multi-scale superpixel classification approach for region of interest detection in whole slide histopathology images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</link>
+      <link>https://geertlitjens.nl/publication/bejn-15/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</guid>
+      <guid>https://geertlitjens.nl/publication/bejn-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</link>
+      <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguishing benign confounding treatment changes from residual prostate cancer on MRI following laser ablation</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-b/</link>
+      <link>https://geertlitjens.nl/publication/litj-14-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-b/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-14-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguishing prostate cancer from benign confounders via a cascaded classifier on multi-parametric MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-a/</link>
+      <link>https://geertlitjens.nl/publication/litj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-a/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-14-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated computer-aided detection of prostate cancer in MR images: from a whole-organ to a zone-based approach</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12/</link>
+      <link>https://geertlitjens.nl/publication/litj-12/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A multi-atlas approach for prostate segmentation in MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-d/</link>
+      <link>https://geertlitjens.nl/publication/litj-12-d/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-d/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-12-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A pattern recognition approach to zonal segmentation of the prostate on MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</link>
+      <link>https://geertlitjens.nl/publication/litj-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-12-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Computer Aided Detection of Abnormalities in Multi-Parametric Prostate MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-11/</link>
+      <link>https://geertlitjens.nl/publication/litj-11/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-11/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Required accuracy of MR-US registration for prostate biopsies</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ven-11-a/</link>
+      <link>https://geertlitjens.nl/publication/ven-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ven-11-a/</guid>
+      <guid>https://geertlitjens.nl/publication/ven-11-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer aided detection of prostate cancer using T2W, DWI and DCE-MRI: methods and clinical applications</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/huis-10/</link>
+      <link>https://geertlitjens.nl/publication/huis-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/huis-10/</guid>
+      <guid>https://geertlitjens.nl/publication/huis-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pharmacokinetic models in clinical practice: what model to use for DCE-MRI of the breast?</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-10/</link>
+      <link>https://geertlitjens.nl/publication/litj-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-10/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation of nodules and diffuse infiltrates in chest radiographs using CT templates</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-10-a/</link>
+      <link>https://geertlitjens.nl/publication/litj-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-10-a/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-10-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training a Computer Aided Detection System with Simulated Lung Nodules in Chest Radiographs</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/snoe-10/</link>
+      <link>https://geertlitjens.nl/publication/snoe-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/snoe-10/</guid>
+      <guid>https://geertlitjens.nl/publication/snoe-10/</guid>
       <description></description>
     </item>
     

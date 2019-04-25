@@ -2,175 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. van der Laak on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/j.-van-der-laak/</link>
+    <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
     <description>Recent content in J. van der Laak on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/j.-van-der-laak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/j.-van-der-laak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</link>
+      <link>https://geertlitjens.nl/publication/gees-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</guid>
+      <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/band-18/</link>
+      <link>https://geertlitjens.nl/publication/band-18/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-18/</guid>
+      <guid>https://geertlitjens.nl/publication/band-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</link>
+      <link>https://geertlitjens.nl/publication/litj-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</link>
+      <link>https://geertlitjens.nl/publication/bult-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-18/</guid>
+      <guid>https://geertlitjens.nl/publication/bult-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic color unmixing of IHC stained whole slide images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</link>
+      <link>https://geertlitjens.nl/publication/geij-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/geij-18/</guid>
+      <guid>https://geertlitjens.nl/publication/geij-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</link>
+      <link>https://geertlitjens.nl/publication/tell-18-a/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18-a/</guid>
+      <guid>https://geertlitjens.nl/publication/tell-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</link>
+      <link>https://geertlitjens.nl/publication/swid-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/swid-18/</guid>
+      <guid>https://geertlitjens.nl/publication/swid-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</link>
+      <link>https://geertlitjens.nl/publication/ehte-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</guid>
+      <guid>https://geertlitjens.nl/publication/ehte-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-aware stacked convolutional neural networks for classification of breast carcinomas in whole-slide histopathology images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-17-b/</link>
+      <link>https://geertlitjens.nl/publication/bejn-17-b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-17-b/</guid>
+      <guid>https://geertlitjens.nl/publication/bejn-17-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of tongue squamous cell carcinoma resection margins using ex-vivo MR.</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/stee-17/</link>
+      <link>https://geertlitjens.nl/publication/stee-17/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/stee-17/</guid>
+      <guid>https://geertlitjens.nl/publication/stee-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</link>
+      <link>https://geertlitjens.nl/publication/ciom-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</guid>
+      <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Deep Learning in Medical Image Analysis</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-17/</link>
+      <link>https://geertlitjens.nl/publication/litj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-17/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Detection of DCIS in Whole-Slide H&amp;E Stained Breast Histopathology Images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-16-a/</link>
+      <link>https://geertlitjens.nl/publication/ehte-16-a/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-16-a/</guid>
+      <guid>https://geertlitjens.nl/publication/ehte-16-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stain specific standardization of whole-slide histopathological images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</link>
+      <link>https://geertlitjens.nl/publication/ehte-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</guid>
+      <guid>https://geertlitjens.nl/publication/ehte-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-16-c/</link>
+      <link>https://geertlitjens.nl/publication/litj-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-16-c/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A multi-scale superpixel classification approach for region of interest detection in whole slide histopathology images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</link>
+      <link>https://geertlitjens.nl/publication/bejn-15/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bejn-15/</guid>
+      <guid>https://geertlitjens.nl/publication/bejn-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</link>
+      <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>
     

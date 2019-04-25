@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. Maan on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/b.-maan/</link>
+    <link>https://geertlitjens.nl/authors/b.-maan/</link>
     <description>Recent content in B. Maan on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/b.-maan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/b.-maan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14/</link>
+      <link>https://geertlitjens.nl/publication/litj-14/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-14/</guid>
       <description></description>
     </item>
     

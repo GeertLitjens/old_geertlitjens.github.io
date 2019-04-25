@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/tutorial/</link>
+    <link>https://geertlitjens.nl/tags/tutorial/</link>
     <description>Recent content in tutorial on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 16 Sep 2018 09:30:00 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Deep Learning in Medical Imaging</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</link>
+      <link>https://geertlitjens.nl/talk/intro-deep-learning/</link>
       <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</guid>
-      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend .github.io/publication/litj-17/&#34;this publication.</description>
+      <guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid>
+      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend this publication.</description>
     </item>
     
   </channel>

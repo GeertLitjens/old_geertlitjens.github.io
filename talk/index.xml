@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/talk/</link>
+    <link>https://geertlitjens.nl/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Deep Learning in Medical Imaging</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</link>
+      <link>https://geertlitjens.nl/talk/intro-deep-learning/</link>
       <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</guid>
-      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend .github.io/publication/litj-17/&#34;this publication.</description>
+      <guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid>
+      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend this publication.</description>
     </item>
     
     <item>
       <title>Dag van de Pathologie</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</link>
+      <link>https://geertlitjens.nl/talk/dag-van-de-pathologie/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</guid>
+      <guid>https://geertlitjens.nl/talk/dag-van-de-pathologie/</guid>
       <description>This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.
  </description>
     </item>
     
     <item>
       <title>The Digital Doctor</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/kindergeneeskunde/</link>
+      <link>https://geertlitjens.nl/talk/kindergeneeskunde/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/kindergeneeskunde/</guid>
+      <guid>https://geertlitjens.nl/talk/kindergeneeskunde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD Thesis Defense</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/lekenpraatje/</link>
+      <link>https://geertlitjens.nl/talk/lekenpraatje/</link>
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/lekenpraatje/</guid>
+      <guid>https://geertlitjens.nl/talk/lekenpraatje/</guid>
       <description>In Nijmegen it is typical to give a 10-minute layman&amp;rsquo;s presentation on your PhD research before the start of official defense.</description>
     </item>
     

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/author/geert/</link>
+    <link>https://geertlitjens.nl/author/geert/</link>
     <description>Recent content on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="https://<USERNAME>.github.io/author/geert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/author/geert/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

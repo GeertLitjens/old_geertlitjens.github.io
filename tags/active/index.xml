@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/active/</link>
+    <link>https://geertlitjens.nl/tags/active/</link>
     <description>Recent content in Active on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 May 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/tags/active/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep PCa</title>
-      <link>https://&lt;USERNAME&gt;.github.io/project/deeppca/</link>
+      <link>https://geertlitjens.nl/project/deeppca/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/project/deeppca/</guid>
+      <guid>https://geertlitjens.nl/project/deeppca/</guid>
       <description>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.</description>
     </item>
     
     <item>
       <title>CAMELYON</title>
-      <link>https://&lt;USERNAME&gt;.github.io/project/camelyon/</link>
+      <link>https://geertlitjens.nl/project/camelyon/</link>
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/project/camelyon/</guid>
+      <guid>https://geertlitjens.nl/project/camelyon/</guid>
       <description>Overview Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.
 The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists.</description>
     </item>
     
     <item>
       <title>ASAP</title>
-      <link>https://&lt;USERNAME&gt;.github.io/project/asap/</link>
+      <link>https://geertlitjens.nl/project/asap/</link>
       <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/project/asap/</guid>
+      <guid>https://geertlitjens.nl/project/asap/</guid>
       <description>ASAP (Automated Slide Analysis Platform) was developed by the Computation Pathology Group, part of the Diagnostic Image Analysis Group, at the Radboud University Medical Center. It was started after frustration with the current freely available software for annotating multi-resolution digital pathology images. For more details head to the project site.</description>
     </item>
     

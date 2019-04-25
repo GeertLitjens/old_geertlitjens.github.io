@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W. Vreuls on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/w.-vreuls/</link>
+    <link>https://geertlitjens.nl/authors/w.-vreuls/</link>
     <description>Recent content in W. Vreuls on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/w.-vreuls/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/w.-vreuls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/band-18/</link>
+      <link>https://geertlitjens.nl/publication/band-18/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/band-18/</guid>
+      <guid>https://geertlitjens.nl/publication/band-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>
     

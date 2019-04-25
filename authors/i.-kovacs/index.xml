@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Kovacs on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/i.-kovacs/</link>
+    <link>https://geertlitjens.nl/authors/i.-kovacs/</link>
     <description>Recent content in I. Kovacs on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/i.-kovacs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/i.-kovacs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-16-c/</link>
+      <link>https://geertlitjens.nl/publication/litj-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-16-c/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</link>
+      <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-15/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguishing prostate cancer from benign confounders via a cascaded classifier on multi-parametric MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14-a/</link>
+      <link>https://geertlitjens.nl/publication/litj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14-a/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-14-a/</guid>
       <description></description>
     </item>
     

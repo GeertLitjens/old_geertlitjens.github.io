@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/post/</link>
+    <link>https://geertlitjens.nl/post/</link>
     <description>Recent content in Posts on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started With Camelyon (Part 1)</title>
-      <link>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</link>
+      <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</guid>
+      <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
       <description>This is the first part of a three part tutorial on how to get started with the CAMELYON dataset. This first part will focus on getting a basic convolutional neural network trained using PatchCAMELYON, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.</description>
     </item>
     
     <item>
       <title>CAMELYON for Elementary School</title>
-      <link>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</link>
+      <link>https://geertlitjens.nl/post/ml-for-elementary-school/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</guid>
+      <guid>https://geertlitjens.nl/post/ml-for-elementary-school/</guid>
       <description>In 2018 Jeroen van der Laak and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the Radboud Wetenschapsknooppunt and two of our PhD students: Meyke Hermsen and Maschenka Balkenhol.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/software/</link>
+    <link>https://geertlitjens.nl/tags/software/</link>
     <description>Recent content in Software on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Apr 2014 12:25:34 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ASAP</title>
-      <link>https://&lt;USERNAME&gt;.github.io/project/asap/</link>
+      <link>https://geertlitjens.nl/project/asap/</link>
       <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/project/asap/</guid>
+      <guid>https://geertlitjens.nl/project/asap/</guid>
       <description>ASAP (Automated Slide Analysis Platform) was developed by the Computation Pathology Group, part of the Diagnostic Image Analysis Group, at the Radboud University Medical Center. It was started after frustration with the current freely available software for annotating multi-resolution digital pathology images. For more details head to the project site.</description>
     </item>
     

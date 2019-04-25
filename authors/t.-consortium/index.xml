@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>t. Consortium on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/t.-consortium/</link>
+    <link>https://geertlitjens.nl/authors/t.-consortium/</link>
     <description>Recent content in t. Consortium on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/t.-consortium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/t.-consortium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</link>
+      <link>https://geertlitjens.nl/publication/ehte-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-17/</guid>
+      <guid>https://geertlitjens.nl/publication/ehte-17/</guid>
       <description></description>
     </item>
     

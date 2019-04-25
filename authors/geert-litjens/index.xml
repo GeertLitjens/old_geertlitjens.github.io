@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/geert-litjens/</link>
+    <link>https://geertlitjens.nl/authors/geert-litjens/</link>
     <description>Recent content on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/geert-litjens/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/geert-litjens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started With Camelyon (Part 1)</title>
-      <link>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</link>
+      <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/post/getting-started-with-camelyon/</guid>
+      <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
       <description>This is the first part of a three part tutorial on how to get started with the CAMELYON dataset. This first part will focus on getting a basic convolutional neural network trained using PatchCAMELYON, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.</description>
     </item>
     
     <item>
       <title>CAMELYON for Elementary School</title>
-      <link>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</link>
+      <link>https://geertlitjens.nl/post/ml-for-elementary-school/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/post/ml-for-elementary-school/</guid>
+      <guid>https://geertlitjens.nl/post/ml-for-elementary-school/</guid>
       <description>In 2018 Jeroen van der Laak and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the Radboud Wetenschapsknooppunt and two of our PhD students: Meyke Hermsen and Maschenka Balkenhol.</description>
     </item>
     
     <item>
       <title>Robust and accurate quantification of biomarkers of immune cells in lung cancer micro-environment using deep convolutional neural networks.</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</link>
+      <link>https://geertlitjens.nl/publication/apru-19/</link>
       <pubDate>Mon, 08 Apr 2019 13:58:34 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/apru-19/</guid>
+      <guid>https://geertlitjens.nl/publication/apru-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Deep Learning in Medical Imaging</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</link>
+      <link>https://geertlitjens.nl/talk/intro-deep-learning/</link>
       <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/intro-deep-learning/</guid>
-      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend .github.io/publication/litj-17/&#34;this publication.</description>
+      <guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid>
+      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend this publication.</description>
     </item>
     
     <item>
       <title>Dag van de Pathologie</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</link>
+      <link>https://geertlitjens.nl/talk/dag-van-de-pathologie/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/dag-van-de-pathologie/</guid>
+      <guid>https://geertlitjens.nl/talk/dag-van-de-pathologie/</guid>
       <description>This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.
  </description>
     </item>
     
     <item>
       <title>The Digital Doctor</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/kindergeneeskunde/</link>
+      <link>https://geertlitjens.nl/talk/kindergeneeskunde/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/kindergeneeskunde/</guid>
+      <guid>https://geertlitjens.nl/talk/kindergeneeskunde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD Thesis Defense</title>
-      <link>https://&lt;USERNAME&gt;.github.io/talk/lekenpraatje/</link>
+      <link>https://geertlitjens.nl/talk/lekenpraatje/</link>
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/talk/lekenpraatje/</guid>
+      <guid>https://geertlitjens.nl/talk/lekenpraatje/</guid>
       <description>In Nijmegen it is typical to give a 10-minute layman&amp;rsquo;s presentation on your PhD research before the start of official defense.</description>
     </item>
     

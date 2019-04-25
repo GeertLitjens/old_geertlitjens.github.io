@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Bándi on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/p.-b%C3%A1ndi/</link>
+    <link>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</link>
     <description>Recent content in P. Bándi on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/p.-b%C3%A1ndi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/p.-b%C3%A1ndi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</link>
+      <link>https://geertlitjens.nl/publication/bult-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/bult-19/</guid>
+      <guid>https://geertlitjens.nl/publication/bult-19/</guid>
       <description></description>
     </item>
     

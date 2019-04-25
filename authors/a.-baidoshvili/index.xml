@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Baidoshvili on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/a.-baidoshvili/</link>
+    <link>https://geertlitjens.nl/authors/a.-baidoshvili/</link>
     <description>Recent content in A. Baidoshvili on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/a.-baidoshvili/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/a.-baidoshvili/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</link>
+      <link>https://geertlitjens.nl/publication/gees-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/gees-19/</guid>
+      <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</link>
+      <link>https://geertlitjens.nl/publication/litj-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-18/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</link>
+      <link>https://geertlitjens.nl/publication/ciom-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ciom-17/</guid>
+      <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
     </item>
     

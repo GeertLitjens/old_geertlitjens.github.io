@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W. van de Ven on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/w.-van-de-ven/</link>
+    <link>https://geertlitjens.nl/authors/w.-van-de-ven/</link>
     <description>Recent content in W. van de Ven on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/w.-van-de-ven/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/w.-van-de-ven/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-14/</link>
+      <link>https://geertlitjens.nl/publication/litj-14/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-14/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A pattern recognition approach to zonal segmentation of the prostate on MRI</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</link>
+      <link>https://geertlitjens.nl/publication/litj-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/litj-12-a/</guid>
+      <guid>https://geertlitjens.nl/publication/litj-12-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Required accuracy of MR-US registration for prostate biopsies</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ven-11-a/</link>
+      <link>https://geertlitjens.nl/publication/ven-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ven-11-a/</guid>
+      <guid>https://geertlitjens.nl/publication/ven-11-a/</guid>
       <description></description>
     </item>
     

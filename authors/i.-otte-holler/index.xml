@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Otte-Holler on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/i.-otte-holler/</link>
+    <link>https://geertlitjens.nl/authors/i.-otte-holler/</link>
     <description>Recent content in I. Otte-Holler on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/i.-otte-holler/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/i.-otte-holler/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</link>
+      <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/tell-18/</guid>
+      <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stain specific standardization of whole-slide histopathological images</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</link>
+      <link>https://geertlitjens.nl/publication/ehte-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ehte-16/</guid>
+      <guid>https://geertlitjens.nl/publication/ehte-16/</guid>
       <description></description>
     </item>
     

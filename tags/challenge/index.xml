@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Challenge on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/challenge/</link>
+    <link>https://geertlitjens.nl/tags/challenge/</link>
     <description>Recent content in Challenge on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 22 Jan 2016 22:00:35 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CAMELYON</title>
-      <link>https://&lt;USERNAME&gt;.github.io/project/camelyon/</link>
+      <link>https://geertlitjens.nl/project/camelyon/</link>
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/project/camelyon/</guid>
+      <guid>https://geertlitjens.nl/project/camelyon/</guid>
       <description>Overview Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.
 The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists.</description>
     </item>

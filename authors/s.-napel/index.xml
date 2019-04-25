@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Napel on Geert Litjens</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/s.-napel/</link>
+    <link>https://geertlitjens.nl/authors/s.-napel/</link>
     <description>Recent content in S. Napel on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://<USERNAME>.github.io/authors/s.-napel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geertlitjens.nl/authors/s.-napel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A large annotated medical image dataset for the development and evaluation of segmentation algorithms</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/simp-19/</link>
+      <link>https://geertlitjens.nl/publication/simp-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/simp-19/</guid>
+      <guid>https://geertlitjens.nl/publication/simp-19/</guid>
       <description></description>
     </item>
     
