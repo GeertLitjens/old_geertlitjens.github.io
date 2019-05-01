@@ -18,8 +18,7 @@
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
       
       <guid>https://geertlitjens.nl/project/camelyon/</guid>
-      <description>Overview Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.
-The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists.</description>
+      <description>Detection of breast cancer metastases in lymph nodes.</description>
     </item>
     
   </channel>

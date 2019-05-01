@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,7 +24,7 @@
     <item>
       <title>Bessensap</title>
       <link>https://geertlitjens.nl/talk/bessensap/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/talk/bessensap/</guid>
       <description></description>
@@ -33,17 +33,17 @@
     <item>
       <title>Dag van de Pathologie</title>
       <link>https://geertlitjens.nl/talk/dag-van-de-pathologie/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/talk/dag-van-de-pathologie/</guid>
       <description>This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.
- </description>
+  </description>
     </item>
     
     <item>
       <title>The Digital Doctor</title>
       <link>https://geertlitjens.nl/talk/kindergeneeskunde/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/talk/kindergeneeskunde/</guid>
       <description></description>
@@ -52,7 +52,7 @@
     <item>
       <title>PhD Thesis Defense</title>
       <link>https://geertlitjens.nl/talk/lekenpraatje/</link>
-      <pubDate>Fri, 23 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/talk/lekenpraatje/</guid>
       <description>In Nijmegen it is typical to give a 10-minute layman&amp;rsquo;s presentation on your PhD research before the start of official defense.</description>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. Hulsbergen-van de Kaa on Geert Litjens</title>
+    <title>C. Hulsbergen - van de Kaa on Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/c.-hulsbergen-van-de-kaa/</link>
-    <description>Recent content in C. Hulsbergen-van de Kaa on Geert Litjens</description>
+    <description>Recent content in C. Hulsbergen - van de Kaa on Geert Litjens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/authors/c.-hulsbergen-van-de-kaa/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
+      <link>https://geertlitjens.nl/publication/bult-18/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/publication/bult-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer-extracted Features Can Distinguish Noncancerous Confounding Disease from Prostatic Adenocarcinoma at Multiparametric MR Imaging.</title>
       <link>https://geertlitjens.nl/publication/litj-16-b/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-16-b/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
       <link>https://geertlitjens.nl/publication/litj-16-c/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>Multiparametric Magnetic Resonance Imaging for Discriminating Low-Grade From High-Grade Prostate Cancer</title>
       <link>https://geertlitjens.nl/publication/vos-15/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/vos-15/</guid>
       <description></description>
@@ -51,18 +60,36 @@
     <item>
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
       <link>https://geertlitjens.nl/publication/litj-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Distinguishing prostate cancer from benign confounders via a cascaded classifier on multi-parametric MRI</title>
+      <link>https://geertlitjens.nl/publication/litj-14-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/publication/litj-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpatient Variation in Normal Peripheral Zone Apparent Diffusion Coefficient: Effect on the Prediction of Prostate Cancer Aggressiveness</title>
       <link>https://geertlitjens.nl/publication/litj-12-b/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-12-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic contrast enhanced MR imaging for the assessment of prostate cancer aggressiveness at 3T</title>
+      <link>https://geertlitjens.nl/publication/vos-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/publication/vos-12/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 16 Sep 2018 09:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started With Camelyon (Part 1)</title>
+      <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
+      <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
+      <description>This post is the first of a three post series on using deep learning to tackle the CAMELYON Challenge. This first post covers basic convolutional neural network training using the PatchCAMELYON dataset and TensorFlow 2.0.</description>
+    </item>
     
     <item>
       <title>Introduction to Deep Learning in Medical Imaging</title>

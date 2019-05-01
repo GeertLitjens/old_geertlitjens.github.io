@@ -7,55 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Active</title>
-      <link>https://geertlitjens.nl/tags/active/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adenocarcinoma</title>
-      <link>https://geertlitjens.nl/tags/adenocarcinoma/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/adenocarcinoma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithms; Computer Simulation; Humans; Imaging</title>
-      <link>https://geertlitjens.nl/tags/algorithms-computer-simulation-humans-imaging/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/algorithms-computer-simulation-humans-imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biological; Radiographic Image Enhancement</title>
-      <link>https://geertlitjens.nl/tags/biological-radiographic-image-enhancement/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/biological-radiographic-image-enhancement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography</title>
-      <link>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CAMELYON</title>
@@ -63,258 +18,6 @@
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
       <guid>https://geertlitjens.nl/tags/camelyon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cancer;Computed tomography;Design automation;Feature extraction;Lesions;Lungs;Solids;computed tomography;computer-aided detection;convolutional networks;deep learning;lung cancer;pulmonary nodule</title>
-      <link>https://geertlitjens.nl/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenge</title>
-      <link>https://geertlitjens.nl/tags/challenge/</link>
-      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/challenge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Pathology</title>
-      <link>https://geertlitjens.nl/tags/computational-pathology/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/computational-pathology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-Assisted</title>
-      <link>https://geertlitjens.nl/tags/computer-assisted/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/computer-assisted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://geertlitjens.nl/tags/deep-learning/</link>
-      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differential; Humans; Magnetic Resonance Imaging</title>
-      <link>https://geertlitjens.nl/tags/differential-humans-magnetic-resonance-imaging/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/differential-humans-magnetic-resonance-imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ex-vivo; Magnetic resonance imaging; Squamous cell carcinoma; Tongue; Validation</title>
-      <link>https://geertlitjens.nl/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HNSCC; MAGE; cancer-testis antigens; head and neck squamous cell carcinoma; melanoma-associated antigen</title>
-      <link>https://geertlitjens.nl/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lymph Nodes</title>
-      <link>https://geertlitjens.nl/tags/lymph-nodes/</link>
-      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/lymph-nodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lymph node metastases; MR lymphography; Prostate cancer; USPIO contrast agents</title>
-      <link>https://geertlitjens.nl/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MR-US registration; accuracy; hotspot; prostate biopsy</title>
-      <link>https://geertlitjens.nl/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MRI; breast segmentation; deep learning</title>
-      <link>https://geertlitjens.nl/tags/mri-breast-segmentation-deep-learning/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/mri-breast-segmentation-deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://geertlitjens.nl/tags/machine-learning/</link>
-      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medical Imaging</title>
-      <link>https://geertlitjens.nl/tags/medical-imaging/</link>
-      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/medical-imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metastases</title>
-      <link>https://geertlitjens.nl/tags/metastases/</link>
-      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/metastases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open-Source</title>
-      <link>https://geertlitjens.nl/tags/open-source/</link>
-      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prostate Cancer</title>
-      <link>https://geertlitjens.nl/tags/prostate-cancer/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/prostate-cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://geertlitjens.nl/tags/software/</link>
-      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thoracic</title>
-      <link>https://geertlitjens.nl/tags/thoracic/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/thoracic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three-Dimensional</title>
-      <link>https://geertlitjens.nl/tags/three-dimensional/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/three-dimensional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://geertlitjens.nl/tags/tutorial/</link>
-      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viewer</title>
-      <link>https://geertlitjens.nl/tags/viewer/</link>
-      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/viewer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X-Ray Computed</title>
-      <link>https://geertlitjens.nl/tags/x-ray-computed/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/x-ray-computed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>breast cancer</title>
-      <link>https://geertlitjens.nl/tags/breast-cancer/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/breast-cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diagnosis/pathology/surgery; Aged; Diagnosis</title>
-      <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diagnosis/pathology/surgery; Retrospective Studies</title>
-      <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>elementary school</title>
-      <link>https://geertlitjens.nl/tags/elementary-school/</link>
-      <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/elementary-school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>histopathology</title>
-      <link>https://geertlitjens.nl/tags/histopathology/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/histopathology/</guid>
       <description></description>
     </item>
     
@@ -328,65 +31,20 @@
     </item>
     
     <item>
-      <title>methods</title>
-      <link>https://geertlitjens.nl/tags/methods/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <title>tutorial</title>
+      <link>https://geertlitjens.nl/tags/tutorial/</link>
+      <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
-      <guid>https://geertlitjens.nl/tags/methods/</guid>
+      <guid>https://geertlitjens.nl/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>methods; Lung Diseases</title>
-      <link>https://geertlitjens.nl/tags/methods-lung-diseases/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <title>elementary school</title>
+      <link>https://geertlitjens.nl/tags/elementary-school/</link>
+      <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       
-      <guid>https://geertlitjens.nl/tags/methods-lung-diseases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms</title>
-      <link>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods; Radiographic Image Interpretation</title>
-      <link>https://geertlitjens.nl/tags/methods-radiographic-image-interpretation/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/methods-radiographic-image-interpretation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods; Radiography</title>
-      <link>https://geertlitjens.nl/tags/methods-radiography/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/methods-radiography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods; Reproducibility of Results; Sensitivity and Specificity; Tomography</title>
-      <link>https://geertlitjens.nl/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multi-scale superpixels</title>
-      <link>https://geertlitjens.nl/tags/multi-scale-superpixels/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/multi-scale-superpixels/</guid>
+      <guid>https://geertlitjens.nl/tags/elementary-school/</guid>
       <description></description>
     </item>
     
@@ -400,24 +58,6 @@
     </item>
     
     <item>
-      <title>radiography; Models</title>
-      <link>https://geertlitjens.nl/tags/radiography-models/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/radiography-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>region of interest</title>
-      <link>https://geertlitjens.nl/tags/region-of-interest/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://geertlitjens.nl/tags/region-of-interest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>teaching</title>
       <link>https://geertlitjens.nl/tags/teaching/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
@@ -427,20 +67,362 @@
     </item>
     
     <item>
-      <title>tutorial</title>
-      <link>https://geertlitjens.nl/tags/tutorial/</link>
+      <title>Deep Learning</title>
+      <link>https://geertlitjens.nl/tags/deep-learning/</link>
       <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
       
-      <guid>https://geertlitjens.nl/tags/tutorial/</guid>
+      <guid>https://geertlitjens.nl/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Imaging</title>
+      <link>https://geertlitjens.nl/tags/medical-imaging/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ex-vivo; Magnetic resonance imaging; Squamous cell carcinoma; Tongue; Validation</title>
+      <link>https://geertlitjens.nl/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/ex-vivo-magnetic-resonance-imaging-squamous-cell-carcinoma-tongue-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI; breast segmentation; deep learning</title>
+      <link>https://geertlitjens.nl/tags/mri-breast-segmentation-deep-learning/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/mri-breast-segmentation-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography</title>
+      <link>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HNSCC; MAGE; cancer-testis antigens; head and neck squamous cell carcinoma; melanoma-associated antigen</title>
+      <link>https://geertlitjens.nl/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/hnscc-mage-cancer-testis-antigens-head-and-neck-squamous-cell-carcinoma-melanoma-associated-antigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lymph node metastases; MR lymphography; Prostate cancer; USPIO contrast agents</title>
+      <link>https://geertlitjens.nl/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/lymph-node-metastases-mr-lymphography-prostate-cancer-uspio-contrast-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active</title>
+      <link>https://geertlitjens.nl/tags/active/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Pathology</title>
+      <link>https://geertlitjens.nl/tags/computational-pathology/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/computational-pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prostate Cancer</title>
+      <link>https://geertlitjens.nl/tags/prostate-cancer/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/prostate-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenge</title>
+      <link>https://geertlitjens.nl/tags/challenge/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lymph Nodes</title>
+      <link>https://geertlitjens.nl/tags/lymph-nodes/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/lymph-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metastases</title>
+      <link>https://geertlitjens.nl/tags/metastases/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/metastases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adenocarcinoma</title>
+      <link>https://geertlitjens.nl/tags/adenocarcinoma/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/adenocarcinoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer;Computed tomography;Design automation;Feature extraction;Lesions;Lungs;Solids;computed tomography;computer-aided detection;convolutional networks;deep learning;lung cancer;pulmonary nodule</title>
+      <link>https://geertlitjens.nl/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/cancercomputed-tomographydesign-automationfeature-extractionlesionslungssolidscomputed-tomographycomputer-aided-detectionconvolutional-networksdeep-learninglung-cancerpulmonary-nodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential; Humans; Magnetic Resonance Imaging</title>
+      <link>https://geertlitjens.nl/tags/differential-humans-magnetic-resonance-imaging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/differential-humans-magnetic-resonance-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagnosis/pathology/surgery; Aged; Diagnosis</title>
+      <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagnosis/pathology/surgery; Retrospective Studies</title>
+      <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms</title>
+      <link>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breast cancer</title>
+      <link>https://geertlitjens.nl/tags/breast-cancer/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/breast-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>histopathology</title>
+      <link>https://geertlitjens.nl/tags/histopathology/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/histopathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-scale superpixels</title>
+      <link>https://geertlitjens.nl/tags/multi-scale-superpixels/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/multi-scale-superpixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>region of interest</title>
+      <link>https://geertlitjens.nl/tags/region-of-interest/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/region-of-interest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>whole-slide imaging</title>
       <link>https://geertlitjens.nl/tags/whole-slide-imaging/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/tags/whole-slide-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://geertlitjens.nl/tags/open-source/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://geertlitjens.nl/tags/software/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewer</title>
+      <link>https://geertlitjens.nl/tags/viewer/</link>
+      <pubDate>Tue, 01 Apr 2014 12:25:34 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/viewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR-US registration; accuracy; hotspot; prostate biopsy</title>
+      <link>https://geertlitjens.nl/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/mr-us-registration-accuracy-hotspot-prostate-biopsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms; Computer Simulation; Humans; Imaging</title>
+      <link>https://geertlitjens.nl/tags/algorithms-computer-simulation-humans-imaging/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/algorithms-computer-simulation-humans-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological; Radiographic Image Enhancement</title>
+      <link>https://geertlitjens.nl/tags/biological-radiographic-image-enhancement/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/biological-radiographic-image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-Assisted</title>
+      <link>https://geertlitjens.nl/tags/computer-assisted/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/computer-assisted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoracic</title>
+      <link>https://geertlitjens.nl/tags/thoracic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/thoracic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional</title>
+      <link>https://geertlitjens.nl/tags/three-dimensional/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/three-dimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Ray Computed</title>
+      <link>https://geertlitjens.nl/tags/x-ray-computed/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/x-ray-computed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods</title>
+      <link>https://geertlitjens.nl/tags/methods/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Lung Diseases</title>
+      <link>https://geertlitjens.nl/tags/methods-lung-diseases/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods-lung-diseases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Radiographic Image Interpretation</title>
+      <link>https://geertlitjens.nl/tags/methods-radiographic-image-interpretation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods-radiographic-image-interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Radiography</title>
+      <link>https://geertlitjens.nl/tags/methods-radiography/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods-radiography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods; Reproducibility of Results; Sensitivity and Specificity; Tomography</title>
+      <link>https://geertlitjens.nl/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/methods-reproducibility-of-results-sensitivity-and-specificity-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiography; Models</title>
+      <link>https://geertlitjens.nl/tags/radiography-models/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/tags/radiography-models/</guid>
       <description></description>
     </item>
     

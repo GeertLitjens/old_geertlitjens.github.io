@@ -18,7 +18,34 @@
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       
       <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
-      <description>This is the first part of a three part tutorial on how to get started with the CAMELYON dataset. This first part will focus on getting a basic convolutional neural network trained using PatchCAMELYON, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.</description>
+      <description>This post is the first of a three post series on using deep learning to tackle the CAMELYON Challenge. This first post covers basic convolutional neural network training using the PatchCAMELYON dataset and TensorFlow 2.0.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning in Medical Imaging</title>
+      <link>https://geertlitjens.nl/talk/intro-deep-learning/</link>
+      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
+      
+      <guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid>
+      <description>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend this publication.</description>
+    </item>
+    
+    <item>
+      <title>Deep PCa</title>
+      <link>https://geertlitjens.nl/project/deeppca/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/project/deeppca/</guid>
+      <description>Less unnecessary therapy for prostate cancer patients.</description>
+    </item>
+    
+    <item>
+      <title>CAMELYON</title>
+      <link>https://geertlitjens.nl/project/camelyon/</link>
+      <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
+      
+      <guid>https://geertlitjens.nl/project/camelyon/</guid>
+      <description>Detection of breast cancer metastases in lymph nodes.</description>
     </item>
     
   </channel>

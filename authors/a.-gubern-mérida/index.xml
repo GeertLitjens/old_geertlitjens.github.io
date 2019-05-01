@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/authors/a.-gubern-m%C3%A9rida/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Using deep learning to segment breast and fibroglandular tissue in MRI volumes</title>
       <link>https://geertlitjens.nl/publication/dalm-17/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/dalm-17/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Large scale deep learning for computer aided detection of mammographic lesions</title>
       <link>https://geertlitjens.nl/publication/kooi-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/kooi-17/</guid>
       <description></description>

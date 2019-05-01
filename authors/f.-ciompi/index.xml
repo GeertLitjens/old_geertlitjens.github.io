@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/authors/f.-ciompi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
       <link>https://geertlitjens.nl/publication/gees-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
       <link>https://geertlitjens.nl/publication/tell-18/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
       <link>https://geertlitjens.nl/publication/tell-18-a/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/tell-18-a/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
       <link>https://geertlitjens.nl/publication/swid-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/swid-18/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Comparison of Different Methods for Tissue Segmentation In Histopathological Whole-Slide Images</title>
       <link>https://geertlitjens.nl/publication/band-17/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/band-17/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
       <link>https://geertlitjens.nl/publication/ciom-17/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>A Survey on Deep Learning in Medical Image Analysis</title>
       <link>https://geertlitjens.nl/publication/litj-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-17/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks</title>
       <link>https://geertlitjens.nl/publication/seti-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/seti-16/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/authors/t.-kooi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Survey on Deep Learning in Medical Image Analysis</title>
       <link>https://geertlitjens.nl/publication/litj-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/litj-17/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Large scale deep learning for computer aided detection of mammographic lesions</title>
       <link>https://geertlitjens.nl/publication/kooi-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/kooi-17/</guid>
       <description></description>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geert Litjens on Geert Litjens</title>
@@ -314,7 +313,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
       <description></description>
@@ -323,7 +322,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>A large annotated medical image dataset for the development and evaluation of segmentation algorithms</title>
       <link>https://geertlitjens.nl/publication/simp-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/simp-19/</guid>
       <description></description>
@@ -332,7 +331,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>CV</title>
       <link>https://geertlitjens.nl/cv/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/cv/</guid>
       <description></description>
@@ -341,7 +340,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
       <link>https://geertlitjens.nl/publication/gees-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
@@ -350,7 +349,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
       <link>https://geertlitjens.nl/publication/bult-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-19/</guid>
       <description></description>
@@ -359,7 +358,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</title>
       <link>https://geertlitjens.nl/publication/pinc-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
       <description></description>
@@ -384,7 +383,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
       <link>https://geertlitjens.nl/publication/band-18/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/band-18/</guid>
       <description></description>
@@ -393,7 +392,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>BNR Wetenschap Vandaag - Zomercollege</title>
       <link>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</guid>
       <description>
@@ -407,7 +406,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
       <link>https://geertlitjens.nl/publication/bult-18-a/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
@@ -416,7 +415,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>Bessensap</title>
       <link>https://geertlitjens.nl/talk/bessensap/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/talk/bessensap/</guid>
       <description></description>
@@ -425,7 +424,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
     <item>
       <title>BNR Beter - Interview</title>
       <link>https://geertlitjens.nl/media/beter-interview/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/media/beter-interview/</guid>
       <description>

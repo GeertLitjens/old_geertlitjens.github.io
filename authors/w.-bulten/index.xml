@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geertlitjens.nl/authors/w.-bulten/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
       <link>https://geertlitjens.nl/publication/bult-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-19/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</title>
       <link>https://geertlitjens.nl/publication/pinc-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
       <link>https://geertlitjens.nl/publication/bult-18-a/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
       <link>https://geertlitjens.nl/publication/bult-18/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geertlitjens.nl/publication/bult-18/</guid>
       <description></description>
