@@ -2,6 +2,25 @@
   
     <url>
     
+      <loc>https://geertlitjens.nl/</loc>
+      <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://geertlitjens.nl/media/</loc>
+      <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://geertlitjens.nl/media/omroep_gelderland_interview/</loc>
+      <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://geertlitjens.nl/authors/</loc>
       <lastmod>2019-04-24T13:41:43+02:00</lastmod>
       <priority>0</priority>
@@ -17,13 +36,6 @@
     <url>
     
       <loc>https://geertlitjens.nl/authors/geert-litjens/</loc>
-      <lastmod>2019-04-24T13:41:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://geertlitjens.nl/</loc>
       <lastmod>2019-04-24T13:41:43+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -747,12 +759,6 @@
     <url>
     
       <loc>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</loc>
-      <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://geertlitjens.nl/media/</loc>
       <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     </url>
   

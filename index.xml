@@ -6,8 +6,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Report on Omroep Gelderland on &#39;De Nieuwe Mens&#39;</title>
+      <link>https://geertlitjens.nl/media/omroep_gelderland_interview/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geertlitjens.nl/media/omroep_gelderland_interview/</guid>
+      <description>&lt;p&gt;Above you can find the full link to the article and the video on the Omroep Gelderland website (via the Video button). For convenience I have also uploaded the video to YouTube, which you can see here:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/3dt-E1vBr94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland which covers our research in a bit more detail. It is hosted on SoundCloud and can be listened here:&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614820420&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Getting Started With Camelyon (Part 1)</title>
@@ -419,20 +439,6 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       
       <guid>https://geertlitjens.nl/talk/bessensap/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>BNR Beter - Interview</title>
-      <link>https://geertlitjens.nl/media/beter-interview/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geertlitjens.nl/media/beter-interview/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nh5ruSNs37Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
     </item>
     
   </channel>
