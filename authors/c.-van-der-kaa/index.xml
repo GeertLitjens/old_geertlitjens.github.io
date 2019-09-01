@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. van der Kaa on Geert Litjens</title>
+    <title>C. van der Kaa | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/c.-van-der-kaa/</link>
-    <description>Recent content in C. van der Kaa on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/c.-van-der-kaa/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/c.-van-der-kaa/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. van der Kaa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>C. van der Kaa</title>
+      <link>https://geertlitjens.nl/authors/c.-van-der-kaa/</link>
+    </image>
     
     <item>
       <title>Evaluation of tongue squamous cell carcinoma resection margins using ex-vivo MR.</title>
       <link>https://geertlitjens.nl/publication/stee-17/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/stee-17/</guid>
       <description></description>
     </item>

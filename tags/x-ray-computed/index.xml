@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>X-Ray Computed on Geert Litjens</title>
+    <title>X-Ray Computed | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/x-ray-computed/</link>
-    <description>Recent content in X-Ray Computed on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/tags/x-ray-computed/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/tags/x-ray-computed/index.xml" rel="self" type="application/rss+xml" />
+    <description>X-Ray Computed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>X-Ray Computed</title>
+      <link>https://geertlitjens.nl/tags/x-ray-computed/</link>
+    </image>
     
     <item>
       <title>Simulation of nodules and diffuse infiltrates in chest radiographs using CT templates</title>
       <link>https://geertlitjens.nl/publication/litj-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-10-a/</guid>
       <description></description>
     </item>

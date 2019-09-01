@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. Swadi on Geert Litjens</title>
+    <title>G. Swadi | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/g.-swadi/</link>
-    <description>Recent content in G. Swadi on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/g.-swadi/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/g.-swadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Swadi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>G. Swadi</title>
+      <link>https://geertlitjens.nl/authors/g.-swadi/</link>
+    </image>
     
     <item>
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
       <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>

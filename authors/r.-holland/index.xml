@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. Holland on Geert Litjens</title>
+    <title>R. Holland | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/r.-holland/</link>
-    <description>Recent content in R. Holland on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/r.-holland/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/r.-holland/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Holland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>R. Holland</title>
+      <link>https://geertlitjens.nl/authors/r.-holland/</link>
+    </image>
     
     <item>
       <title>Automated Detection of DCIS in Whole-Slide H&amp;E Stained Breast Histopathology Images</title>
       <link>https://geertlitjens.nl/publication/ehte-16-a/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-16-a/</guid>
       <description></description>
     </item>

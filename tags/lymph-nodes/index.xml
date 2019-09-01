@@ -1,24 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lymph Nodes on Geert Litjens</title>
+    <title>Lymph Nodes | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/lymph-nodes/</link>
-    <description>Recent content in Lymph Nodes on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 22 Jan 2016 22:00:35 +0100</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/tags/lymph-nodes/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/tags/lymph-nodes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lymph Nodes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 22 Jan 2016 22:00:35 +0100</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>Lymph Nodes</title>
+      <link>https://geertlitjens.nl/tags/lymph-nodes/</link>
+    </image>
     
     <item>
       <title>CAMELYON</title>
       <link>https://geertlitjens.nl/project/camelyon/</link>
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
-      
       <guid>https://geertlitjens.nl/project/camelyon/</guid>
-      <description>Detection of breast cancer metastases in lymph nodes.</description>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.&lt;/p&gt;
+
+&lt;p&gt;The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists. The presence of metastases in lymph nodes has therapeutic implications for breast cancer patients. Therefore, an automated solution would hold great promise to reduce the workload of pathologists while at the same time reduce the subjectivity in diagnosis.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
+
+&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Detection of breast cancer metastases in lymph nodes.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
+
+&lt;p&gt;The TNM system is an internationally accepted means to classify the extent of cancer spread in patients with a solid tumour. It is one of the most important tools for clinicians to help them select a suitable treatment option and to obtain an indication of prognosis. Since the histological assessment of lymph node metastases is an essential part of TNM classification, CAMELYON17 will focus on the pathologic N-stage, in short: pN-stage.&lt;/p&gt;
+
+&lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
+
+&lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
+
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+
+&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

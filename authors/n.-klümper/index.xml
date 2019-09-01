@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. Klümper on Geert Litjens</title>
+    <title>N. Klümper | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/n.-kl%C3%BCmper/</link>
-    <description>Recent content in N. Klümper on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/n.-kl%C3%BCmper/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/n.-kl%C3%BCmper/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Klümper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>N. Klümper</title>
+      <link>https://geertlitjens.nl/authors/n.-kl%C3%BCmper/</link>
+    </image>
     
     <item>
       <title>MAGE expression in head and neck squamous cell carcinoma primary tumors, lymph node metastases and respective recurrences: implications for immunotherapy</title>
       <link>https://geertlitjens.nl/publication/laba-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/laba-17/</guid>
       <description></description>
     </item>

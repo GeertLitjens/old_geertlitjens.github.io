@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diagnosis/pathology/surgery; Retrospective Studies on Geert Litjens</title>
+    <title>diagnosis/pathology/surgery; Retrospective Studies | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</link>
-    <description>Recent content in diagnosis/pathology/surgery; Retrospective Studies on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/index.xml" rel="self" type="application/rss+xml" />
+    <description>diagnosis/pathology/surgery; Retrospective Studies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>diagnosis/pathology/surgery; Retrospective Studies</title>
+      <link>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</link>
+    </image>
     
     <item>
       <title>Computer-extracted Features Can Distinguish Noncancerous Confounding Disease from Prostatic Adenocarcinoma at Multiparametric MR Imaging.</title>
       <link>https://geertlitjens.nl/publication/litj-16-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-b/</guid>
       <description></description>
     </item>

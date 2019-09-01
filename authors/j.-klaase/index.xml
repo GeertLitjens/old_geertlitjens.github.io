@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Klaase on Geert Litjens</title>
+    <title>J. Klaase | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/j.-klaase/</link>
-    <description>Recent content in J. Klaase on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/j.-klaase/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/j.-klaase/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Klaase</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>J. Klaase</title>
+      <link>https://geertlitjens.nl/authors/j.-klaase/</link>
+    </image>
     
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
       <link>https://geertlitjens.nl/publication/gees-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
     </item>

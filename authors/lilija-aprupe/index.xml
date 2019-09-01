@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lilija Aprupe on Geert Litjens</title>
+    <title>Lilija Aprupe | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/lilija-aprupe/</link>
-    <description>Recent content in Lilija Aprupe on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 13:58:34 +0200</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/lilija-aprupe/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/lilija-aprupe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lilija Aprupe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 08 Apr 2019 13:58:34 +0200</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>Lilija Aprupe</title>
+      <link>https://geertlitjens.nl/authors/lilija-aprupe/</link>
+    </image>
     
     <item>
       <title>Robust and accurate quantification of biomarkers of immune cells in lung cancer micro-environment using deep convolutional neural networks.</title>
       <link>https://geertlitjens.nl/publication/apru-19/</link>
       <pubDate>Mon, 08 Apr 2019 13:58:34 +0200</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/apru-19/</guid>
       <description></description>
     </item>

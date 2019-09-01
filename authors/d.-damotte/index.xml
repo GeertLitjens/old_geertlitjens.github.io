@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Damotte on Geert Litjens</title>
+    <title>D. Damotte | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/d.-damotte/</link>
-    <description>Recent content in D. Damotte on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/d.-damotte/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/d.-damotte/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Damotte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>D. Damotte</title>
+      <link>https://geertlitjens.nl/authors/d.-damotte/</link>
+    </image>
     
     <item>
       <title>In-depth tissue profiling using multiplexed immunohistochemical consecutive staining on single slide</title>
       <link>https://geertlitjens.nl/publication/rema-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/rema-16/</guid>
       <description></description>
     </item>

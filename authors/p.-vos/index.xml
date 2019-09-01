@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P. Vos on Geert Litjens</title>
+    <title>P. Vos | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/p.-vos/</link>
-    <description>Recent content in P. Vos on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/p.-vos/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/p.-vos/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Vos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>P. Vos</title>
+      <link>https://geertlitjens.nl/authors/p.-vos/</link>
+    </image>
     
     <item>
       <title>Automatic Computer Aided Detection of Abnormalities in Multi-Parametric Prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-11/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-11/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Computer aided detection of prostate cancer using T2W, DWI and DCE-MRI: methods and clinical applications</title>
       <link>https://geertlitjens.nl/publication/huis-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/huis-10/</guid>
       <description></description>
     </item>

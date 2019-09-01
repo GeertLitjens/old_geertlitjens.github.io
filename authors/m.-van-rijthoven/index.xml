@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. van Rijthoven on Geert Litjens</title>
+    <title>M. van Rijthoven | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/m.-van-rijthoven/</link>
-    <description>Recent content in M. van Rijthoven on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/m.-van-rijthoven/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/m.-van-rijthoven/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. van Rijthoven</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>M. van Rijthoven</title>
+      <link>https://geertlitjens.nl/authors/m.-van-rijthoven/</link>
+    </image>
     
     <item>
       <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
       <link>https://geertlitjens.nl/publication/swid-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/swid-18/</guid>
       <description></description>
     </item>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Viswanath on Geert Litjens</title>
+    <title>S. Viswanath | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/s.-viswanath/</link>
-    <description>Recent content in S. Viswanath on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/s.-viswanath/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/s.-viswanath/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Viswanath</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>S. Viswanath</title>
+      <link>https://geertlitjens.nl/authors/s.-viswanath/</link>
+    </image>
     
     <item>
       <title>Quantitative identification of magnetic resonance imaging features of prostate cancer response following laser ablation and radical prostatectomy</title>
       <link>https://geertlitjens.nl/publication/litj-14-d/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-d/</guid>
       <description></description>
     </item>

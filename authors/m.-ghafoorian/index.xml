@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Ghafoorian on Geert Litjens</title>
+    <title>M. Ghafoorian | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/m.-ghafoorian/</link>
-    <description>Recent content in M. Ghafoorian on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/m.-ghafoorian/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/m.-ghafoorian/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Ghafoorian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>M. Ghafoorian</title>
+      <link>https://geertlitjens.nl/authors/m.-ghafoorian/</link>
+    </image>
     
     <item>
       <title>A Survey on Deep Learning in Medical Image Analysis</title>
       <link>https://geertlitjens.nl/publication/litj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-17/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Location Sensitive Deep Convolutional Neural Networks for Segmentation of White Matter Hyperintensities</title>
       <link>https://geertlitjens.nl/publication/ghaf-17-c/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ghaf-17-c/</guid>
       <description></description>
     </item>

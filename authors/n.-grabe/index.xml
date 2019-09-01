@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. Grabe on Geert Litjens</title>
+    <title>N. Grabe | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/n.-grabe/</link>
-    <description>Recent content in N. Grabe on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/n.-grabe/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/n.-grabe/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Grabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>N. Grabe</title>
+      <link>https://geertlitjens.nl/authors/n.-grabe/</link>
+    </image>
     
     <item>
       <title>MAGE expression in head and neck squamous cell carcinoma primary tumors, lymph node metastases and respective recurrences: implications for immunotherapy</title>
       <link>https://geertlitjens.nl/publication/laba-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/laba-17/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>In-depth tissue profiling using multiplexed immunohistochemical consecutive staining on single slide</title>
       <link>https://geertlitjens.nl/publication/rema-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/rema-16/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Automated robust registration of grossly misregistered whole-slide images with varying stains</title>
       <link>https://geertlitjens.nl/publication/litj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16/</guid>
       <description></description>
     </item>

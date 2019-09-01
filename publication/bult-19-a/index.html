@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.2.0">
-  <meta name="generator" content="Hugo 0.55.4" />
+  <meta name="generator" content="Source Themes Academic 4.4.0">
 
   
 
@@ -36,15 +36,7 @@
   
 
 
-  
 
-  
-
-  
-
-  
-
-  
 
   
 
@@ -59,7 +51,6 @@
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
@@ -72,7 +63,8 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/vs2015.min.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
@@ -84,10 +76,14 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
-  <link rel="stylesheet" href="/styles.css">
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.061e3259dfd0b41a10ad584c28f2a02c.css">
+
   
     
     
@@ -97,7 +93,7 @@
     
     
     
-    <link rel="stylesheet" href="/css/academic.7704f968b5354870b409458e901eab0c.css">
+    <link rel="stylesheet" href="/css/academic.30c7fed5955d9eb410b8a269375534af.css">
   
 
   
@@ -111,7 +107,7 @@
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -119,12 +115,9 @@
   
 
   
-  <link rel="alternate" href="https://geertlitjens.nl/index.xml" type="application/rss+xml" title="Geert Litjens">
-  <link rel="feed" href="https://geertlitjens.nl/index.xml" type="application/rss+xml" title="Geert Litjens">
-  
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://geertlitjens.nl/publication/bult-19-a/">
@@ -136,6 +129,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@GeertLitjens">
@@ -145,21 +139,29 @@
   <meta property="og:url" content="https://geertlitjens.nl/publication/bult-19-a/">
   <meta property="og:title" content="Automated Gleason Grading of Prostate Biopsies Using Deep Learning | Geert Litjens">
   <meta property="og:description" content="Grading prostate cancer is a time-consuming process and suffers from high inter- and intra-observer variability. Advances in computer-aided diagnosis have shown promise in improving histopathological diagnosis. We trained a deep learning system using data retrieved from the patients records to grade digitized prostate biopsies. Our system is the first that can automatically classify background, benign epithelium, Gleason 3, 4, and 5 on a gland-by-gland level in prostate biopsies. 532 glass slides containing 2162 prostate biopsies, evaluated by an experienced urogenital pathologist were collected and scanned. 596 biopsies were kept separate for evaluation, the remaining 1576 were used to train the deep learning algorithm (see table for Gleason grade distribution). A single label denoting the Gleason score (e.g. 3&#43;4=7) was available for each biopsy, without information on tumor location or volume. To generate detailed annotations for training we used two previously trained deep learning networks to first segment the epithelium and, subsequently, to detect cancer. The Gleason grade from the patient record was assigned to the cancerous epithelium. These generated weakly annotated regions of tumor were then used to train a Gleason grading system. To evaluate, the system was applied to the biopsies in the test set. We used the total predicted surface area of each growth pattern to determine the Gleason score of the biopsy. Predicted tumor areas smaller than 15% of total epithelial tissue were considered unreliable (e.g. incomplete glands at the edges of the biopsy) and ignored for slide level classification. For predicted grades only areas larger than 5% of all epithelial tissue were considered, which is also common in clinical practice. Predicting whether a biopsy contains tumor resulted in an accuracy of 86% (linear weighted kappa (k) of 0.73, area under the ROC curve of 0.96). We compared the predicted primary Gleason grade to the one from the pathologists’ report. Our system achieved an accuracy of 75% (k 0.64). On predicting the Grade Group (using primary and secondary pattern), our system achieved an accuracy of 67% (k 0.57). Misclassifications of more than one grade are rare. Our deep learning system automatically identifies Gleason patterns and benign tissue on a gland-by-gland basis. This can be used to determine the biopsy-level Grade Group and Gleason score, and show which parts of the tissue contribute to this prediction. Improvements need to be made to decrease misclassifications, for example in areas with inflammation."><meta property="og:image" content="https://geertlitjens.nl/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://geertlitjens.nl/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-03-18T00:00:00&#43;00:00">
-  
-  <meta property="article:modified_time" content="2019-03-18T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-03-18T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2019-03-18T00:00:00&#43;00:00">
   
 
   
 
+
   
+
+
+
+
 
   <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning | Geert Litjens</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -191,7 +193,8 @@
 </aside>
 
 
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -219,12 +222,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
         </li>
 
         
@@ -238,12 +251,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
-            
-            <span>Projects</span>
-            
-          </a>
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -257,12 +280,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#media">
-            
-            <span>Media</span>
-            
-          </a>
+          <a class="nav-link " href="/#media"><span>Media</span></a>
         </li>
 
         
@@ -276,12 +309,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#presentations">
-            
-            <span>Presentations</span>
-            
-          </a>
+          <a class="nav-link " href="/#presentations"><span>Presentations</span></a>
         </li>
 
         
@@ -295,12 +338,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#publications">
-            
-            <span>Publications</span>
-            
-          </a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -314,12 +367,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#about">
-            
-            <span>About</span>
-            
-          </a>
+          <a class="nav-link " href="/#about"><span>About</span></a>
         </li>
 
         
@@ -331,12 +394,15 @@
         
         
 
+        
+        
+        
+        
+        
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/cv">
-            
-            <span>CV</span>
-            
-          </a>
+          <a class="nav-link " href="/cv"><span>CV</span></a>
         </li>
 
         
@@ -358,7 +424,8 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -402,37 +469,7 @@
 
 
 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">W. Bulten</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">H. Pinckaers</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">C. Hulsbergen-van de Kaa</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">G. Litjens</a></span></span>
-  
-
-
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/h.-pinckaers/">H. Pinckaers</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen-van de Kaa</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-litjens/">G. Litjens</a></span>
 
   </div>
   
@@ -454,7 +491,9 @@
 
   
   
+  
 
+  
   
 
   
@@ -472,14 +511,9 @@
 
 
 
-  
 
 
 
-
-
-
-  
 
 
 
@@ -499,11 +533,6 @@
 
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/bult-19-a/bult-19-a.bib">
-  Cite
-</button>
 
 
 
@@ -548,11 +577,9 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-
-            
             
             <a href="/publication/#1">
-              Conference abstract
+              Conference paper
             </a>
             
           </div>
@@ -583,6 +610,7 @@
 
     
 
+
     
 
 
@@ -590,6 +618,8 @@
 
 
 
+
+
   
   
     
@@ -600,7 +630,27 @@
 
 
 
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
 
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/w.-bulten/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
 
 
   </div>
@@ -608,8 +658,83 @@
 
 
 
-<div class="container">
-  <footer class="site-footer">
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/bash.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.dc856155b640fa1cd8bd8b7b068fe79c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
   
 
   <p class="powered-by">
@@ -631,9 +756,10 @@
   </p>
 </footer>
 
-</div>
+  </div>
+  
 
-
+  
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -659,73 +785,5 @@
   </div>
 </div>
 
-    
-
-    
-    
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
-        
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
-        
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
-        
-      
-
-      
-      
-    
-
-    
-    
-
-    
-    
-    
-
-    
-    
-    <script>hljs.initHighlightingOnLoad();</script>
-    
-
-    
-
-    
-    
-
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.01d176c6a39ffaaa2714dda311205d60.js"></script>
-
-  </body>
+</body>
 </html>
-

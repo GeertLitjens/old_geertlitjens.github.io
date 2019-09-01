@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A. Baidoshvili on Geert Litjens</title>
+    <title>A. Baidoshvili | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/a.-baidoshvili/</link>
-    <description>Recent content in A. Baidoshvili on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/a.-baidoshvili/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/a.-baidoshvili/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Baidoshvili</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>A. Baidoshvili</title>
+      <link>https://geertlitjens.nl/authors/a.-baidoshvili/</link>
+    </image>
     
     <item>
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
       <link>https://geertlitjens.nl/publication/gees-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
       <link>https://geertlitjens.nl/publication/litj-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-18/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
       <link>https://geertlitjens.nl/publication/ciom-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
     </item>

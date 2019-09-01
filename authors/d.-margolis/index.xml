@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Margolis on Geert Litjens</title>
+    <title>D. Margolis | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/d.-margolis/</link>
-    <description>Recent content in D. Margolis on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://geertlitjens.nl/authors/d.-margolis/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Margolis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>D. Margolis</title>
+      <link>https://geertlitjens.nl/authors/d.-margolis/</link>
+    </image>
     
-	<atom:link href="https://geertlitjens.nl/authors/d.-margolis/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>A Single-Arm, Multicenter Validation Study of Prostate Cancer Localization and Aggressiveness With a Quantitative Multiparametric Magnetic Resonance Imaging Approach.</title>
+      <link>https://geertlitjens.nl/publication/maas-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/maas-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prostate Cancer localization with a Multiparametric MR Approach (PCaMAP): initial results of a multi-center study</title>
       <link>https://geertlitjens.nl/publication/maas-13-b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/maas-13-b/</guid>
       <description></description>
     </item>

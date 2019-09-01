@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Mol on Geert Litjens</title>
+    <title>S. Mol | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/s.-mol/</link>
-    <description>Recent content in S. Mol on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/s.-mol/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/s.-mol/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Mol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>S. Mol</title>
+      <link>https://geertlitjens.nl/authors/s.-mol/</link>
+    </image>
     
     <item>
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
       <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>

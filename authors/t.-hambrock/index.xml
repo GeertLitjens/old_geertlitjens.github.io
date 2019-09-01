@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T. Hambrock on Geert Litjens</title>
+    <title>T. Hambrock | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/t.-hambrock/</link>
-    <description>Recent content in T. Hambrock on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/t.-hambrock/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/t.-hambrock/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Hambrock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>T. Hambrock</title>
+      <link>https://geertlitjens.nl/authors/t.-hambrock/</link>
+    </image>
     
     <item>
       <title>Intranodal signal suppression in pelvic MR lymphography of prostate cancer patients: a quantitative comparison of ferumoxtran-10 and ferumoxytol.</title>
       <link>https://geertlitjens.nl/publication/deba-16-a/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-16-a/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Multiparametric Magnetic Resonance Imaging for Discriminating Low-Grade From High-Grade Prostate Cancer</title>
       <link>https://geertlitjens.nl/publication/vos-15/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-15/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Multiparametric MR imaging for the assessment of prostate cancer aggressiveness at 3 Tesla</title>
       <link>https://geertlitjens.nl/publication/vos-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-14-c/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Assessment of Prostate Cancer Aggressiveness Using Dynamic Contrast-enhanced Magnetic Resonance Imaging at 3 T</title>
       <link>https://geertlitjens.nl/publication/vos-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-13/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Differentiation of Prostatitis and Prostate Cancer by Using Diffusion-weighted MR Imaging and MR-guided Biopsy at 3 T</title>
       <link>https://geertlitjens.nl/publication/nage-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/nage-13/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Interpatient Variation in Normal Peripheral Zone Apparent Diffusion Coefficient: Effect on the Prediction of Prostate Cancer Aggressiveness</title>
       <link>https://geertlitjens.nl/publication/litj-12-b/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-b/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>Dynamic contrast enhanced MR imaging for the assessment of prostate cancer aggressiveness at 3T</title>
       <link>https://geertlitjens.nl/publication/vos-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-12/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>Detection of Lymph Node Metastases with Ferumoxtran-10 vs Ferumoxytol</title>
       <link>https://geertlitjens.nl/publication/deba-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-11-a/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>Differentiation of Normal Prostate Tissue, Prostatitis, and Prostate Cancer: Correlation between Diffusion-weighted Imaging and MR-guided Biopsy</title>
       <link>https://geertlitjens.nl/publication/scho-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/scho-11/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>Required accuracy of MR-US registration for prostate biopsies</title>
       <link>https://geertlitjens.nl/publication/ven-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ven-11-a/</guid>
       <description></description>
     </item>
@@ -106,7 +96,6 @@
       <title>Computer aided detection of prostate cancer using T2W, DWI and DCE-MRI: methods and clinical applications</title>
       <link>https://geertlitjens.nl/publication/huis-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/huis-10/</guid>
       <description></description>
     </item>

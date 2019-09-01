@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. Litjens on Geert Litjens</title>
+    <title>G. Litjens | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/g.-litjens/</link>
-    <description>Recent content in G. Litjens on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://geertlitjens.nl/authors/g.-litjens/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Litjens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>G. Litjens</title>
+      <link>https://geertlitjens.nl/authors/g.-litjens/</link>
+    </image>
     
-	<atom:link href="https://geertlitjens.nl/authors/g.-litjens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dealing with Label Scarcity in Computational Pathology: A Use Case in Prostate Cancer Classification</title>
+      <link>https://geertlitjens.nl/publication/derck-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/derck-19/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>A Single-Arm, Multicenter Validation Study of Prostate Cancer Localization and Aggressiveness With a Quantitative Multiparametric Magnetic Resonance Imaging Approach.</title>
+      <link>https://geertlitjens.nl/publication/maas-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/maas-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
       <description></description>
     </item>
@@ -25,7 +40,6 @@
       <title>A large annotated medical image dataset for the development and evaluation of segmentation algorithms</title>
       <link>https://geertlitjens.nl/publication/simp-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/simp-19/</guid>
       <description></description>
     </item>
@@ -34,7 +48,6 @@
       <title>Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer</title>
       <link>https://geertlitjens.nl/publication/gees-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/gees-19/</guid>
       <description></description>
     </item>
@@ -43,7 +56,6 @@
       <title>Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</title>
       <link>https://geertlitjens.nl/publication/bult-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bult-19/</guid>
       <description></description>
     </item>
@@ -52,7 +64,6 @@
       <title>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</title>
       <link>https://geertlitjens.nl/publication/pinc-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
       <description></description>
     </item>
@@ -61,17 +72,7 @@
       <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
       <link>https://geertlitjens.nl/publication/band-18/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/band-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
-      <link>https://geertlitjens.nl/publication/bult-18-a/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
     </item>
     
@@ -79,7 +80,6 @@
       <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
       <link>https://geertlitjens.nl/publication/litj-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-18/</guid>
       <description></description>
     </item>
@@ -88,7 +88,6 @@
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
       <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>
@@ -97,7 +96,6 @@
       <title>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</title>
       <link>https://geertlitjens.nl/publication/bult-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bult-18/</guid>
       <description></description>
     </item>
@@ -106,7 +104,6 @@
       <title>Automatic color unmixing of IHC stained whole slide images</title>
       <link>https://geertlitjens.nl/publication/geij-18/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/geij-18/</guid>
       <description></description>
     </item>
@@ -115,17 +112,7 @@
       <title>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</title>
       <link>https://geertlitjens.nl/publication/tell-18-a/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/tell-18-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training convolutional neural networks with megapixel images</title>
-      <link>https://geertlitjens.nl/publication/pinc-18/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geertlitjens.nl/publication/pinc-18/</guid>
       <description></description>
     </item>
     
@@ -133,8 +120,23 @@
       <title>Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images</title>
       <link>https://geertlitjens.nl/publication/swid-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/swid-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training convolutional neural networks with megapixel images</title>
+      <link>https://geertlitjens.nl/publication/pinc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/pinc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
+      <link>https://geertlitjens.nl/publication/bult-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
     </item>
     
@@ -142,7 +144,6 @@
       <title>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer</title>
       <link>https://geertlitjens.nl/publication/ehte-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-17/</guid>
       <description></description>
     </item>
@@ -151,7 +152,6 @@
       <title>Context-aware stacked convolutional neural networks for classification of breast carcinomas in whole-slide histopathology images</title>
       <link>https://geertlitjens.nl/publication/bejn-17-b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bejn-17-b/</guid>
       <description></description>
     </item>
@@ -160,7 +160,6 @@
       <title>Evaluation of tongue squamous cell carcinoma resection margins using ex-vivo MR.</title>
       <link>https://geertlitjens.nl/publication/stee-17/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/stee-17/</guid>
       <description></description>
     </item>
@@ -169,7 +168,6 @@
       <title>Comparison of Different Methods for Tissue Segmentation In Histopathological Whole-Slide Images</title>
       <link>https://geertlitjens.nl/publication/band-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/band-17/</guid>
       <description></description>
     </item>
@@ -178,7 +176,6 @@
       <title>The importance of stain normalization in colorectal tissue classification with convolutional networks</title>
       <link>https://geertlitjens.nl/publication/ciom-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ciom-17/</guid>
       <description></description>
     </item>
@@ -187,7 +184,6 @@
       <title>Using deep learning to segment breast and fibroglandular tissue in MRI volumes</title>
       <link>https://geertlitjens.nl/publication/dalm-17/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/dalm-17/</guid>
       <description></description>
     </item>
@@ -196,7 +192,6 @@
       <title>A Survey on Deep Learning in Medical Image Analysis</title>
       <link>https://geertlitjens.nl/publication/litj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-17/</guid>
       <description></description>
     </item>
@@ -205,7 +200,6 @@
       <title>Large scale deep learning for computer aided detection of mammographic lesions</title>
       <link>https://geertlitjens.nl/publication/kooi-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/kooi-17/</guid>
       <description></description>
     </item>
@@ -214,7 +208,6 @@
       <title>Location Sensitive Deep Convolutional Neural Networks for Segmentation of White Matter Hyperintensities</title>
       <link>https://geertlitjens.nl/publication/ghaf-17-c/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ghaf-17-c/</guid>
       <description></description>
     </item>
@@ -223,7 +216,6 @@
       <title>MAGE expression in head and neck squamous cell carcinoma primary tumors, lymph node metastases and respective recurrences: implications for immunotherapy</title>
       <link>https://geertlitjens.nl/publication/laba-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/laba-17/</guid>
       <description></description>
     </item>
@@ -232,7 +224,6 @@
       <title>Intranodal signal suppression in pelvic MR lymphography of prostate cancer patients: a quantitative comparison of ferumoxtran-10 and ferumoxytol.</title>
       <link>https://geertlitjens.nl/publication/deba-16-a/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-16-a/</guid>
       <description></description>
     </item>
@@ -241,7 +232,6 @@
       <title>Automated Detection of DCIS in Whole-Slide H&amp;E Stained Breast Histopathology Images</title>
       <link>https://geertlitjens.nl/publication/ehte-16-a/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-16-a/</guid>
       <description></description>
     </item>
@@ -250,7 +240,6 @@
       <title>Stain specific standardization of whole-slide histopathological images</title>
       <link>https://geertlitjens.nl/publication/ehte-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-16/</guid>
       <description></description>
     </item>
@@ -259,7 +248,6 @@
       <title>Automated multistructure atlas-assisted detection of lymph nodes using pelvic MR lymphography in prostate cancer patients</title>
       <link>https://geertlitjens.nl/publication/deba-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-16/</guid>
       <description></description>
     </item>
@@ -268,7 +256,6 @@
       <title>In-depth tissue profiling using multiplexed immunohistochemical consecutive staining on single slide</title>
       <link>https://geertlitjens.nl/publication/rema-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/rema-16/</guid>
       <description></description>
     </item>
@@ -277,7 +264,6 @@
       <title>Automated robust registration of grossly misregistered whole-slide images with varying stains</title>
       <link>https://geertlitjens.nl/publication/litj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16/</guid>
       <description></description>
     </item>
@@ -286,7 +272,6 @@
       <title>Computer-extracted Features Can Distinguish Noncancerous Confounding Disease from Prostatic Adenocarcinoma at Multiparametric MR Imaging.</title>
       <link>https://geertlitjens.nl/publication/litj-16-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-b/</guid>
       <description></description>
     </item>
@@ -295,7 +280,6 @@
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
       <link>https://geertlitjens.nl/publication/litj-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
     </item>
@@ -304,7 +288,6 @@
       <title>Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks</title>
       <link>https://geertlitjens.nl/publication/seti-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/seti-16/</guid>
       <description></description>
     </item>
@@ -313,7 +296,6 @@
       <title>Clinical evaluation of a computer-aided diagnosis system for determining cancer aggressiveness in prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-15-b/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-15-b/</guid>
       <description></description>
     </item>
@@ -322,7 +304,6 @@
       <title>Multiparametric Magnetic Resonance Imaging for Discriminating Low-Grade From High-Grade Prostate Cancer</title>
       <link>https://geertlitjens.nl/publication/vos-15/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-15/</guid>
       <description></description>
     </item>
@@ -331,7 +312,6 @@
       <title>A multi-scale superpixel classification approach for region of interest detection in whole slide histopathology images</title>
       <link>https://geertlitjens.nl/publication/bejn-15/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bejn-15/</guid>
       <description></description>
     </item>
@@ -340,7 +320,6 @@
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
       <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>
@@ -349,7 +328,6 @@
       <title>Computerized detection of cancer in multi-parametric prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-15-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-15-a/</guid>
       <description></description>
     </item>
@@ -358,17 +336,7 @@
       <title>Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge</title>
       <link>https://geertlitjens.nl/publication/litj-14/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-aided Detection of Prostate Cancer in Multi-parametric Magnetic Resonance Imaging</title>
-      <link>https://geertlitjens.nl/publication/litj-14-e/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://geertlitjens.nl/publication/litj-14-e/</guid>
       <description></description>
     </item>
     
@@ -376,8 +344,15 @@
       <title>Computer-aided detection of prostate cancer in MRI</title>
       <link>https://geertlitjens.nl/publication/litj-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Detection of Prostate Cancer in Multi-parametric Magnetic Resonance Imaging</title>
+      <link>https://geertlitjens.nl/publication/litj-14-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/litj-14-e/</guid>
       <description></description>
     </item>
     
@@ -385,7 +360,6 @@
       <title>Distinguishing benign confounding treatment changes from residual prostate cancer on MRI following laser ablation</title>
       <link>https://geertlitjens.nl/publication/litj-14-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-b/</guid>
       <description></description>
     </item>
@@ -394,7 +368,6 @@
       <title>Distinguishing prostate cancer from benign confounders via a cascaded classifier on multi-parametric MRI</title>
       <link>https://geertlitjens.nl/publication/litj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-a/</guid>
       <description></description>
     </item>
@@ -403,7 +376,6 @@
       <title>Multiparametric MR imaging for the assessment of prostate cancer aggressiveness at 3 Tesla</title>
       <link>https://geertlitjens.nl/publication/vos-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-14-c/</guid>
       <description></description>
     </item>
@@ -412,7 +384,6 @@
       <title>Quantitative identification of magnetic resonance imaging features of prostate cancer response following laser ablation and radical prostatectomy</title>
       <link>https://geertlitjens.nl/publication/litj-14-d/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-d/</guid>
       <description></description>
     </item>
@@ -421,7 +392,6 @@
       <title>Assessment of Prostate Cancer Aggressiveness Using Dynamic Contrast-enhanced Magnetic Resonance Imaging at 3 T</title>
       <link>https://geertlitjens.nl/publication/vos-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-13/</guid>
       <description></description>
     </item>
@@ -430,7 +400,6 @@
       <title>Differentiation of Prostatitis and Prostate Cancer by Using Diffusion-weighted MR Imaging and MR-guided Biopsy at 3 T</title>
       <link>https://geertlitjens.nl/publication/nage-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/nage-13/</guid>
       <description></description>
     </item>
@@ -439,7 +408,6 @@
       <title>Initial prospective evaluation of the prostate imaging reporting and data standard (PI-RADS): Can it reduce unnecessary MR guided biopsies?</title>
       <link>https://geertlitjens.nl/publication/litj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-13/</guid>
       <description></description>
     </item>
@@ -448,7 +416,6 @@
       <title>Prostate Cancer localization with a Multiparametric MR Approach (PCaMAP): initial results of a multi-center study</title>
       <link>https://geertlitjens.nl/publication/maas-13-b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/maas-13-b/</guid>
       <description></description>
     </item>
@@ -457,7 +424,6 @@
       <title>Interpatient Variation in Normal Peripheral Zone Apparent Diffusion Coefficient: Effect on the Prediction of Prostate Cancer Aggressiveness</title>
       <link>https://geertlitjens.nl/publication/litj-12-b/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-b/</guid>
       <description></description>
     </item>
@@ -466,7 +432,6 @@
       <title>Automated computer-aided detection of prostate cancer in MR images: from a whole-organ to a zone-based approach</title>
       <link>https://geertlitjens.nl/publication/litj-12/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12/</guid>
       <description></description>
     </item>
@@ -475,7 +440,6 @@
       <title>A multi-atlas approach for prostate segmentation in MRI</title>
       <link>https://geertlitjens.nl/publication/litj-12-d/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-d/</guid>
       <description></description>
     </item>
@@ -484,7 +448,6 @@
       <title>A pattern recognition approach to zonal segmentation of the prostate on MRI</title>
       <link>https://geertlitjens.nl/publication/litj-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-a/</guid>
       <description></description>
     </item>
@@ -493,7 +456,6 @@
       <title>Computerized characterization of central gland lesions using texture and relaxation features from T2-weighted prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-12-c/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-c/</guid>
       <description></description>
     </item>
@@ -502,7 +464,6 @@
       <title>Dynamic contrast enhanced MR imaging for the assessment of prostate cancer aggressiveness at 3T</title>
       <link>https://geertlitjens.nl/publication/vos-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-12/</guid>
       <description></description>
     </item>
@@ -511,7 +472,6 @@
       <title>Automatic Computer Aided Detection of Abnormalities in Multi-Parametric Prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-11/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-11/</guid>
       <description></description>
     </item>
@@ -520,7 +480,6 @@
       <title>Detection of Lymph Node Metastases with Ferumoxtran-10 vs Ferumoxytol</title>
       <link>https://geertlitjens.nl/publication/deba-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-11-a/</guid>
       <description></description>
     </item>
@@ -529,7 +488,6 @@
       <title>Differentiation of Normal Prostate Tissue, Prostatitis, and Prostate Cancer: Correlation between Diffusion-weighted Imaging and MR-guided Biopsy</title>
       <link>https://geertlitjens.nl/publication/scho-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/scho-11/</guid>
       <description></description>
     </item>
@@ -538,7 +496,6 @@
       <title>Required accuracy of MR-US registration for prostate biopsies</title>
       <link>https://geertlitjens.nl/publication/ven-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ven-11-a/</guid>
       <description></description>
     </item>
@@ -547,7 +504,6 @@
       <title>Zone-specific Automatic Computer-aided Detection of Prostate Cancer in MRI</title>
       <link>https://geertlitjens.nl/publication/litj-11-b/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-11-b/</guid>
       <description></description>
     </item>
@@ -556,7 +512,6 @@
       <title>Computer aided detection of prostate cancer using T2W, DWI and DCE-MRI: methods and clinical applications</title>
       <link>https://geertlitjens.nl/publication/huis-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/huis-10/</guid>
       <description></description>
     </item>
@@ -565,7 +520,6 @@
       <title>Pharmacokinetic models in clinical practice: what model to use for DCE-MRI of the breast?</title>
       <link>https://geertlitjens.nl/publication/litj-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-10/</guid>
       <description></description>
     </item>
@@ -574,7 +528,6 @@
       <title>Simulation of nodules and diffuse infiltrates in chest radiographs using CT templates</title>
       <link>https://geertlitjens.nl/publication/litj-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-10-a/</guid>
       <description></description>
     </item>
@@ -583,7 +536,6 @@
       <title>Training a Computer Aided Detection System with Simulated Lung Nodules in Chest Radiographs</title>
       <link>https://geertlitjens.nl/publication/snoe-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/snoe-10/</guid>
       <description></description>
     </item>
@@ -592,7 +544,6 @@
       <title>T1 Quantification: Variable Flip Angle Method vs Use of Reference Phantom</title>
       <link>https://geertlitjens.nl/publication/litj-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-09/</guid>
       <description></description>
     </item>

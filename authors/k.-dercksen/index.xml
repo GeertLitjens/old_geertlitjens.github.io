@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Dercksen | Geert Litjens</title>
+    <link>https://geertlitjens.nl/authors/k.-dercksen/</link>
+      <atom:link href="https://geertlitjens.nl/authors/k.-dercksen/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Dercksen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>K. Dercksen</title>
+      <link>https://geertlitjens.nl/authors/k.-dercksen/</link>
+    </image>
+    
+    <item>
+      <title>Dealing with Label Scarcity in Computational Pathology: A Use Case in Prostate Cancer Classification</title>
+      <link>https://geertlitjens.nl/publication/derck-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/derck-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

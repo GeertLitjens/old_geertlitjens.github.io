@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. Timofeeva on Geert Litjens</title>
+    <title>N. Timofeeva | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/n.-timofeeva/</link>
-    <description>Recent content in N. Timofeeva on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/n.-timofeeva/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/n.-timofeeva/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Timofeeva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>N. Timofeeva</title>
+      <link>https://geertlitjens.nl/authors/n.-timofeeva/</link>
+    </image>
     
     <item>
       <title>Stain specific standardization of whole-slide histopathological images</title>
       <link>https://geertlitjens.nl/publication/ehte-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-16/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
       <link>https://geertlitjens.nl/publication/litj-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Automated detection of prostate cancer in digitized whole-slide images of H&amp;E-stained biopsy specimens</title>
       <link>https://geertlitjens.nl/publication/litj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-15/</guid>
       <description></description>
     </item>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography on Geert Litjens</title>
+    <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</link>
-    <description>Recent content in Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>Breast cancer; Computer aided detection; Convolutional neural networks; Deep learning; Machine learning; Mammography</title>
+      <link>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</link>
+    </image>
     
     <item>
       <title>Large scale deep learning for computer aided detection of mammographic lesions</title>
       <link>https://geertlitjens.nl/publication/kooi-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/kooi-17/</guid>
       <description></description>
     </item>

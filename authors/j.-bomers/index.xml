@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Bomers on Geert Litjens</title>
+    <title>J. Bomers | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/j.-bomers/</link>
-    <description>Recent content in J. Bomers on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/j.-bomers/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/j.-bomers/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Bomers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>J. Bomers</title>
+      <link>https://geertlitjens.nl/authors/j.-bomers/</link>
+    </image>
     
     <item>
       <title>Distinguishing benign confounding treatment changes from residual prostate cancer on MRI following laser ablation</title>
       <link>https://geertlitjens.nl/publication/litj-14-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-b/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Quantitative identification of magnetic resonance imaging features of prostate cancer response following laser ablation and radical prostatectomy</title>
       <link>https://geertlitjens.nl/publication/litj-14-d/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-d/</guid>
       <description></description>
     </item>

@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Geert Litjens</title>
+    <title>1 | Geert Litjens</title>
     <link>https://geertlitjens.nl/publication_types/1/</link>
-    <description>Recent content in 1 on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://geertlitjens.nl/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://geertlitjens.nl/publication_types/1/</link>
+    </image>
     
-	<atom:link href="https://geertlitjens.nl/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Dealing with Label Scarcity in Computational Pathology: A Use Case in Prostate Cancer Classification</title>
+      <link>https://geertlitjens.nl/publication/derck-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/derck-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training convolutional neural networks with megapixel images</title>
+      <link>https://geertlitjens.nl/publication/pinc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/pinc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Prostate Cancer Detection on H&amp;E using Convolutional Adversarial Autoencoders</title>
+      <link>https://geertlitjens.nl/publication/bult-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-18-a/</guid>
       <description></description>
     </item>
     
@@ -25,7 +48,6 @@
       <title>Computer-aided Detection of Prostate Cancer in Multi-parametric Magnetic Resonance Imaging</title>
       <link>https://geertlitjens.nl/publication/litj-14-e/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-e/</guid>
       <description></description>
     </item>
@@ -34,7 +56,6 @@
       <title>Multiparametric MR imaging for the assessment of prostate cancer aggressiveness at 3 Tesla</title>
       <link>https://geertlitjens.nl/publication/vos-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-14-c/</guid>
       <description></description>
     </item>
@@ -43,7 +64,6 @@
       <title>Initial prospective evaluation of the prostate imaging reporting and data standard (PI-RADS): Can it reduce unnecessary MR guided biopsies?</title>
       <link>https://geertlitjens.nl/publication/litj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-13/</guid>
       <description></description>
     </item>
@@ -52,7 +72,6 @@
       <title>Prostate Cancer localization with a Multiparametric MR Approach (PCaMAP): initial results of a multi-center study</title>
       <link>https://geertlitjens.nl/publication/maas-13-b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/maas-13-b/</guid>
       <description></description>
     </item>
@@ -61,7 +80,6 @@
       <title>Computerized characterization of central gland lesions using texture and relaxation features from T2-weighted prostate MRI</title>
       <link>https://geertlitjens.nl/publication/litj-12-c/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-12-c/</guid>
       <description></description>
     </item>
@@ -70,7 +88,6 @@
       <title>Dynamic contrast enhanced MR imaging for the assessment of prostate cancer aggressiveness at 3T</title>
       <link>https://geertlitjens.nl/publication/vos-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/vos-12/</guid>
       <description></description>
     </item>
@@ -79,7 +96,6 @@
       <title>Detection of Lymph Node Metastases with Ferumoxtran-10 vs Ferumoxytol</title>
       <link>https://geertlitjens.nl/publication/deba-11-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/deba-11-a/</guid>
       <description></description>
     </item>
@@ -88,7 +104,6 @@
       <title>Differentiation of Normal Prostate Tissue, Prostatitis, and Prostate Cancer: Correlation between Diffusion-weighted Imaging and MR-guided Biopsy</title>
       <link>https://geertlitjens.nl/publication/scho-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/scho-11/</guid>
       <description></description>
     </item>
@@ -97,7 +112,6 @@
       <title>Zone-specific Automatic Computer-aided Detection of Prostate Cancer in MRI</title>
       <link>https://geertlitjens.nl/publication/litj-11-b/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-11-b/</guid>
       <description></description>
     </item>
@@ -106,7 +120,6 @@
       <title>T1 Quantification: Variable Flip Angle Method vs Use of Reference Phantom</title>
       <link>https://geertlitjens.nl/publication/litj-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-09/</guid>
       <description></description>
     </item>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. Shih on Geert Litjens</title>
+    <title>N. Shih | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/n.-shih/</link>
-    <description>Recent content in N. Shih on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/n.-shih/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/n.-shih/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Shih</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>N. Shih</title>
+      <link>https://geertlitjens.nl/authors/n.-shih/</link>
+    </image>
     
     <item>
       <title>Computer-extracted Features Can Distinguish Noncancerous Confounding Disease from Prostatic Adenocarcinoma at Multiparametric MR Imaging.</title>
       <link>https://geertlitjens.nl/publication/litj-16-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-b/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Distinguishing benign confounding treatment changes from residual prostate cancer on MRI following laser ablation</title>
       <link>https://geertlitjens.nl/publication/litj-14-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-b/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Distinguishing prostate cancer from benign confounders via a cascaded classifier on multi-parametric MRI</title>
       <link>https://geertlitjens.nl/publication/litj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-a/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Quantitative identification of magnetic resonance imaging features of prostate cancer response following laser ablation and radical prostatectomy</title>
       <link>https://geertlitjens.nl/publication/litj-14-d/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-14-d/</guid>
       <description></description>
     </item>

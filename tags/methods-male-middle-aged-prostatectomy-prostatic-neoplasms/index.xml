@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms on Geert Litjens</title>
+    <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</link>
-    <description>Recent content in methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/index.xml" rel="self" type="application/rss+xml" />
+    <description>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>methods; Male; Middle Aged; Prostatectomy; Prostatic Neoplasms</title>
+      <link>https://geertlitjens.nl/tags/methods-male-middle-aged-prostatectomy-prostatic-neoplasms/</link>
+    </image>
     
     <item>
       <title>Computer-extracted Features Can Distinguish Noncancerous Confounding Disease from Prostatic Adenocarcinoma at Multiparametric MR Imaging.</title>
       <link>https://geertlitjens.nl/publication/litj-16-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-b/</guid>
       <description></description>
     </item>

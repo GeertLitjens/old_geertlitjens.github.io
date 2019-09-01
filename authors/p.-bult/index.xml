@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P. Bult on Geert Litjens</title>
+    <title>P. Bult | Geert Litjens</title>
     <link>https://geertlitjens.nl/authors/p.-bult/</link>
-    <description>Recent content in P. Bult on Geert Litjens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://geertlitjens.nl/authors/p.-bult/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://geertlitjens.nl/authors/p.-bult/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Bult</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>P. Bult</title>
+      <link>https://geertlitjens.nl/authors/p.-bult/</link>
+    </image>
     
     <item>
       <title>From detection of individual metastases to classification of lymph node status at the patient level: the CAMELYON17 challenge</title>
       <link>https://geertlitjens.nl/publication/band-18/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/band-18/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>1399 H&amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset</title>
       <link>https://geertlitjens.nl/publication/litj-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-18/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Whole-Slide Mitosis Detection in H&amp;E Breast Histology Using PHH3 as a Reference to Train Distilled Stain-Invariant Convolutional Networks</title>
       <link>https://geertlitjens.nl/publication/tell-18/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/tell-18/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Context-aware stacked convolutional neural networks for classification of breast carcinomas in whole-slide histopathology images</title>
       <link>https://geertlitjens.nl/publication/bejn-17-b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/bejn-17-b/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Automated Detection of DCIS in Whole-Slide H&amp;E Stained Breast Histopathology Images</title>
       <link>https://geertlitjens.nl/publication/ehte-16-a/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/ehte-16-a/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</title>
       <link>https://geertlitjens.nl/publication/litj-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://geertlitjens.nl/publication/litj-16-c/</guid>
       <description></description>
     </item>
