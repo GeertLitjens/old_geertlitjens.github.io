@@ -45,7 +45,7 @@
 
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/3dt-E1vBr94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3dt-E1vBr94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;br&gt;
@@ -294,7 +294,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UHsXJe_fXgY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UHsXJe_fXgY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -317,7 +317,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/oP8-_0ZyY3U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oP8-_0ZyY3U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -335,18 +335,26 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Example of the webapp for cell classification.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Example of the webapp for cell classification.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Example of the webapp for cell classification.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -422,7 +430,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -445,7 +453,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <guid>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/sKz4mGxbSxw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sKz4mGxbSxw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -466,7 +474,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <guid>https://geertlitjens.nl/media/beter-interview/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nh5ruSNs37Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nh5ruSNs37Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -564,7 +572,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <guid>https://geertlitjens.nl/media/nieuwsuur_camelyon/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/yLlk89EAgUU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yLlk89EAgUU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -705,7 +713,7 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <guid>https://geertlitjens.nl/media/alpehuzes-interview/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nFWP2vxO2l4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nFWP2vxO2l4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -724,18 +732,26 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Prostate cancer segmentation using convolutional neural networks.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Prostate cancer segmentation using convolutional neural networks.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -769,18 +785,26 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Detection of breast cancer metastases in lymph nodes.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Detection of breast cancer metastases in lymph nodes.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -860,18 +884,26 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -1127,18 +1159,26 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Transversal slide through the prosate in a T2-weighted MRI sequence.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Transversal slide through the prosate in a T2-weighted MRI sequence.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Transversal slide through the prosate in a T2-weighted MRI sequence.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 

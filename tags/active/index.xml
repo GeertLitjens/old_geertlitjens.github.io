@@ -25,18 +25,26 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Prostate cancer segmentation using convolutional neural networks.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Prostate cancer segmentation using convolutional neural networks.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -70,18 +78,26 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Detection of breast cancer metastases in lymph nodes.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Detection of breast cancer metastases in lymph nodes.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 

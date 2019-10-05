@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,10 +35,6 @@
 
   
 
-
-
-
-  
 
   
   
@@ -76,13 +72,14 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.061e3259dfd0b41a10ad584c28f2a02c.css">
+  <link rel="stylesheet" href="/css/academic.min.8a69be03602d067de96ed62f385d2c4e.css">
 
   
     
@@ -93,26 +90,16 @@
     
     
     
-    <link rel="stylesheet" href="/css/academic.30c7fed5955d9eb410b8a269375534af.css">
+    <link rel="stylesheet" href="/css/academic.bf0e83303c280eb8e81796754587eb7d.css">
   
 
   
+
+
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-139145569-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
 
@@ -146,6 +133,56 @@
     
     <meta property="article:modified_time" content="2018-02-01T00:00:00&#43;00:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geertlitjens.nl/publication/tell-18-a/"
+  },
+  "headline": "H\u0026E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection",
+  
+  "datePublished": "2018-02-01T00:00:00Z",
+  "dateModified": "2018-02-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "D. Tellez"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geert Litjens",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geertlitjens.nl/img/icon-512.png"
+    }
+  },
+  "description": "The number of mitotic figures per tumor area observed in hematoxylin and eosin (H and E) histological tissue sections under light microscopy is an important biomarker for breast cancer prognosis. Whole-slide imaging and computational pathology have enabled the development of automatic mitosis detection algorithms based on convolutional neural networks (CNNs). These models can suffer from high generalization error, i.e. trained networks often underperform on datasets originating from pathology laboratories different than the one that provided the training data, mainly due to the presence of inter-laboratory stain variations. We propose a novel data augmentation strategy that exploits the properties of the H and E color space to simulate a broad range of realistic H and E stain variations. To our best knowledge, this is the first time that data augmentation is performed directly in the H and E color space, instead of RGB. The proposed technique uses color deconvolution to transform RGB images into the H and E color space, modifies the H and E color channels stochastically, and projects them back to RGB space. We trained a CNN-based mitosis detector on homogeneous data from a single institution, and tested its performance on an external, multicenter cohort that contained a wide range of unseen H and E stain variations. We compared CNNs trained with and without the proposed augmentation strategy and observed a significant improvement in performance and robustness to unseen stain variations when the new color augmentation technique was included. In essence, we have shown that CNNs can be made robust to inter-lab stain variation by incorporating extensive stain augmentation techniques."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -425,7 +462,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -446,7 +483,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</h1>
+  <h1>H&amp;E stain augmentation improves generalization of convolutional networks for histopathological mitosis detection</h1>
 
   
 
@@ -469,7 +506,8 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/d.-tellez/">D. Tellez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-balkenhol/">M. Balkenhol</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/n.-karssemeijer/">N. Karssemeijer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/f.-ciompi/">F. Ciompi</a></span>
+  
+  <span><a href="/authors/d.-tellez/">D. Tellez</a></span>, <span><a href="/authors/m.-balkenhol/">M. Balkenhol</a></span>, <span><a href="/authors/n.-karssemeijer/">N. Karssemeijer</a></span>, <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>, <span><a href="/authors/f.-ciompi/">F. Ciompi</a></span>
 
   </div>
   
@@ -570,7 +608,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The number of mitotic figures per tumor area observed in hematoxylin and eosin (H and E) histological tissue sections under light microscopy is an important biomarker for breast cancer prognosis. Whole-slide imaging and computational pathology have enabled the development of automatic mitosis detection algorithms based on convolutional neural networks (CNNs). These models can suffer from high generalization error, i.e. trained networks often underperform on datasets originating from pathology laboratories different than the one that provided the training data, mainly due to the presence of inter-laboratory stain variations. We propose a novel data augmentation strategy that exploits the properties of the H and E color space to simulate a broad range of realistic H and E stain variations. To our best knowledge, this is the first time that data augmentation is performed directly in the H and E color space, instead of RGB. The proposed technique uses color deconvolution to transform RGB images into the H and E color space, modifies the H and E color channels stochastically, and projects them back to RGB space. We trained a CNN-based mitosis detector on homogeneous data from a single institution, and tested its performance on an external, multicenter cohort that contained a wide range of unseen H and E stain variations. We compared CNNs trained with and without the proposed augmentation strategy and observed a significant improvement in performance and robustness to unseen stain variations when the new color augmentation technique was included. In essence, we have shown that CNNs can be made robust to inter-lab stain variation by incorporating extensive stain augmentation techniques.</p>
+    <p class="pub-abstract">The number of mitotic figures per tumor area observed in hematoxylin and eosin (H and E) histological tissue sections under light microscopy is an important biomarker for breast cancer prognosis. Whole-slide imaging and computational pathology have enabled the development of automatic mitosis detection algorithms based on convolutional neural networks (CNNs). These models can suffer from high generalization error, i.e. trained networks often underperform on datasets originating from pathology laboratories different than the one that provided the training data, mainly due to the presence of inter-laboratory stain variations. We propose a novel data augmentation strategy that exploits the properties of the H and E color space to simulate a broad range of realistic H and E stain variations. To our best knowledge, this is the first time that data augmentation is performed directly in the H and E color space, instead of RGB. The proposed technique uses color deconvolution to transform RGB images into the H and E color space, modifies the H and E color channels stochastically, and projects them back to RGB space. We trained a CNN-based mitosis detector on homogeneous data from a single institution, and tested its performance on an external, multicenter cohort that contained a wide range of unseen H and E stain variations. We compared CNNs trained with and without the proposed augmentation strategy and observed a significant improvement in performance and robustness to unseen stain variations when the new color augmentation technique was included. In essence, we have shown that CNNs can be made robust to inter-lab stain variation by incorporating extensive stain augmentation techniques.</p>
     
 
     
@@ -634,20 +672,22 @@
 
 
 
+
   
   
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/d.-tellez/"></a></h5>
+      <h5 class="card-title"><a href="/authors/d.-tellez/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
-        
-      </ul>
+  
+</ul>
+
     </div>
   </div>
 
@@ -727,7 +767,7 @@
     
     
     
-    <script src="/js/academic.min.dc856155b640fa1cd8bd8b7b068fe79c.js"></script>
+    <script src="/js/academic.min.84d185001460a90007fb2f6dcc66616e.js"></script>
 
     
 
@@ -750,7 +790,7 @@
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

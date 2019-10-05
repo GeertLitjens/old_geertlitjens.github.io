@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,10 +35,6 @@
 
   
 
-
-
-
-  
 
   
   
@@ -76,13 +72,14 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.061e3259dfd0b41a10ad584c28f2a02c.css">
+  <link rel="stylesheet" href="/css/academic.min.8a69be03602d067de96ed62f385d2c4e.css">
 
   
     
@@ -93,26 +90,16 @@
     
     
     
-    <link rel="stylesheet" href="/css/academic.30c7fed5955d9eb410b8a269375534af.css">
+    <link rel="stylesheet" href="/css/academic.bf0e83303c280eb8e81796754587eb7d.css">
   
 
   
+
+
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-139145569-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
 
@@ -146,6 +133,56 @@
     
     <meta property="article:modified_time" content="2019-03-18T00:00:00&#43;00:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geertlitjens.nl/publication/bult-19-a/"
+  },
+  "headline": "Automated Gleason Grading of Prostate Biopsies Using Deep Learning",
+  
+  "datePublished": "2019-03-18T00:00:00Z",
+  "dateModified": "2019-03-18T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "W. Bulten"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geert Litjens",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geertlitjens.nl/img/icon-512.png"
+    }
+  },
+  "description": "Grading prostate cancer is a time-consuming process and suffers from high inter- and intra-observer variability. Advances in computer-aided diagnosis have shown promise in improving histopathological diagnosis. We trained a deep learning system using data retrieved from the patients records to grade digitized prostate biopsies. Our system is the first that can automatically classify background, benign epithelium, Gleason 3, 4, and 5 on a gland-by-gland level in prostate biopsies. 532 glass slides containing 2162 prostate biopsies, evaluated by an experienced urogenital pathologist were collected and scanned. 596 biopsies were kept separate for evaluation, the remaining 1576 were used to train the deep learning algorithm (see table for Gleason grade distribution). A single label denoting the Gleason score (e.g. 3+4=7) was available for each biopsy, without information on tumor location or volume. To generate detailed annotations for training we used two previously trained deep learning networks to first segment the epithelium and, subsequently, to detect cancer. The Gleason grade from the patient record was assigned to the cancerous epithelium. These generated weakly annotated regions of tumor were then used to train a Gleason grading system. To evaluate, the system was applied to the biopsies in the test set. We used the total predicted surface area of each growth pattern to determine the Gleason score of the biopsy. Predicted tumor areas smaller than 15% of total epithelial tissue were considered unreliable (e.g. incomplete glands at the edges of the biopsy) and ignored for slide level classification. For predicted grades only areas larger than 5% of all epithelial tissue were considered, which is also common in clinical practice. Predicting whether a biopsy contains tumor resulted in an accuracy of 86% (linear weighted kappa (k) of 0.73, area under the ROC curve of 0.96). We compared the predicted primary Gleason grade to the one from the pathologists’ report. Our system achieved an accuracy of 75% (k 0.64). On predicting the Grade Group (using primary and secondary pattern), our system achieved an accuracy of 67% (k 0.57). Misclassifications of more than one grade are rare. Our deep learning system automatically identifies Gleason patterns and benign tissue on a gland-by-gland basis. This can be used to determine the biopsy-level Grade Group and Gleason score, and show which parts of the tissue contribute to this prediction. Improvements need to be made to decrease misclassifications, for example in areas with inflammation."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -425,7 +462,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -446,7 +483,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Automated Gleason Grading of Prostate Biopsies Using Deep Learning</h1>
+  <h1>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</h1>
 
   
 
@@ -469,7 +506,8 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/h.-pinckaers/">H. Pinckaers</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen-van de Kaa</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-litjens/">G. Litjens</a></span>
+  
+  <span><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span><a href="/authors/h.-pinckaers/">H. Pinckaers</a></span>, <span><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen-van de Kaa</a></span>, <span><a href="/authors/g.-litjens/">G. Litjens</a></span>
 
   </div>
   
@@ -566,7 +604,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Grading prostate cancer is a time-consuming process and suffers from high inter- and intra-observer variability. Advances in computer-aided diagnosis have shown promise in improving histopathological diagnosis. We trained a deep learning system using data retrieved from the patients records to grade digitized prostate biopsies. Our system is the first that can automatically classify background, benign epithelium, Gleason 3, 4, and 5 on a gland-by-gland level in prostate biopsies. 532 glass slides containing 2162 prostate biopsies, evaluated by an experienced urogenital pathologist were collected and scanned. 596 biopsies were kept separate for evaluation, the remaining 1576 were used to train the deep learning algorithm (see table for Gleason grade distribution). A single label denoting the Gleason score (e.g. 3+4=7) was available for each biopsy, without information on tumor location or volume. To generate detailed annotations for training we used two previously trained deep learning networks to first segment the epithelium and, subsequently, to detect cancer. The Gleason grade from the patient record was assigned to the cancerous epithelium. These generated weakly annotated regions of tumor were then used to train a Gleason grading system. To evaluate, the system was applied to the biopsies in the test set. We used the total predicted surface area of each growth pattern to determine the Gleason score of the biopsy. Predicted tumor areas smaller than 15% of total epithelial tissue were considered unreliable (e.g. incomplete glands at the edges of the biopsy) and ignored for slide level classification. For predicted grades only areas larger than 5% of all epithelial tissue were considered, which is also common in clinical practice. Predicting whether a biopsy contains tumor resulted in an accuracy of 86% (linear weighted kappa (k) of 0.73, area under the ROC curve of 0.96). We compared the predicted primary Gleason grade to the one from the pathologists’ report. Our system achieved an accuracy of 75% (k 0.64). On predicting the Grade Group (using primary and secondary pattern), our system achieved an accuracy of 67% (k 0.57). Misclassifications of more than one grade are rare. Our deep learning system automatically identifies Gleason patterns and benign tissue on a gland-by-gland basis. This can be used to determine the biopsy-level Grade Group and Gleason score, and show which parts of the tissue contribute to this prediction. Improvements need to be made to decrease misclassifications, for example in areas with inflammation.</p>
+    <p class="pub-abstract">Grading prostate cancer is a time-consuming process and suffers from high inter- and intra-observer variability. Advances in computer-aided diagnosis have shown promise in improving histopathological diagnosis. We trained a deep learning system using data retrieved from the patients records to grade digitized prostate biopsies. Our system is the first that can automatically classify background, benign epithelium, Gleason 3, 4, and 5 on a gland-by-gland level in prostate biopsies. 532 glass slides containing 2162 prostate biopsies, evaluated by an experienced urogenital pathologist were collected and scanned. 596 biopsies were kept separate for evaluation, the remaining 1576 were used to train the deep learning algorithm (see table for Gleason grade distribution). A single label denoting the Gleason score (e.g. 3+4=7) was available for each biopsy, without information on tumor location or volume. To generate detailed annotations for training we used two previously trained deep learning networks to first segment the epithelium and, subsequently, to detect cancer. The Gleason grade from the patient record was assigned to the cancerous epithelium. These generated weakly annotated regions of tumor were then used to train a Gleason grading system. To evaluate, the system was applied to the biopsies in the test set. We used the total predicted surface area of each growth pattern to determine the Gleason score of the biopsy. Predicted tumor areas smaller than 15% of total epithelial tissue were considered unreliable (e.g. incomplete glands at the edges of the biopsy) and ignored for slide level classification. For predicted grades only areas larger than 5% of all epithelial tissue were considered, which is also common in clinical practice. Predicting whether a biopsy contains tumor resulted in an accuracy of 86% (linear weighted kappa (k) of 0.73, area under the ROC curve of 0.96). We compared the predicted primary Gleason grade to the one from the pathologists’ report. Our system achieved an accuracy of 75% (k 0.64). On predicting the Grade Group (using primary and secondary pattern), our system achieved an accuracy of 67% (k 0.57). Misclassifications of more than one grade are rare. Our deep learning system automatically identifies Gleason patterns and benign tissue on a gland-by-gland basis. This can be used to determine the biopsy-level Grade Group and Gleason score, and show which parts of the tissue contribute to this prediction. Improvements need to be made to decrease misclassifications, for example in areas with inflammation.</p>
     
 
     
@@ -630,20 +668,22 @@
 
 
 
+
   
   
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/w.-bulten/"></a></h5>
+      <h5 class="card-title"><a href="/authors/w.-bulten/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
-        
-      </ul>
+  
+</ul>
+
     </div>
   </div>
 
@@ -723,7 +763,7 @@
     
     
     
-    <script src="/js/academic.min.dc856155b640fa1cd8bd8b7b068fe79c.js"></script>
+    <script src="/js/academic.min.84d185001460a90007fb2f6dcc66616e.js"></script>
 
     
 
@@ -746,7 +786,7 @@
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>
