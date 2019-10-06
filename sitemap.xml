@@ -3,32 +3,217 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://geertlitjens.nl/authors/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/media/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/media/omroep_pm_zomeravond/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication_types/2/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/a.-polonia/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/artificial-intelligence/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/b.-de-vos/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/cardiovascular-imaging/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/computational-pathology/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/convolutional-neural-network/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/d.-tellez/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/deep-learning/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/f.-ciompi/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/g.-litjens/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/h.-pinckaers/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/i.-i%C5%A1gum/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/immune-cell-detection/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/immunohistochemistry/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/j.-bokhorst/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/j.-parry/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/j.-teuwen/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/j.-van-der-laak/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/j.-wolterink/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication/swid-19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/m.-abubakar/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/m.-balkenhol/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/m.-melnikova/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/m.-sherman/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/m.-van-rijthoven/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication/tell-19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/o.-geessink/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication_types/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/q.-manson/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication/tell-19-a/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication/litj-19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/t.-leiner/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/w.-bulten/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://geertlitjens.nl/publication_types/1/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/publication_types/2/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/publication/derck-19/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/g.-litjens/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +238,12 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/publication_types/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/publication/bel-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://geertlitjens.nl/authors/t.-de-bel/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/w.-bulten/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,11 +255,6 @@
   <url>
     <loc>https://geertlitjens.nl/authors/geert-litjens/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/media/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -188,11 +358,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/tags/</loc>
-    <lastmod>2019-04-24T13:41:43+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/tags/tutorial/</loc>
     <lastmod>2019-04-24T13:41:43+02:00</lastmod>
   </url>
@@ -253,11 +418,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/h.-pinckaers/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/publication_types/4/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -279,6 +439,11 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/a.-simpson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/publication/bult-19-b/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,12 +493,12 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/f.-ciompi/</loc>
+    <loc>https://geertlitjens.nl/authors/g.-van-pelt/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/g.-van-pelt/</loc>
+    <loc>https://geertlitjens.nl/authors/h.-van-boven/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -369,11 +534,6 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/j.-lotz/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/j.-van-der-laak/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,22 +578,12 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/o.-geessink/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/authors/o.-ronneberger/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://geertlitjens.nl/authors/p.-bilic/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -454,6 +604,11 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/r.-summers/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/r.-vink/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -480,11 +635,6 @@
   <url>
     <loc>https://geertlitjens.nl/authors/w.-mesker/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/tags/deep-learning/</loc>
-    <lastmod>2018-09-16T09:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -588,11 +738,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/m.-balkenhol/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/authors/m.-cetin/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -619,11 +764,6 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/q.-li/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/q.-manson/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -713,11 +853,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/d.-tellez/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/authors/i.-otte-holler/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -773,27 +908,12 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/m.-melnikova/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/m.-van-rijthoven/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/publication/pinc-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://geertlitjens.nl/publication/bult-18-a/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1229,11 +1349,6 @@
   
   <url>
     <loc>https://geertlitjens.nl/tags/active/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/tags/computational-pathology/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   

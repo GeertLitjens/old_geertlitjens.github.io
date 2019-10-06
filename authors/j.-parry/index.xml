@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Parry | Geert Litjens</title>
+    <link>https://geertlitjens.nl/authors/j.-parry/</link>
+      <atom:link href="https://geertlitjens.nl/authors/j.-parry/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Parry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <title>J. Parry</title>
+      <link>https://geertlitjens.nl/authors/j.-parry/</link>
+    </image>
+    
+    <item>
+      <title>Learning to detect lymphocytes in immunohistochemistry with deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

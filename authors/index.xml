@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/authors/</link>
       <atom:link href="https://geertlitjens.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,186 @@
     </image>
     
     <item>
+      <title>A. Polonia</title>
+      <link>https://geertlitjens.nl/authors/a.-polonia/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/a.-polonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. de Vos</title>
+      <link>https://geertlitjens.nl/authors/b.-de-vos/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/b.-de-vos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Tellez</title>
+      <link>https://geertlitjens.nl/authors/d.-tellez/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/d.-tellez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Ciompi</title>
+      <link>https://geertlitjens.nl/authors/f.-ciompi/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/f.-ciompi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G. Litjens</title>
       <link>https://geertlitjens.nl/authors/g.-litjens/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/g.-litjens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Pinckaers</title>
+      <link>https://geertlitjens.nl/authors/h.-pinckaers/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/h.-pinckaers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Išgum</title>
+      <link>https://geertlitjens.nl/authors/i.-i%C5%A1gum/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/i.-i%C5%A1gum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Bokhorst</title>
+      <link>https://geertlitjens.nl/authors/j.-bokhorst/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-bokhorst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Parry</title>
+      <link>https://geertlitjens.nl/authors/j.-parry/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-parry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Teuwen</title>
+      <link>https://geertlitjens.nl/authors/j.-teuwen/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-teuwen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. van der Laak</title>
+      <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-van-der-laak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Wolterink</title>
+      <link>https://geertlitjens.nl/authors/j.-wolterink/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-wolterink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Abubakar</title>
+      <link>https://geertlitjens.nl/authors/m.-abubakar/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/m.-abubakar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Balkenhol</title>
+      <link>https://geertlitjens.nl/authors/m.-balkenhol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/m.-balkenhol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Melnikova</title>
+      <link>https://geertlitjens.nl/authors/m.-melnikova/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/m.-melnikova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Sherman</title>
+      <link>https://geertlitjens.nl/authors/m.-sherman/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/m.-sherman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. van Rijthoven</title>
+      <link>https://geertlitjens.nl/authors/m.-van-rijthoven/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/m.-van-rijthoven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Geessink</title>
+      <link>https://geertlitjens.nl/authors/o.-geessink/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/o.-geessink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Bándi</title>
+      <link>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q. Manson</title>
+      <link>https://geertlitjens.nl/authors/q.-manson/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/q.-manson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Leiner</title>
+      <link>https://geertlitjens.nl/authors/t.-leiner/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/t.-leiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Bulten</title>
+      <link>https://geertlitjens.nl/authors/w.-bulten/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/w.-bulten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Swiderska-Chadaj</title>
+      <link>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</guid>
       <description></description>
     </item>
     
@@ -57,14 +233,6 @@
       <link>https://geertlitjens.nl/authors/t.-de-bel/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/t.-de-bel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W. Bulten</title>
-      <link>https://geertlitjens.nl/authors/w.-bulten/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/w.-bulten/</guid>
       <description></description>
     </item>
     
@@ -221,14 +389,6 @@
     </item>
     
     <item>
-      <title>H. Pinckaers</title>
-      <link>https://geertlitjens.nl/authors/h.-pinckaers/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/h.-pinckaers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A. Baidoshvili</title>
       <link>https://geertlitjens.nl/authors/a.-baidoshvili/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -301,18 +461,18 @@
     </item>
     
     <item>
-      <title>F. Ciompi</title>
-      <link>https://geertlitjens.nl/authors/f.-ciompi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/f.-ciompi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>G. van Pelt</title>
       <link>https://geertlitjens.nl/authors/g.-van-pelt/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/g.-van-pelt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. van Boven</title>
+      <link>https://geertlitjens.nl/authors/h.-van-boven/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/h.-van-boven/</guid>
       <description></description>
     </item>
     
@@ -361,14 +521,6 @@
       <link>https://geertlitjens.nl/authors/j.-lotz/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/j.-lotz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. van der Laak</title>
-      <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/j.-van-der-laak/</guid>
       <description></description>
     </item>
     
@@ -437,14 +589,6 @@
     </item>
     
     <item>
-      <title>O. Geessink</title>
-      <link>https://geertlitjens.nl/authors/o.-geessink/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/o.-geessink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>O. Ronneberger</title>
       <link>https://geertlitjens.nl/authors/o.-ronneberger/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -457,14 +601,6 @@
       <link>https://geertlitjens.nl/authors/p.-bilic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/p.-bilic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Bándi</title>
-      <link>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/p.-b%C3%A1ndi/</guid>
       <description></description>
     </item>
     
@@ -497,6 +633,14 @@
       <link>https://geertlitjens.nl/authors/r.-summers/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/r.-summers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Vink</title>
+      <link>https://geertlitjens.nl/authors/r.-vink/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/r.-vink/</guid>
       <description></description>
     </item>
     
@@ -677,14 +821,6 @@
     </item>
     
     <item>
-      <title>M. Balkenhol</title>
-      <link>https://geertlitjens.nl/authors/m.-balkenhol/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/m.-balkenhol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Cetin</title>
       <link>https://geertlitjens.nl/authors/m.-cetin/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -729,14 +865,6 @@
       <link>https://geertlitjens.nl/authors/q.-li/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/q.-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Q. Manson</title>
-      <link>https://geertlitjens.nl/authors/q.-manson/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/q.-manson/</guid>
       <description></description>
     </item>
     
@@ -837,14 +965,6 @@
     </item>
     
     <item>
-      <title>D. Tellez</title>
-      <link>https://geertlitjens.nl/authors/d.-tellez/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/d.-tellez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>I. Otte-Holler</title>
       <link>https://geertlitjens.nl/authors/i.-otte-holler/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
@@ -881,30 +1001,6 @@
       <link>https://geertlitjens.nl/authors/m.-intezar/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/m.-intezar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Melnikova</title>
-      <link>https://geertlitjens.nl/authors/m.-melnikova/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/m.-melnikova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. van Rijthoven</title>
-      <link>https://geertlitjens.nl/authors/m.-van-rijthoven/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/m.-van-rijthoven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z. Swiderska-Chadaj</title>
-      <link>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/z.-swiderska-chadaj/</guid>
       <description></description>
     </item>
     

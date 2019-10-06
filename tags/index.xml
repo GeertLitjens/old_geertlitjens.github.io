@@ -5,12 +5,68 @@
     <link>https://geertlitjens.nl/tags/</link>
       <atom:link href="https://geertlitjens.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://geertlitjens.nl/tags/</link>
     </image>
+    
+    <item>
+      <title>artificial intelligence</title>
+      <link>https://geertlitjens.nl/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cardiovascular imaging</title>
+      <link>https://geertlitjens.nl/tags/cardiovascular-imaging/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/cardiovascular-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Pathology</title>
+      <link>https://geertlitjens.nl/tags/computational-pathology/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/computational-pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional neural network</title>
+      <link>https://geertlitjens.nl/tags/convolutional-neural-network/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://geertlitjens.nl/tags/deep-learning/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immune cell detection</title>
+      <link>https://geertlitjens.nl/tags/immune-cell-detection/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/immune-cell-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunohistochemistry</title>
+      <link>https://geertlitjens.nl/tags/immunohistochemistry/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/tags/immunohistochemistry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAMELYON</title>
@@ -57,14 +113,6 @@
       <link>https://geertlitjens.nl/tags/teaching/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       <guid>https://geertlitjens.nl/tags/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://geertlitjens.nl/tags/deep-learning/</link>
-      <pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate>
-      <guid>https://geertlitjens.nl/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -121,14 +169,6 @@
       <link>https://geertlitjens.nl/tags/active/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/tags/active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Pathology</title>
-      <link>https://geertlitjens.nl/tags/computational-pathology/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/tags/computational-pathology/</guid>
       <description></description>
     </item>
     

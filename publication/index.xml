@@ -13,6 +13,38 @@
     </image>
     
     <item>
+      <title>Learning to detect lymphocytes in immunohistochemistry with deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Image Compression for Gigapixel Histopathology Image Analysis</title>
+      <link>https://geertlitjens.nl/publication/tell-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/tell-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology.</title>
+      <link>https://geertlitjens.nl/publication/tell-19-a/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/tell-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-Art Deep Learning in Cardiovascular Image Analysis.</title>
+      <link>https://geertlitjens.nl/publication/litj-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/litj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dealing with Label Scarcity in Computational Pathology: A Use Case in Prostate Cancer Classification</title>
       <link>https://geertlitjens.nl/publication/derck-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -57,6 +89,14 @@
       <link>https://geertlitjens.nl/publication/simp-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/simp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Gleason Grading of Prostate Biopsies using Deep Learning</title>
+      <link>https://geertlitjens.nl/publication/bult-19-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-19-b/</guid>
       <description></description>
     </item>
     

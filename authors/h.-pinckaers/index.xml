@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/authors/h.-pinckaers/</link>
       <atom:link href="https://geertlitjens.nl/authors/h.-pinckaers/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Pinckaers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>H. Pinckaers</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Learning to detect lymphocytes in immunohistochemistry with deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</title>
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Gleason Grading of Prostate Biopsies using Deep Learning</title>
+      <link>https://geertlitjens.nl/publication/bult-19-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-19-b/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,27 @@
     <link>https://geertlitjens.nl/media/</link>
       <atom:link href="https://geertlitjens.nl/media/index.xml" rel="self" type="application/rss+xml" />
     <description>In the Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>In the Media</title>
       <link>https://geertlitjens.nl/media/</link>
     </image>
+    
+    <item>
+      <title>Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</title>
+      <link>https://geertlitjens.nl/media/omroep_pm_zomeravond/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/omroep_pm_zomeravond/</guid>
+      <description>&lt;p&gt;Above you can find the full link to the video on the Omroep P&amp;amp;M website (via the Video button). For convenience I have also added a link to YouTube, which you can see here:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/seXpZq9v1EU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Report on Omroep Gelderland on &#39;De Nieuwe Mens&#39;</title>

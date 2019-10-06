@@ -5,12 +5,20 @@
     <link>https://geertlitjens.nl/authors/w.-bulten/</link>
       <atom:link href="https://geertlitjens.nl/authors/w.-bulten/index.xml" rel="self" type="application/rss+xml" />
     <description>W. Bulten</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>W. Bulten</title>
       <link>https://geertlitjens.nl/authors/w.-bulten/</link>
     </image>
+    
+    <item>
+      <title>Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology.</title>
+      <link>https://geertlitjens.nl/publication/tell-19-a/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/tell-19-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dealing with Label Scarcity in Computational Pathology: A Use Case in Prostate Cancer Classification</title>
@@ -25,6 +33,14 @@
       <link>https://geertlitjens.nl/publication/bult-19-a/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/bult-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Gleason Grading of Prostate Biopsies using Deep Learning</title>
+      <link>https://geertlitjens.nl/publication/bult-19-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-19-b/</guid>
       <description></description>
     </item>
     

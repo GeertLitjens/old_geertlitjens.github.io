@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Geert Litjens</title>
+    <title>deep learning | Geert Litjens</title>
     <link>https://geertlitjens.nl/tags/deep-learning/</link>
       <atom:link href="https://geertlitjens.nl/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 16 Sep 2018 09:30:00 +0200</lastBuildDate>
+    <description>deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
-      <title>Deep Learning</title>
+      <title>deep learning</title>
       <link>https://geertlitjens.nl/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Learning to detect lymphocytes in immunohistochemistry with deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology.</title>
+      <link>https://geertlitjens.nl/publication/tell-19-a/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/tell-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-Art Deep Learning in Cardiovascular Image Analysis.</title>
+      <link>https://geertlitjens.nl/publication/litj-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/litj-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introduction to Deep Learning in Medical Imaging</title>
