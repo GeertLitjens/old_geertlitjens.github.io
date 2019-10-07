@@ -13,6 +13,17 @@
     </image>
     
     <item>
+      <title></title>
+      <link>https://geertlitjens.nl/authors/geert/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/geert/</guid>
+      <description>&lt;p&gt;Geert Litjens is an assistant professor of Computational Pathology at the &lt;a href=&#34;https://www.radboudumc.nl&#34;&gt;Radboud University Medical Center&lt;/a&gt;. His research is at the intersection of machine learning, medical imaging, and oncology. He co-chairs the &lt;a href=&#34;https://www.computationalpathology.eu&#34;&gt;Computational Pathology Group&lt;/a&gt;, which develops automated machine learning systems for cancer detection, biomarker discovery and quantification, and improved prognostication.&lt;/p&gt;
+
+&lt;p&gt;He is also the developer of the &lt;a href=&#34;https://computationalpathologygroup.github.io/ASAP/&#34;&gt;ASAP&lt;/a&gt; software package for analyzing and visualizing whole-slide images and (co-)organizer of several high-profile challenges in medical imaging such as &lt;a href=&#34;https://promise12.grand-challenge.org&#34;&gt;PROMISE12&lt;/a&gt; and &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;CAMELYON&lt;/a&gt;. He (co-)authored over 60 publications in medical, imaging, and machine learning conferences and journals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A. Polonia</title>
       <link>https://geertlitjens.nl/authors/a.-polonia/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -237,14 +248,6 @@
     </item>
     
     <item>
-      <title>Geert Litjens</title>
-      <link>https://geertlitjens.nl/authors/geert-litjens/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/geert-litjens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A. Padhani</title>
       <link>https://geertlitjens.nl/authors/a.-padhani/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -345,6 +348,14 @@
       <link>https://geertlitjens.nl/authors/u.-attenberger/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/u.-attenberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geert Litjens</title>
+      <link>https://geertlitjens.nl/authors/geert-litjens/</link>
+      <pubDate>Mon, 08 Apr 2019 13:58:34 +0200</pubDate>
+      <guid>https://geertlitjens.nl/authors/geert-litjens/</guid>
       <description></description>
     </item>
     
@@ -1986,17 +1997,6 @@
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/m.-medved/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://geertlitjens.nl/authors/geert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/geert/</guid>
-      <description>&lt;p&gt;Geert Litjens is an assistant professor of Computational Pathology at the &lt;a href=&#34;https://www.radboudumc.nl&#34;&gt;Radboud University Medical Center&lt;/a&gt;. His research is at the intersection of machine learning, medical imaging, and oncology. He co-chairs the &lt;a href=&#34;https://www.computationalpathology.eu&#34;&gt;Computational Pathology Group&lt;/a&gt;, which develops automated machine learning systems for cancer detection, biomarker discovery and quantification, and improved prognostication.&lt;/p&gt;
-
-&lt;p&gt;He is also the developer of the &lt;a href=&#34;https://computationalpathologygroup.github.io/ASAP/&#34;&gt;ASAP&lt;/a&gt; software package for analyzing and visualizing whole-slide images and (co-)organizer of several high-profile challenges in medical imaging such as &lt;a href=&#34;https://promise12.grand-challenge.org&#34;&gt;PROMISE12&lt;/a&gt; and &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;CAMELYON&lt;/a&gt;. He (co-)authored over 60 publications in medical, imaging, and machine learning conferences and journals.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

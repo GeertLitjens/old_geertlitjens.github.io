@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://geertlitjens.nl/authors/geert/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://geertlitjens.nl/authors/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
@@ -253,11 +258,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/authors/geert-litjens/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/media/omroep_gelderland_interview/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
@@ -380,6 +380,11 @@
   <url>
     <loc>https://geertlitjens.nl/tags/teaching/</loc>
     <lastmod>2019-04-19T13:41:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/authors/geert-litjens/</loc>
+    <lastmod>2019-04-08T13:58:34+02:00</lastmod>
   </url>
   
   <url>
@@ -2045,10 +2050,6 @@
   <url>
     <loc>https://geertlitjens.nl/publication/litj-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/authors/geert/</loc>
   </url>
   
   <url>
