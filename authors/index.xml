@@ -5,12 +5,36 @@
     <link>https://geertlitjens.nl/authors/</link>
       <atom:link href="https://geertlitjens.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://geertlitjens.nl/authors/</link>
     </image>
+    
+    <item>
+      <title>F. Ciompi</title>
+      <link>https://geertlitjens.nl/authors/f.-ciompi/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/f.-ciompi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Litjens</title>
+      <link>https://geertlitjens.nl/authors/g.-litjens/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/g.-litjens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. van der Laak</title>
+      <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/authors/j.-van-der-laak/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -44,22 +68,6 @@
       <link>https://geertlitjens.nl/authors/d.-tellez/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/d.-tellez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Ciompi</title>
-      <link>https://geertlitjens.nl/authors/f.-ciompi/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/f.-ciompi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Litjens</title>
-      <link>https://geertlitjens.nl/authors/g.-litjens/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/g.-litjens/</guid>
       <description></description>
     </item>
     
@@ -100,14 +108,6 @@
       <link>https://geertlitjens.nl/authors/j.-teuwen/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/authors/j.-teuwen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. van der Laak</title>
-      <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/authors/j.-van-der-laak/</guid>
       <description></description>
     </item>
     

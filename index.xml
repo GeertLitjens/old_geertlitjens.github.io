@@ -5,12 +5,20 @@
     <link>https://geertlitjens.nl/</link>
       <atom:link href="https://geertlitjens.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Geert Litjens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/img/icon-192.png</url>
       <title>Geert Litjens</title>
       <link>https://geertlitjens.nl/</link>
     </image>
+    
+    <item>
+      <title>No pixel-level annotations needed</title>
+      <link>https://geertlitjens.nl/publication/laak-19/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/laak-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</title>
