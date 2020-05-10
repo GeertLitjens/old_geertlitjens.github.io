@@ -7,7 +7,7 @@
     <description>Prostate Cancer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <url>https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Prostate Cancer</title>
       <link>https://geertlitjens.nl/tags/prostate-cancer/</link>
     </image>
@@ -23,6 +23,8 @@
 
 
 
+  
+  
 
 
 
@@ -32,11 +34,16 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-prostate-cancer-segmentation-using-convolutional-neural-networks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -48,13 +55,9 @@
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Several groups have shown that quantifying the tumour and its micro-environment at the cellular level can result in biomarkers with strong prognostic potential, for example tumour/stroma ratio, the presence and composition of immune infiltrates or the amount of proliferating (Ki67-positive) cells. However, these findings have not translated to clinical practice due to the cumbersome and subjective manual extraction of these biomarkers from tissue slides.&lt;/p&gt;
-
 &lt;p&gt;Recent years have seen the more widespread introduction of whole-slide imaging systems, which for the first time allow computerized processing of tissue slides. Automated extraction of aforementioned quantitative biomarkers through image analysis can achieve the required accuracy and robustness to impact clinical practice. In tandem with these developments, computer vision has seen a machine learning revolution over the past decade due to the advent of deep learning.&lt;/p&gt;
-
 &lt;p&gt;In this project, we will combine deep learning and digitized whole-slide imaging of prostate cancer for reproducible extraction of quantitative biomarkers. Furthermore, due to the ability of deep learning systems to learn relevant features without human intervention, we expect to identify novel biomarkers which allow us to further improve the current risk models.&lt;/p&gt;
-
 &lt;p&gt;The aim of this project is to prevent unnecessary surgery and adjuvant therapy for individual patients by improving currently established risk models. Risk models will be enhanced through the addition of pre- and post-operative quantitative biomarkers obtained via image analysis and deep learning. We will focus both on the accurate and objective quantification of biomarkers already identified in literature and the discovery of novel biomarkers.&lt;/p&gt;
 </description>
     </item>

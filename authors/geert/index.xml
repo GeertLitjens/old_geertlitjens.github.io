@@ -7,7 +7,7 @@
     <description>Geert Litjens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <url>https://geertlitjens.nl/authors/geert/avatar_hu479035fafd22d129fec6f5686c63d1ad_40390_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Geert Litjens</title>
       <link>https://geertlitjens.nl/authors/geert/</link>
     </image>
@@ -18,7 +18,6 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/media/omroep_pm_zomeravond/</guid>
       <description>&lt;p&gt;Above you can find the full link to the video on the Omroep P&amp;amp;M website (via the Video button). For convenience I have also added a link to YouTube, which you can see here:&lt;/p&gt;
-
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/seXpZq9v1EU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -41,7 +40,6 @@
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/media/omroep_gelderland_interview/</guid>
       <description>&lt;p&gt;Above you can find the full link to the article and the video on the Omroep Gelderland website (via the Video button). For convenience I have also uploaded the video to YouTube, which you can see here:&lt;/p&gt;
-
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3dt-E1vBr94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -49,9 +47,7 @@
 
 &lt;br&gt;
 In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland which covers our research in a bit more detail. It is hosted on SoundCloud and can be listened here:&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614820420&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;
-</description>
+&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614820420&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -59,17 +55,15 @@ In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland whi
       <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
-      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using &lt;a href=&#34;https://github.com/basveeling/pcam&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
-
+      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the 
+&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using 
+&lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
 &lt;p&gt;To get started you need to setup a Python environment with NumPy, Matplotlib and TensorFlow 2.0. To use the PatchCAMELYON dataset with TensorFlow Datasets you will need to use my fork of the project for now as the pull request to add PatchCAMELYON to the master branch is not yet approved. To this end you need to do clone the repository and add it to your Python environment:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/GeertLitjens/tensorflow_datasets
 cd tensorflow_datasets
 python setup.py develop
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;After this step you should be able to import the relevant packages with the following cell&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Import NumPy to handle array&#39;s and Matplotlib for plotting loss curves
 import numpy as np
 import matplotlib.pyplot as plt
@@ -82,65 +76,66 @@ from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.callbacks import ModelCheckpoint
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;The next cell will automatically download PatchCAMELYON from Zenodo and prepare the TensorFlow Datasets&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import tensorflow_datasets as tfds
 pcam, pcam_info = tfds.load(&amp;quot;patch_camelyon&amp;quot;, with_info=True)
 print(pcam_info)
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;blockquote&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;    tfds.core.DatasetInfo(
-        name=&#39;patch_camelyon&#39;,
-        version=1.0.0,
-        description=&#39;The PatchCAMELYON dataset for identification of breast cancer metastases in lymph nodes. This dataset has been extracted from the larger CAMELYON dataset of 1399 whole-slide images, which created for the CAMELYON challenges at ISBI 2016 and 2017.It contains 96x96 RGB patches of normal lymph node and tumor tissue in a roughly 50/50 distributions. It packs the clinically-relevant task of metastasis detection into a straight-forward image classification task, akin to CIFAR-10 and MNIST. This increases the ease of use by removing the complexity of handling large whole-slide images.&#39;,
-        urls=[&#39;https://github.com/basveeling/pcam&#39;, &#39;https://camelyon17.grand-challenge.org/&#39;],
-        features=FeaturesDict({
-            &#39;image&#39;: Image(shape=(96, 96, 3), dtype=tf.uint8),
-            &#39;label&#39;: ClassLabel(shape=(), dtype=tf.int64, num_classes=2)
-        },
-        total_num_examples=327680,
-        splits={
-            &#39;test&#39;: &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;,
-            &#39;train&#39;: &amp;lt;tfds.core.SplitInfo num_examples=262144&amp;gt;,
-            &#39;validation&#39;: &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;
-        },
-        supervised_keys=(&#39;image&#39;, &#39;label&#39;),
-        citation=&#39;&amp;quot;&amp;quot;&amp;quot;
-            @ARTICLE{Veeling2018-qh,
-              title         = &amp;quot;Rotation Equivariant {CNNs} for Digital Pathology&amp;quot;,
-              author        = &amp;quot;Veeling, Bastiaan S and Linmans, Jasper and Winkens, Jim and
-                               Cohen, Taco and Welling, Max&amp;quot;,
-              month         =  jun,
-              year          =  2018,
-              archivePrefix = &amp;quot;arXiv&amp;quot;,
-              primaryClass  = &amp;quot;cs.CV&amp;quot;,
-              eprint        = &amp;quot;1806.03962&amp;quot;
-            }
-            @article{Litjens2018,
-                author = {Litjens, G. and Bándi, P. and Ehteshami Bejnordi, B. and Geessink, O. and Balkenhol, M. and Bult, P. and Halilovic, A. and Hermsen, M. and van de Loo, R. and Vogels, R. and Manson, Q.F. and Stathonikos, N. and Baidoshvili, A. and van Diest, P. and Wauters, C. and van Dijk, M. and van der Laak, J.},
-                title = {1399 H&amp;amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset},
-                journal = {GigaScience},
-                volume = {7},
-                number = {6},
-                year = {2018},
-                month = {05},
-                issn = {2047-217X},
-                doi = {10.1093/gigascience/giy065},
-                url = {https://dx.doi.org/10.1093/gigascience/giy065},
-                eprint = {http://oup.prod.sis.lan/gigascience/article-pdf/7/6/giy065/25045131/giy065.pdf},
-            }
-            
-        &amp;quot;&amp;quot;&amp;quot;&#39;,
-        redistribution_info=,
-    )
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;tfds.core.DatasetInfo(
+    name=&#39;patch_camelyon&#39;,
+    version=1.0.0,
+    description=&#39;The PatchCAMELYON dataset for identification of breast cancer metastases in lymph nodes. This dataset has been extracted from the larger CAMELYON dataset of 1399 whole-slide images, which created for the CAMELYON challenges at ISBI 2016 and 2017.It contains 96x96 RGB patches of normal lymph node and tumor tissue in a roughly 50/50 distributions. It packs the clinically-relevant task of metastasis detection into a straight-forward image classification task, akin to CIFAR-10 and MNIST. This increases the ease of use by removing the complexity of handling large whole-slide images.&#39;,
+    urls=[&#39;https://github.com/basveeling/pcam&#39;, &#39;https://camelyon17.grand-challenge.org/&#39;],
+    features=FeaturesDict({
+        &#39;image&#39;: Image(shape=(96, 96, 3), dtype=tf.uint8),
+        &#39;label&#39;: ClassLabel(shape=(), dtype=tf.int64, num_classes=2)
+    },
+    total_num_examples=327680,
+    splits={
+        &#39;test&#39;: &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;,
+        &#39;train&#39;: &amp;lt;tfds.core.SplitInfo num_examples=262144&amp;gt;,
+        &#39;validation&#39;: &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;
+    },
+    supervised_keys=(&#39;image&#39;, &#39;label&#39;),
+    citation=&#39;&amp;quot;&amp;quot;&amp;quot;
+        @ARTICLE{Veeling2018-qh,
+          title         = &amp;quot;Rotation Equivariant {CNNs} for Digital Pathology&amp;quot;,
+          author        = &amp;quot;Veeling, Bastiaan S and Linmans, Jasper and Winkens, Jim and
+                           Cohen, Taco and Welling, Max&amp;quot;,
+          month         =  jun,
+          year          =  2018,
+          archivePrefix = &amp;quot;arXiv&amp;quot;,
+          primaryClass  = &amp;quot;cs.CV&amp;quot;,
+          eprint        = &amp;quot;1806.03962&amp;quot;
+        }
+        @article{Litjens2018,
+            author = {Litjens, G. and Bándi, P. and Ehteshami Bejnordi, B. and Geessink, O. and Balkenhol, M. and Bult, P. and Halilovic, A. and Hermsen, M. and van de Loo, R. and Vogels, R. and Manson, Q.F. and Stathonikos, N. and Baidoshvili, A. and van Diest, P. and Wauters, C. and van Dijk, M. and van der Laak, J.},
+            title = {1399 H&amp;amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset},
+            journal = {GigaScience},
+            volume = {7},
+            number = {6},
+            year = {2018},
+            month = {05},
+            issn = {2047-217X},
+            doi = {10.1093/gigascience/giy065},
+            url = {https://dx.doi.org/10.1093/gigascience/giy065},
+            eprint = {http://oup.prod.sis.lan/gigascience/article-pdf/7/6/giy065/25045131/giy065.pdf},
+        }
+        
+    &amp;quot;&amp;quot;&amp;quot;&#39;,
+    redistribution_info=,
+)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;    
 
-&lt;p&gt;Now we have our dataset ready, it is time to define our model. The cell below defines a very simple VGG-like convolutional neural network using Keras.&lt;/p&gt;
+Now we have our dataset ready, it is time to define our model. The cell below defines a very simple VGG-like convolutional neural network using Keras.
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;#First setup the input to the network which has the dimensions of the patches contained within PatchCAMELYON
+
+```python
+#First setup the input to the network which has the dimensions of the patches contained within PatchCAMELYON
 input_img = Input(shape=(96,96,3))
 
 # Now we define the layers of the convolutional network: three blocks of two convolutional layers and a max-pool layer.
@@ -173,105 +168,101 @@ model.compile(optimizer=sgd_opt,
               metrics=[&#39;accuracy&#39;])
 model.summary()
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;blockquote&gt;
-&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt; Model: &amp;quot;model&amp;quot;
- _________________________________________________________________
- Layer (type)                 Output Shape              Param #   
- =================================================================
- input_1 (InputLayer)         [(None, 96, 96, 3)]       0         
- _________________________________________________________________
- conv2d (Conv2D)              (None, 94, 94, 16)        448       
- _________________________________________________________________
- conv2d_1 (Conv2D)            (None, 92, 92, 16)        2320      
- _________________________________________________________________
- max_pooling2d (MaxPooling2D) (None, 46, 46, 16)        0         
- _________________________________________________________________
- conv2d_2 (Conv2D)            (None, 44, 44, 32)        4640      
- _________________________________________________________________
- conv2d_3 (Conv2D)            (None, 42, 42, 32)        9248      
- _________________________________________________________________
- max_pooling2d_1 (MaxPooling2 (None, 21, 21, 32)        0         
- _________________________________________________________________
- conv2d_4 (Conv2D)            (None, 19, 19, 64)        18496     
- _________________________________________________________________
- conv2d_5 (Conv2D)            (None, 17, 17, 64)        36928     
- _________________________________________________________________
- max_pooling2d_2 (MaxPooling2 (None, 8, 8, 64)          0         
- _________________________________________________________________
- flatten (Flatten)            (None, 4096)              0         
- _________________________________________________________________
- dense (Dense)                (None, 256)               1048832   
- _________________________________________________________________
- dropout (Dropout)            (None, 256)               0         
- _________________________________________________________________
- dense_1 (Dense)              (None, 128)               32896     
- _________________________________________________________________
- dropout_1 (Dropout)          (None, 128)               0         
- _________________________________________________________________
- dense_2 (Dense)              (None, 2)                 258       
- =================================================================
- Total params: 1,154,066
- Trainable params: 1,154,066
- Non-trainable params: 0
- _________________________________________________________________
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Model: &amp;ldquo;model&amp;rdquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;layer-type-----------------output-shape--------------param-&#34;&gt;Layer (type)                 Output Shape              Param #&lt;/h1&gt;
+&lt;p&gt;input_1 (InputLayer)         [(None, 96, 96, 3)]       0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d (Conv2D)              (None, 94, 94, 16)        448&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d_1 (Conv2D)            (None, 92, 92, 16)        2320&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;max_pooling2d (MaxPooling2D) (None, 46, 46, 16)        0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d_2 (Conv2D)            (None, 44, 44, 32)        4640&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d_3 (Conv2D)            (None, 42, 42, 32)        9248&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;max_pooling2d_1 (MaxPooling2 (None, 21, 21, 32)        0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d_4 (Conv2D)            (None, 19, 19, 64)        18496&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;conv2d_5 (Conv2D)            (None, 17, 17, 64)        36928&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;max_pooling2d_2 (MaxPooling2 (None, 8, 8, 64)          0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;flatten (Flatten)            (None, 4096)              0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;dense (Dense)                (None, 256)               1048832&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;dropout (Dropout)            (None, 256)               0&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;dense_1 (Dense)              (None, 128)               32896&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;dropout_1 (Dropout)          (None, 128)               0&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;dense_2-dense--------------none-2-----------------258&#34;&gt;dense_2 (Dense)              (None, 2)                 258&lt;/h1&gt;
+&lt;p&gt;Total params: 1,154,066
+Trainable params: 1,154,066
+Non-trainable params: 0&lt;/p&gt;
+&lt;hr&gt;
+&lt;pre&gt;&lt;code&gt;
+To keep the dataset size small PatchCAMELYON is stored as int8 patches. For network training we need float32 and we want to normalize between 0 and 1. The function below performs this task.
 
-&lt;p&gt;To keep the dataset size small PatchCAMELYON is stored as int8 patches. For network training we need float32 and we want to normalize between 0 and 1. The function below performs this task.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def convert_sample(sample):
+```python
+def convert_sample(sample):
     image, label = sample[&#39;image&#39;], sample[&#39;label&#39;]  
     image = tf.image.convert_image_dtype(image, tf.float32)
     label = tf.one_hot(label, 2, dtype=tf.float32)
     return image, label
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Now we use the &lt;code&gt;tf.data&lt;/code&gt; pipeline to apply this function to the dataset in a parallel fashion. We also shuffle the training data with a shuffle buffer (which is randomly filled with samples from the dataset) of 1024. Next we define batches of 64 patches for training and 128 for validation. Last, we prefetch 2 batches such that we can get batches during training on the GPU.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;train_pipeline = pcam[&#39;train&#39;].map(convert_sample,
                                    num_parallel_calls=8).shuffle(1024).repeat().batch(64).prefetch(2)
 valid_pipeline = pcam[&#39;validation&#39;].map(convert_sample,
                                         num_parallel_calls=8).repeat().batch(128).prefetch(2)
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Now we just apply train and evaluate the model using our dataset pipeline. We pick the steps per epoch such that the entire training and validation set are covered each epoch. We keep the History object that &lt;code&gt;fit&lt;/code&gt; returns to plot the loss progression later on. We now just do 5 epochs for illustration purposes. Feel free to experiment with the number of epochs. If you want to keep the best model during training you can use the Keras &lt;code&gt;ModelCheckpoint&lt;/code&gt; callback to write each improvement to disk.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;hist = model.fit(train_pipeline,
                  validation_data=valid_pipeline,
                  verbose=2, epochs=5, steps_per_epoch=4096, validation_steps=256)
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;blockquote&gt;
-&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt; Epoch 1/5
- 4096/4096 - 101s - loss: 0.6756 - accuracy: 0.5501 - val_loss: 0.5228 - val_accuracy:  0.7527
- Epoch 2/5
- 4096/4096 - 98s - loss: 0.4292 - accuracy: 0.8071 - val_loss: 0.3946 - val_accuracy:  0.8249
- Epoch 3/5
- 4096/4096 - 99s - loss: 0.3165 - accuracy: 0.8675 - val_loss: 0.3634 - val_accuracy:  0.8390
- Epoch 4/5
- 4096/4096 - 100s - loss: 0.2586 - accuracy: 0.8958 - val_loss: 0.3707 - val_accuracy:  0.8340
- Epoch 5/5
- 4096/4096 - 99s - loss: 0.2260 - accuracy: 0.9118 - val_loss: 0.3353 - val_accuracy:  0.8568
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Epoch 1/5
+4096/4096 - 101s - loss: 0.6756 - accuracy: 0.5501 - val_loss: 0.5228 - val_accuracy:  0.7527
+Epoch 2/5
+4096/4096 - 98s - loss: 0.4292 - accuracy: 0.8071 - val_loss: 0.3946 - val_accuracy:  0.8249
+Epoch 3/5
+4096/4096 - 99s - loss: 0.3165 - accuracy: 0.8675 - val_loss: 0.3634 - val_accuracy:  0.8390
+Epoch 4/5
+4096/4096 - 100s - loss: 0.2586 - accuracy: 0.8958 - val_loss: 0.3707 - val_accuracy:  0.8340
+Epoch 5/5
+4096/4096 - 99s - loss: 0.2260 - accuracy: 0.9118 - val_loss: 0.3353 - val_accuracy:  0.8568&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+If we are happy with our performance on the validation set we can check whether it generalized to the test set. Note that it is bad practice to look at your test set performance too often; you will start making modification to your network/training procedure to optimize test set performance which results in optimistically biased performance estimates.
 
-&lt;p&gt;If we are happy with our performance on the validation set we can check whether it generalized to the test set. Note that it is bad practice to look at your test set performance too often; you will start making modification to your network/training procedure to optimize test set performance which results in optimistically biased performance estimates.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test_pipeline = pcam[&#39;test&#39;].map(convert_sample, num_parallel_calls=8).batch(128).prefetch(2)
+```python
+test_pipeline = pcam[&#39;test&#39;].map(convert_sample, num_parallel_calls=8).batch(128).prefetch(2)
 print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(test_pipeline, steps=128, verbose=0)[1]))
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;blockquote&gt;
-&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt; Test set accuracy is 0.8563
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Test set accuracy is 0.8563&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+If we are happy with the performance we can write the model to disk.
 
-&lt;p&gt;If we are happy with the performance we can write the model to disk.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
+```python
+model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;If you followed along with all the steps you should get a test set performance between 0.8 and 0.87. Differences occur due to different weight initialization of the network for example. To make network training more reproducible you can specify the random seed for the weight initializers manually. Note that the training process cannot be fully deterministic due to backpropogation step in the CUDNN library not being deterministic. I hope you enjoyed this brief tutorial, the next post will be about how to use our saved model to classify a whole-slide image.&lt;/p&gt;
 </description>
     </item>
@@ -281,18 +272,18 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <link>https://geertlitjens.nl/post/ml-for-elementary-school/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/ml-for-elementary-school/</guid>
-      <description>&lt;p&gt;In 2018 &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/&#34;&gt;Jeroen van der Laak&lt;/a&gt; and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the &lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt; and two of our PhD students: &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/meyke-hermsen/&#34;&gt;Meyke Hermsen&lt;/a&gt; and &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/&#34;&gt;Maschenka Balkenhol&lt;/a&gt;. In addition, the kids from the elemantary schools also made a great introductory for us:&lt;/p&gt;
-
+      <description>&lt;p&gt;In 2018 
+&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen van der Laak&lt;/a&gt; and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the 
+&lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt; and two of our PhD students: 
+&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/meyke-hermsen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meyke Hermsen&lt;/a&gt; and 
+&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maschenka Balkenhol&lt;/a&gt;. In addition, the kids from the elemantary schools also made a great introductory for us:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/UHsXJe_fXgY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;An &amp;lsquo;educational program&amp;rsquo; might sound a bit vague, so I&amp;rsquo;ll dive into some specifics. The idea was to develop in total six activities which the children could do under supervision of their teachers (and partly by themselves) which would guide them through the background and the different steps of our research. These activities would take place over the course of several weeks in which there would be lessons to prepare, execute, present, and provide feedback on the activities. In the end the children need to define their own research questions in relation to the activities and execute it. The biggest challenge was to build these activities in such a way that they stay true to our research results but are also understandable for children of varying ages.&lt;/p&gt;
-
 &lt;p&gt;We quickly decided to split our research into two separate components with separate activities which would come together in the final activity. The two components were: histopathological diagnostics and artificial intelligence. In the end we came up with these six activities:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;When are computers intelligent?&lt;/li&gt;
 &lt;li&gt;What are applications of artifical intelligence you encounter?&lt;/li&gt;
@@ -301,43 +292,49 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 &lt;li&gt;How does a pathologist do diagnoses?&lt;/li&gt;
 &lt;li&gt;Diagnosing cancer with artificially intelligent computers.&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;The fist two activities were aimed at getting a discussion going in the classroom on what the definition of intelligence is. Think along the lines of: Is a calculator intelligent? Or a navigation system? Secondly, the children were asked to discuss this at home and find examples of devices in their own house which they think were intelligent. In the end we would provide them with what we, within this project, mean with artificial intelligence: a computer program which automatically learns by example and can generalize what is learned this to unknown situations; similarly to the way they learn new skills.&lt;/p&gt;
-
-&lt;p&gt;The third activity was the first real hands-on activity for which I adapted the excellent webapp &lt;a href=&#34;https://teachablemachine.withgoogle.com/&#34;&gt;Teachable Machine&lt;/a&gt; by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found &lt;a href=&#34;https://geertlitjens.github.io/teachable-machine/&#34;&gt;here&lt;/a&gt;, with the source code &lt;a href=&#34;https://github.com/GeertLitjens/teachable-machine&#34;&gt;here&lt;/a&gt;. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.&lt;/p&gt;
-
+&lt;p&gt;The third activity was the first real hands-on activity for which I adapted the excellent webapp 
+&lt;a href=&#34;https://teachablemachine.withgoogle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teachable Machine&lt;/a&gt; by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found 
+&lt;a href=&#34;https://geertlitjens.github.io/teachable-machine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, with the source code 
+&lt;a href=&#34;https://github.com/GeertLitjens/teachable-machine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/oP8-_0ZyY3U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;The idea of this activity was that children can figure out what a computer can easily learn and what is more difficult. For example, if you teach it to react to your face, will it also react to your friend&amp;rsquo;s face? Can it discriminate between your left and right hand? And if it doesn&amp;rsquo;t, what do you need to do to make it learn the difference. Many challenges that actually appear in machine learning, like bias, can be explored this way in a playful manner.&lt;/p&gt;
-
 &lt;p&gt;The next two activities completely moved away from artifical intelligence and focused on a key job of a doctor: obtaining a diagnosis. In activity 4 we developed several disease scenarios and the children had to identify what questions you need to ask to figure out what disease the person has. Specifically, we had a scenario where a child was either suffering from food poisoning or the flu. This activity intends to show how the process of a diagnosis works and how, by asking the right questions, you can narrow down your options and eventually figure out what ails the patient.&lt;/p&gt;
-
 &lt;p&gt;Activity 5 move to the domain of histopathology. Here we introduced the microscope and concept of &amp;lsquo;good&amp;rsquo; cells and &amp;lsquo;bad&amp;rsquo; cells (cancer). We prepared a lot of images (one example below) to show the children the differences in appearance and how a pathologist, with a microscope, can see what is wrong with a patient. We also gave them a couple of images were they had to figure out themselves what were the good and bad cells.&lt;/p&gt;
-
-&lt;p&gt;The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a &lt;a href=&#34;https://geertlitjens.github.io/metastaticcellclassifier/index.html&#34;&gt;webapp&lt;/a&gt; (source &lt;a href=&#34;https://github.com/GeertLitjens/metastaticcellclassifier&#34;&gt;here&lt;/a&gt;) which I made based of the &lt;a href=&#34;https://github.com/brendansudol/faces&#34;&gt;face classifier&lt;/a&gt; by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &amp;lsquo;smart&amp;rsquo; computer system.&lt;/p&gt;
-
-
-
-
+&lt;p&gt;The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a 
+&lt;a href=&#34;https://geertlitjens.github.io/metastaticcellclassifier/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webapp&lt;/a&gt; (source 
+&lt;a href=&#34;https://github.com/GeertLitjens/metastaticcellclassifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) which I made based of the 
+&lt;a href=&#34;https://github.com/brendansudol/faces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;face classifier&lt;/a&gt; by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &amp;lsquo;smart&amp;rsquo; computer system.&lt;/p&gt;
 
 
 
 
 
+  
+  
 
 
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Example of the webapp for cell classification.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+
+
+&lt;figure id=&#34;figure-example-of-the-webapp-for-cell-classification&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/post/ml-for-elementary-school/featured_hue74fcaf7eec50e399212e8fcf24aaef6_643294_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Example of the webapp for cell classification.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/post/ml-for-elementary-school/featured_hue74fcaf7eec50e399212e8fcf24aaef6_643294_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;1071&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -349,11 +346,10 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;After the activities were finished a group of teacher at elementary school &lt;a href=&#34;https://www.po.deltascholen.org/BS-de-Gazelle/&#34;&gt;&amp;lsquo;de Gazelle&amp;rsquo;&lt;/a&gt; in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.&lt;/p&gt;
-
-&lt;p&gt;Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the &lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt;. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.&lt;/p&gt;
-
+&lt;p&gt;After the activities were finished a group of teacher at elementary school 
+&lt;a href=&#34;https://www.po.deltascholen.org/BS-de-Gazelle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;de Gazelle&amp;rsquo;&lt;/a&gt; in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.&lt;/p&gt;
+&lt;p&gt;Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the 
+&lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt;. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.&lt;/p&gt;
 &lt;p&gt;All in all, it was great to see the enthusiasm for our research in both the teachers and the children and for me it was a very rewarding experience. If you are interested in any of the materials or the project, don&amp;rsquo;t hesitate to reach out to me.&lt;/p&gt;
 </description>
     </item>
@@ -368,8 +364,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
   &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
-&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend 
+&lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
 </description>
     </item>
     
@@ -413,7 +409,6 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/talk/dag-van-de-pathologie/</guid>
       <description>&lt;p&gt;This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.&lt;/p&gt;
-
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vShDh2ln7_BMyIhnBJzjdLw71yzr9ojssfkyiuddkjpg7sZpN_6dbpw2JTEtJnPEMpWJf1zJUA6eeGR/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -473,6 +468,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+  
+  
 
 
 
@@ -482,11 +479,16 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-prostate-cancer-segmentation-using-convolutional-neural-networks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -498,13 +500,9 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Several groups have shown that quantifying the tumour and its micro-environment at the cellular level can result in biomarkers with strong prognostic potential, for example tumour/stroma ratio, the presence and composition of immune infiltrates or the amount of proliferating (Ki67-positive) cells. However, these findings have not translated to clinical practice due to the cumbersome and subjective manual extraction of these biomarkers from tissue slides.&lt;/p&gt;
-
 &lt;p&gt;Recent years have seen the more widespread introduction of whole-slide imaging systems, which for the first time allow computerized processing of tissue slides. Automated extraction of aforementioned quantitative biomarkers through image analysis can achieve the required accuracy and robustness to impact clinical practice. In tandem with these developments, computer vision has seen a machine learning revolution over the past decade due to the advent of deep learning.&lt;/p&gt;
-
 &lt;p&gt;In this project, we will combine deep learning and digitized whole-slide imaging of prostate cancer for reproducible extraction of quantitative biomarkers. Furthermore, due to the ability of deep learning systems to learn relevant features without human intervention, we expect to identify novel biomarkers which allow us to further improve the current risk models.&lt;/p&gt;
-
 &lt;p&gt;The aim of this project is to prevent unnecessary surgery and adjuvant therapy for individual patients by improving currently established risk models. Risk models will be enhanced through the addition of pre- and post-operative quantitative biomarkers obtained via image analysis and deep learning. We will focus both on the accurate and objective quantification of biomarkers already identified in literature and the discovery of novel biomarkers.&lt;/p&gt;
 </description>
     </item>
@@ -514,18 +512,16 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
       <link>https://geertlitjens.nl/project/camelyon/</link>
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
       <guid>https://geertlitjens.nl/project/camelyon/</guid>
-      <description>
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.&lt;/p&gt;
-
 &lt;p&gt;The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists. The presence of metastases in lymph nodes has therapeutic implications for breast cancer patients. Therefore, an automated solution would hold great promise to reduce the workload of pathologists while at the same time reduce the subjectivity in diagnosis.&lt;/p&gt;
 
 
 
 
 
+  
+  
 
 
 
@@ -535,11 +531,16 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-detection-of-breast-cancer-metastases-in-lymph-nodes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -551,18 +552,13 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 &lt;/figure&gt;
 
-
 &lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
-
 &lt;p&gt;The TNM system is an internationally accepted means to classify the extent of cancer spread in patients with a solid tumour. It is one of the most important tools for clinicians to help them select a suitable treatment option and to obtain an indication of prognosis. Since the histological assessment of lymph node metastases is an essential part of TNM classification, CAMELYON17 will focus on the pathologic N-stage, in short: pN-stage.&lt;/p&gt;
-
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
-
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
-
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-
-&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the 
+&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -577,6 +573,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+  
+  
 
 
 
@@ -586,11 +584,16 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-quantification-of-cd3-positive-cells-inside-yellow-and-outside-green-the-invasive-margin-of-prostate-cancer-orange-specimens&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/aahctd/featured_hu8dea62950b20b086faff196c1d701874_176128_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/aahctd/featured_hu8dea62950b20b086faff196c1d701874_176128_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;484&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -602,8 +605,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;Within this project, funded by the &lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
+&lt;p&gt;Within this project, funded by the 
+&lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
 </description>
     </item>
     
@@ -644,6 +647,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
+  
+  
 
 
 
@@ -653,11 +658,16 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Transversal slide through the prosate in a T2-weighted MRI sequence.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-transversal-slide-through-the-prosate-in-a-t2-weighted-mri-sequence&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/mpmri-pca/featured_hu82c705709ed6cbe2deb511e0b8d9074a_253218_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Transversal slide through the prosate in a T2-weighted MRI sequence.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/mpmri-pca/featured_hu82c705709ed6cbe2deb511e0b8d9074a_253218_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;545&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -669,8 +679,8 @@ print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(tes
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my &lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my 
+&lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -29,11 +29,6 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/g.-litjens/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -514,6 +509,11 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/g.-van-pelt/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1103,6 +1103,11 @@
   </url>
   
   <url>
+    <loc>https://geertlitjens.nl/tags/breast-cancer/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://geertlitjens.nl/tags/breast-cancer-computer-aided-detection-convolutional-neural-networks-deep-learning-machine-learning-mammography/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1443,16 +1448,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/tags/differential-humans-magnetic-resonance-imaging/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1479,6 +1474,11 @@
   
   <url>
     <loc>https://geertlitjens.nl/authors/m.-wille/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/methods/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1539,11 +1539,6 @@
   
   <url>
     <loc>https://geertlitjens.nl/publication/bejn-15/</loc>
-    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geertlitjens.nl/tags/breast-cancer/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1973,11 +1968,6 @@
   </url>
   
   <url>
-    <loc>https://geertlitjens.nl/tags/methods/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://geertlitjens.nl/tags/methods-lung-diseases/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -2069,6 +2059,14 @@
   
   <url>
     <loc>https://geertlitjens.nl/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-aged-diagnosis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geertlitjens.nl/tags/diagnosis/pathology/surgery-retrospective-studies/</loc>
   </url>
   
 </urlset>

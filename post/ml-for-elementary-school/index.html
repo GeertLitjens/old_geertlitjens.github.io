@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -44,12 +43,15 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -59,13 +61,125 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -79,36 +193,69 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.8a69be03602d067de96ed62f385d2c4e.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.bf0e83303c280eb8e81796754587eb7d.css">
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139145569-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-139145569-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
+
+  
+  
 
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://geertlitjens.nl/post/ml-for-elementary-school/">
 
+  
+  
+  
   
   
   
@@ -148,8 +295,6 @@
 
 
 
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -177,7 +322,7 @@
     "name": "Geert Litjens",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://geertlitjens.nl/img/icon-512.png"
+      "url": "https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "In 2018 Jeroen van der Laak and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed."
@@ -236,24 +381,41 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Geert Litjens</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Geert Litjens</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -453,16 +615,18 @@
       
 
         
-
-        
-
-        
-
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
@@ -509,11 +673,8 @@
   <div>
     
 
-
-
   
   <span><a href="/authors/geert/">Geert Litjens</a></span>
-
   </div>
   
   
@@ -574,18 +735,18 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>In 2018 <a href="https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/">Jeroen van der Laak</a> and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the <a href="https://www.ru.nl/wetenschapsknooppunt/">Radboud Wetenschapsknooppunt</a> and two of our PhD students: <a href="https://www.computationalpathologygroup.eu/members/meyke-hermsen/">Meyke Hermsen</a> and <a href="https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/">Maschenka Balkenhol</a>. In addition, the kids from the elemantary schools also made a great introductory for us:</p>
-
+      <p>In 2018 
+<a href="https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/" target="_blank" rel="noopener">Jeroen van der Laak</a> and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the 
+<a href="https://www.ru.nl/wetenschapsknooppunt/" target="_blank" rel="noopener">Radboud Wetenschapsknooppunt</a> and two of our PhD students: 
+<a href="https://www.computationalpathologygroup.eu/members/meyke-hermsen/" target="_blank" rel="noopener">Meyke Hermsen</a> and 
+<a href="https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/" target="_blank" rel="noopener">Maschenka Balkenhol</a>. In addition, the kids from the elemantary schools also made a great introductory for us:</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/UHsXJe_fXgY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>An &lsquo;educational program&rsquo; might sound a bit vague, so I&rsquo;ll dive into some specifics. The idea was to develop in total six activities which the children could do under supervision of their teachers (and partly by themselves) which would guide them through the background and the different steps of our research. These activities would take place over the course of several weeks in which there would be lessons to prepare, execute, present, and provide feedback on the activities. In the end the children need to define their own research questions in relation to the activities and execute it. The biggest challenge was to build these activities in such a way that they stay true to our research results but are also understandable for children of varying ages.</p>
-
 <p>We quickly decided to split our research into two separate components with separate activities which would come together in the final activity. The two components were: histopathological diagnostics and artificial intelligence. In the end we came up with these six activities:</p>
-
 <ol>
 <li>When are computers intelligent?</li>
 <li>What are applications of artifical intelligence you encounter?</li>
@@ -594,43 +755,49 @@
 <li>How does a pathologist do diagnoses?</li>
 <li>Diagnosing cancer with artificially intelligent computers.</li>
 </ol>
-
 <p>The fist two activities were aimed at getting a discussion going in the classroom on what the definition of intelligence is. Think along the lines of: Is a calculator intelligent? Or a navigation system? Secondly, the children were asked to discuss this at home and find examples of devices in their own house which they think were intelligent. In the end we would provide them with what we, within this project, mean with artificial intelligence: a computer program which automatically learns by example and can generalize what is learned this to unknown situations; similarly to the way they learn new skills.</p>
-
-<p>The third activity was the first real hands-on activity for which I adapted the excellent webapp <a href="https://teachablemachine.withgoogle.com/">Teachable Machine</a> by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found <a href="https://geertlitjens.github.io/teachable-machine/">here</a>, with the source code <a href="https://github.com/GeertLitjens/teachable-machine">here</a>. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.</p>
-
+<p>The third activity was the first real hands-on activity for which I adapted the excellent webapp 
+<a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noopener">Teachable Machine</a> by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found 
+<a href="https://geertlitjens.github.io/teachable-machine/" target="_blank" rel="noopener">here</a>, with the source code 
+<a href="https://github.com/GeertLitjens/teachable-machine" target="_blank" rel="noopener">here</a>. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/oP8-_0ZyY3U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>The idea of this activity was that children can figure out what a computer can easily learn and what is more difficult. For example, if you teach it to react to your face, will it also react to your friend&rsquo;s face? Can it discriminate between your left and right hand? And if it doesn&rsquo;t, what do you need to do to make it learn the difference. Many challenges that actually appear in machine learning, like bias, can be explored this way in a playful manner.</p>
-
 <p>The next two activities completely moved away from artifical intelligence and focused on a key job of a doctor: obtaining a diagnosis. In activity 4 we developed several disease scenarios and the children had to identify what questions you need to ask to figure out what disease the person has. Specifically, we had a scenario where a child was either suffering from food poisoning or the flu. This activity intends to show how the process of a diagnosis works and how, by asking the right questions, you can narrow down your options and eventually figure out what ails the patient.</p>
-
 <p>Activity 5 move to the domain of histopathology. Here we introduced the microscope and concept of &lsquo;good&rsquo; cells and &lsquo;bad&rsquo; cells (cancer). We prepared a lot of images (one example below) to show the children the differences in appearance and how a pathologist, with a microscope, can see what is wrong with a patient. We also gave them a couple of images were they had to figure out themselves what were the good and bad cells.</p>
-
-<p>The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a <a href="https://geertlitjens.github.io/metastaticcellclassifier/index.html">webapp</a> (source <a href="https://github.com/GeertLitjens/metastaticcellclassifier">here</a>) which I made based of the <a href="https://github.com/brendansudol/faces">face classifier</a> by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &lsquo;smart&rsquo; computer system.</p>
-
-
-
-
+<p>The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a 
+<a href="https://geertlitjens.github.io/metastaticcellclassifier/index.html" target="_blank" rel="noopener">webapp</a> (source 
+<a href="https://github.com/GeertLitjens/metastaticcellclassifier" target="_blank" rel="noopener">here</a>) which I made based of the 
+<a href="https://github.com/brendansudol/faces" target="_blank" rel="noopener">face classifier</a> by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &lsquo;smart&rsquo; computer system.</p>
 
 
 
 
 
+  
+  
 
 
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="featured.png" data-caption="Example of the webapp for cell classification.">
-<img src="featured.png" alt="" width="50%" ></a>
+
+
+
+
+<figure id="figure-example-of-the-webapp-for-cell-classification">
+
+
+  <a data-fancybox="" href="/post/ml-for-elementary-school/featured_hue74fcaf7eec50e399212e8fcf24aaef6_643294_2000x2000_fit_lanczos_2.png" data-caption="Example of the webapp for cell classification.">
+
+
+  <img data-src="/post/ml-for-elementary-school/featured_hue74fcaf7eec50e399212e8fcf24aaef6_643294_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="50%" height="1071">
+</a>
 
 
   
@@ -642,11 +809,10 @@
 
 </figure>
 
-
-<p>After the activities were finished a group of teacher at elementary school <a href="https://www.po.deltascholen.org/BS-de-Gazelle/">&lsquo;de Gazelle&rsquo;</a> in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.</p>
-
-<p>Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the <a href="https://www.ru.nl/wetenschapsknooppunt/">Radboud Wetenschapsknooppunt</a>. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.</p>
-
+<p>After the activities were finished a group of teacher at elementary school 
+<a href="https://www.po.deltascholen.org/BS-de-Gazelle/" target="_blank" rel="noopener">&lsquo;de Gazelle&rsquo;</a> in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.</p>
+<p>Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the 
+<a href="https://www.ru.nl/wetenschapsknooppunt/" target="_blank" rel="noopener">Radboud Wetenschapsknooppunt</a>. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.</p>
 <p>All in all, it was great to see the enthusiasm for our research in both the teachers and the children and for me it was a very rewarding experience. If you are interested in any of the materials or the project, don&rsquo;t hesitate to reach out to me.</p>
 
     </div>
@@ -656,22 +822,19 @@
 
 
 
-    
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/teaching/">teaching</a>
+  <a class="badge badge-light" href="/tags/elementary-school/">elementary school</a>
   
   <a class="badge badge-light" href="/tags/radboud-science-award/">radboud science award</a>
   
-  <a class="badge badge-light" href="/tags/elementary-school/">elementary school</a>
+  <a class="badge badge-light" href="/tags/teaching/">teaching</a>
   
 </div>
 
 
 
-    
-      
 
 
 
@@ -680,39 +843,44 @@
 
 
 
-  
-  
-    
-  
-  
 
 
-
-
-
-
-  
   
   
     
   
+  
 
 
 
-      
-      
+
+
+
+  
+  
+  
     
+  
 
-    
 
-    
+
+
 <section id="comments">
   
     <div id="commento"></div>
+
 <script src="https://cdn.commento.io/js/commento.js" defer></script>
 
   
 </section>
+
+
+
+
+
+
+  
+  
 
 
 
@@ -723,29 +891,24 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/bash.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/bash.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -753,7 +916,12 @@
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
     
 
     
@@ -774,6 +942,7 @@
 
     
     
+
     
     
     
@@ -784,7 +953,9 @@
     
     
     
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    
+    
+    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
 
     
 
@@ -793,13 +964,14 @@
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

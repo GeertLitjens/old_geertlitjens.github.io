@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -44,12 +43,15 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -59,13 +61,125 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -79,36 +193,69 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.8a69be03602d067de96ed62f385d2c4e.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.bf0e83303c280eb8e81796754587eb7d.css">
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139145569-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-139145569-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
+
+  
+  
 
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://geertlitjens.nl/cv/">
 
+  
+  
+  
   
   
   
@@ -125,8 +272,8 @@
   <meta property="og:site_name" content="Geert Litjens">
   <meta property="og:url" content="https://geertlitjens.nl/cv/">
   <meta property="og:title" content="CV | Geert Litjens">
-  <meta property="og:description" content="Geert&#39;s CV"><meta property="og:image" content="https://geertlitjens.nl/img/icon-192.png">
-  <meta property="twitter:image" content="https://geertlitjens.nl/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Geert&#39;s CV"><meta property="og:image" content="https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-01-01T00:00:00&#43;00:00">
@@ -188,24 +335,41 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Geert Litjens</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Geert Litjens</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -405,16 +569,18 @@
       
 
         
-
-        
-
-        
-
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
@@ -425,10 +591,11 @@
 
 
 
+
   
-
-
-
+  
+  
+  
 
 
 
@@ -480,13 +647,14 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/geert/avatar_hu479035fafd22d129fec6f5686c63d1ad_40390_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/geert/avatar_hu479035fafd22d129fec6f5686c63d1ad_40390_270x270_fill_q90_lanczos_center.jpg" alt="Geert Litjens">
       
 
       <div class="portrait-title">
@@ -621,9 +789,13 @@
     
     <h1>Biography</h1>
 
-    <p>Geert Litjens is an assistant professor of Computational Pathology at the <a href="https://www.radboudumc.nl">Radboud University Medical Center</a>. His research is at the intersection of machine learning, medical imaging, and oncology. He co-chairs the <a href="https://www.computationalpathology.eu">Computational Pathology Group</a>, which develops automated machine learning systems for cancer detection, biomarker discovery and quantification, and improved prognostication.</p>
-
-<p>He is also the developer of the <a href="https://computationalpathologygroup.github.io/ASAP/">ASAP</a> software package for analyzing and visualizing whole-slide images and (co-)organizer of several high-profile challenges in medical imaging such as <a href="https://promise12.grand-challenge.org">PROMISE12</a> and <a href="https://camelyon17.grand-challenge.org">CAMELYON</a>. He (co-)authored over 60 publications in medical, imaging, and machine learning conferences and journals.</p>
+    <p>Geert Litjens is an assistant professor of Computational Pathology at the 
+<a href="https://www.radboudumc.nl" target="_blank" rel="noopener">Radboud University Medical Center</a>. His research is at the intersection of machine learning, medical imaging, and oncology. He co-chairs the 
+<a href="https://www.computationalpathology.eu" target="_blank" rel="noopener">Computational Pathology Group</a>, which develops automated machine learning systems for cancer detection, biomarker discovery and quantification, and improved prognostication.</p>
+<p>He is also the developer of the 
+<a href="https://computationalpathologygroup.github.io/ASAP/" target="_blank" rel="noopener">ASAP</a> software package for analyzing and visualizing whole-slide images and (co-)organizer of several high-profile challenges in medical imaging such as 
+<a href="https://promise12.grand-challenge.org" target="_blank" rel="noopener">PROMISE12</a> and 
+<a href="https://camelyon17.grand-challenge.org" target="_blank" rel="noopener">CAMELYON</a>. He (co-)authored over 60 publications in medical, imaging, and machine learning conferences and journals.</p>
 
 
     <div class="row">
@@ -892,65 +1064,56 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      
-
-<h3 id="radboud-science-award">Radboud Science Award</h3>
-
+      <h3 id="radboud-science-award">Radboud Science Award</h3>
 <ul>
-<li><strong>Organisation:</strong> <a href="http://www.ru.nl/">Radboud University</a></li>
+<li><strong>Organisation:</strong> 
+<a href="http://www.ru.nl/" target="_blank" rel="noopener">Radboud University</a></li>
 <li><strong>Year:</strong> 2018</li>
 </ul>
-
 <h3 id="stitpro-pathologie-ii-grant">StITpro Pathologie II Grant</h3>
-
 <ul>
-<li><strong>Organisation:</strong> <a href="http://www.stitpro.nl/">StITPro</a></li>
+<li><strong>Organisation:</strong> 
+<a href="http://www.stitpro.nl/" target="_blank" rel="noopener">StITPro</a></li>
 <li><strong>Year:</strong> 2017</li>
-<li><strong>Amount:</strong> 220 k&euro;</li>
+<li><strong>Amount:</strong> 220 k€</li>
 </ul>
-
 <h3 id="veni-grant">Veni Grant</h3>
-
 <ul>
-<li><strong>Organisation:</strong> <a href="https://www.nwo.nl/">NWO</a></li>
+<li><strong>Organisation:</strong> 
+<a href="https://www.nwo.nl/" target="_blank" rel="noopener">NWO</a></li>
 <li><strong>Year:</strong> 2017</li>
-<li><strong>Amount:</strong> 250 k&euro;</li>
+<li><strong>Amount:</strong> 250 k€</li>
 </ul>
-
-<h3 id="bas-mulder-young-investigator-grant">Bas Mulder / Young Investigator Grant</h3>
-
+<h3 id="bas-mulder--young-investigator-grant">Bas Mulder / Young Investigator Grant</h3>
 <ul>
-<li><strong>Organisation:</strong> <a href="https://www.kwf.nl/">Dutch Cancer Association</a></li>
+<li><strong>Organisation:</strong> 
+<a href="https://www.kwf.nl/" target="_blank" rel="noopener">Dutch Cancer Association</a></li>
 <li><strong>Year:</strong> 2016</li>
-<li><strong>Amount:</strong> 719 k&euro;</li>
+<li><strong>Amount:</strong> 719 k€</li>
 </ul>
-
-<h3 id="radboud-institute-of-health-sciences-best-phd-thesis-runner-up">Radboud Institute of Health Sciences Best PhD Thesis - Runner-up</h3>
-
+<h3 id="radboud-institute-of-health-sciences-best-phd-thesis---runner-up">Radboud Institute of Health Sciences Best PhD Thesis - Runner-up</h3>
 <ul>
-<li><strong>Organisation:</strong> <a href="https://www.rihs.nl/">Radboud Institute of Health Sciences</a></li>
+<li><strong>Organisation:</strong> 
+<a href="https://www.rihs.nl/" target="_blank" rel="noopener">Radboud Institute of Health Sciences</a></li>
 <li><strong>Year:</strong> 2015</li>
 </ul>
-
 <h3 id="alexander-von-humboldt-postdoctoral-fellowship">Alexander von Humboldt Postdoctoral Fellowship</h3>
-
 <ul>
-<li><strong>Organisation:</strong> <a href="https://www.humboldt-foundation.de/web/home.html">Alexander von Humboldt Stiftung</a></li>
+<li><strong>Organisation:</strong> 
+<a href="https://www.humboldt-foundation.de/web/home.html" target="_blank" rel="noopener">Alexander von Humboldt Stiftung</a></li>
 <li><strong>Year:</strong> 2015</li>
-<li><strong>Amount:</strong> 25 k&euro;<br /></li>
+<li><strong>Amount:</strong> 25 k€</li>
 </ul>
-
-<h3 id="robert-f-wagner-best-student-paper-award-runner-up">Robert F. Wagner Best Student Paper Award - Runner-up</h3>
-
+<h3 id="robert-f-wagner-best-student-paper-award---runner-up">Robert F. Wagner Best Student Paper Award - Runner-up</h3>
 <ul>
-<li><strong>Organisation:</strong> <a href="https://spie.org/">SPIE</a></li>
-<li><strong>Year:</strong> 2014<br /></li>
+<li><strong>Organisation:</strong> 
+<a href="https://spie.org/" target="_blank" rel="noopener">SPIE</a></li>
+<li><strong>Year:</strong> 2014</li>
 </ul>
-
 <h3 id="miccai-student-travel-award">MICCAI Student Travel Award</h3>
-
 <ul>
-<li><strong>Organisation:</strong> <a href="https://www.miccai.org">MICCAI</a></li>
+<li><strong>Organisation:</strong> 
+<a href="https://www.miccai.org" target="_blank" rel="noopener">MICCAI</a></li>
 <li><strong>Year:</strong> 2012</li>
 </ul>
 
@@ -1017,6 +1180,14 @@
 
 
 
+
+
+
+
+
+  
+
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Selected Publications</h1>
@@ -1024,7 +1195,8 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    <p>This is a selection of the publications I am most proud of. For a full listing, please go to <a href="https://geertlitjens.nl/publication/">this</a> page.</p>
+    <p>This is a selection of the publications I am most proud of. For a full listing, please go to 
+<a href="https://geertlitjens.nl/publication/">this</a> page.</p>
 
 
     
@@ -1038,12 +1210,9 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/b.-ehteshami-bejnordi/">B. Ehteshami Bejnordi</a></span>, <span><a href="/authors/m.-veta/">M. Veta</a></span>, <span><a href="/authors/p.-van-diest/">P. van Diest</a></span>, <span><a href="/authors/b.-van-ginneken/">B. van Ginneken</a></span>, <span><a href="/authors/n.-karssemeijer/">N. Karssemeijer</a></span>, <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>, <span><a href="/authors/t.-consortium/">t. Consortium</a></span>
-
-  </span>.
+  <span>B. Ehteshami Bejnordi</span>, <span>M. Veta</span>, <span>P. van Diest</span>, <span>B. van Ginneken</span>, <span>N. Karssemeijer</span>, <span>G. Litjens</span>, <span>J. van der Laak</span>, <span>t. Consortium</span>.
+  </span>
   <a href="/publication/ehte-17/">Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer</a>.
   <em>JAMA</em>,
   2017.
@@ -1106,12 +1275,9 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span><a href="/authors/t.-kooi/">T. Kooi</a></span>, <span><a href="/authors/b.-ehteshami-bejnordi/">B. Ehteshami Bejnordi</a></span>, <span><a href="/authors/a.-setio/">A. Setio</a></span>, <span><a href="/authors/f.-ciompi/">F. Ciompi</a></span>, <span><a href="/authors/m.-ghafoorian/">M. Ghafoorian</a></span>, <span><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>, <span><a href="/authors/b.-van-ginneken/">B. van Ginneken</a></span>, <span>C. Sánchez</span>
-
-  </span>.
+  <span>G. Litjens</span>, <span>T. Kooi</span>, <span>B. Ehteshami Bejnordi</span>, <span>A. Setio</span>, <span>F. Ciompi</span>, <span>M. Ghafoorian</span>, <span>J. van der Laak</span>, <span>B. van Ginneken</span>, <span>C. Sánchez</span>.
+  </span>
   <a href="/publication/litj-17/">A Survey on Deep Learning in Medical Image Analysis</a>.
   <em>Med Image Anal</em>,
   2017.
@@ -1168,12 +1334,9 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span>C. Sánchez</span>, <span><a href="/authors/n.-timofeeva/">N. Timofeeva</a></span>, <span><a href="/authors/m.-hermsen/">M. Hermsen</a></span>, <span><a href="/authors/i.-nagtegaal/">I. Nagtegaal</a></span>, <span><a href="/authors/i.-kovacs/">I. Kovacs</a></span>, <span><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen-van de Kaa</a></span>, <span><a href="/authors/p.-bult/">P. Bult</a></span>, <span><a href="/authors/b.-van-ginneken/">B. van Ginneken</a></span>, <span><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>
-
-  </span>.
+  <span>G. Litjens</span>, <span>C. Sánchez</span>, <span>N. Timofeeva</span>, <span>M. Hermsen</span>, <span>I. Nagtegaal</span>, <span>I. Kovacs</span>, <span>C. Hulsbergen-van de Kaa</span>, <span>P. Bult</span>, <span>B. van Ginneken</span>, <span>J. van der Laak</span>.
+  </span>
   <a href="/publication/litj-16-c/">Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis</a>.
   <em>Nat Sci Rep</em>,
   2016.
@@ -1230,12 +1393,9 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span><a href="/authors/r.-toth/">R. Toth</a></span>, <span><a href="/authors/w.-van-de-ven/">W. van de Ven</a></span>, <span><a href="/authors/c.-hoeks/">C. Hoeks</a></span>, <span><a href="/authors/s.-kerkstra/">S. Kerkstra</a></span>, <span><a href="/authors/b.-van-ginneken/">B. van Ginneken</a></span>, <span><a href="/authors/g.-vincent/">G. Vincent</a></span>, <span><a href="/authors/g.-guillard/">G. Guillard</a></span>, <span><a href="/authors/n.-birbeck/">N. Birbeck</a></span>, <span><a href="/authors/j.-zhang/">J. Zhang</a></span>, <span><a href="/authors/r.-strand/">R. Strand</a></span>, <span><a href="/authors/f.-malmberg/">F. Malmberg</a></span>, <span><a href="/authors/y.-ou/">Y. Ou</a></span>, <span><a href="/authors/c.-davatzikos/">C. Davatzikos</a></span>, <span><a href="/authors/m.-kirschner/">M. Kirschner</a></span>, <span><a href="/authors/f.-jung/">F. Jung</a></span>, <span><a href="/authors/j.-yuan/">J. Yuan</a></span>, <span><a href="/authors/w.-qiu/">W. Qiu</a></span>, <span><a href="/authors/q.-gao/">Q. Gao</a></span>, <span><a href="/authors/p.-edwards/">P. Edwards</a></span>, <span><a href="/authors/b.-maan/">B. Maan</a></span>, <span><a href="/authors/f.-van-der-heijden/">F. van der Heijden</a></span>, <span><a href="/authors/s.-ghose/">S. Ghose</a></span>, <span><a href="/authors/j.-mitra/">J. Mitra</a></span>, <span><a href="/authors/j.-dowling/">J. Dowling</a></span>, <span><a href="/authors/d.-barratt/">D. Barratt</a></span>, <span><a href="/authors/h.-huisman/">H. Huisman</a></span>, <span><a href="/authors/a.-madabhushi/">A. Madabhushi</a></span>
-
-  </span>.
+  <span>G. Litjens</span>, <span>R. Toth</span>, <span>W. van de Ven</span>, <span>C. Hoeks</span>, <span>S. Kerkstra</span>, <span>B. van Ginneken</span>, <span>G. Vincent</span>, <span>G. Guillard</span>, <span>N. Birbeck</span>, <span>J. Zhang</span>, <span>R. Strand</span>, <span>F. Malmberg</span>, <span>Y. Ou</span>, <span>C. Davatzikos</span>, <span>M. Kirschner</span>, <span>F. Jung</span>, <span>J. Yuan</span>, <span>W. Qiu</span>, <span>Q. Gao</span>, <span>P. Edwards</span>, <span>B. Maan</span>, <span>F. van der Heijden</span>, <span>S. Ghose</span>, <span>J. Mitra</span>, <span>J. Dowling</span>, <span>D. Barratt</span>, <span>H. Huisman</span>, <span>A. Madabhushi</span>.
+  </span>
   <a href="/publication/litj-14/">Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge</a>.
   <em>Med Image Anal</em>,
   2014.
@@ -1298,12 +1458,9 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/g.-litjens/">G. Litjens</a></span>, <span><a href="/authors/o.-debats/">O. Debats</a></span>, <span><a href="/authors/j.-barentsz/">J. Barentsz</a></span>, <span><a href="/authors/n.-karssemeijer/">N. Karssemeijer</a></span>, <span><a href="/authors/h.-huisman/">H. Huisman</a></span>
-
-  </span>.
+  <span>G. Litjens</span>, <span>O. Debats</span>, <span>J. Barentsz</span>, <span>N. Karssemeijer</span>, <span>H. Huisman</span>.
+  </span>
   <a href="/publication/litj-14-c/">Computer-aided detection of prostate cancer in MRI</a>.
   <em>IEEE Trans Med Imaging</em>,
   2014.
@@ -1357,6 +1514,8 @@
       
     
 
+  
+
   </div>
 </div>
 
@@ -1405,24 +1564,17 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      
-
-<h3 id="spie-medical-imaging">SPIE Medical Imaging</h3>
-
+      <h3 id="spie-medical-imaging">SPIE Medical Imaging</h3>
 <ul>
 <li><strong>Role:</strong> Program Committee</li>
 <li><strong>Year:</strong> 2019</li>
 </ul>
-
 <h3 id="midl-medical-imaging-with-deep-learning-conference">MIDL (Medical Imaging with Deep Learning) Conference</h3>
-
 <ul>
 <li><strong>Role:</strong> Program Chair</li>
 <li><strong>Year:</strong> 2018</li>
 </ul>
-
 <h3 id="spie-medical-imaging-1">SPIE Medical Imaging</h3>
-
 <ul>
 <li><strong>Role:</strong> Program Committee</li>
 <li><strong>Year:</strong> 2018</li>
@@ -1477,80 +1629,57 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      
-
-<h3 id="swedish-deep-learning-conference">Swedish Deep Learning Conference</h3>
-
+      <h3 id="swedish-deep-learning-conference">Swedish Deep Learning Conference</h3>
 <ul>
 <li><strong>Location:</strong> Norrköping, Sweden</li>
 <li><strong>Year:</strong> 2019</li>
 </ul>
-
 <h3 id="nordic-pathology-symposium">Nordic Pathology Symposium</h3>
-
 <ul>
 <li><strong>Location:</strong> Linköping, Sweden</li>
 <li><strong>Year:</strong> 2019</li>
 </ul>
-
 <h3 id="nwo-bessensap">NWO Bessensap</h3>
-
 <ul>
 <li><strong>Location:</strong> Amsterdam, the Netherlands</li>
 <li><strong>Year:</strong> 2018</li>
 </ul>
-
 <h3 id="dutch-pathology-days">Dutch Pathology Days</h3>
-
 <ul>
 <li><strong>Location:</strong> Ede, the Netherlands</li>
 <li><strong>Year:</strong> 2018</li>
 </ul>
-
 <h3 id="pathology-visions-conference">Pathology Visions Conference</h3>
-
 <ul>
 <li><strong>Location:</strong> San Diego, United States of America</li>
 <li><strong>Year:</strong> 2017</li>
 </ul>
-
 <h3 id="congress-dutch-pediatric-medicine-society">Congress Dutch Pediatric Medicine Society</h3>
-
 <ul>
 <li><strong>Location:</strong> Arnhem, the Netherlands</li>
 <li><strong>Year:</strong> 2017</li>
 </ul>
-
 <h3 id="isbi-camelyon17-workshop">ISBI CAMELYON17 Workshop</h3>
-
 <ul>
 <li><strong>Location:</strong> Melbourne, Australia</li>
 <li><strong>Year:</strong> 2017</li>
 </ul>
-
 <h3 id="miccai-medical-computer-vision-workshop">MICCAI Medical Computer Vision Workshop</h3>
-
 <ul>
 <li><strong>Location:</strong> Athens, Greece</li>
 <li><strong>Year:</strong> 2016</li>
 </ul>
-
 <h3 id="miccai-computational-precision-medicine-workshop">MICCAI Computational Precision Medicine Workshop</h3>
-
 <ul>
 <li><strong>Location:</strong> Athens, Greece</li>
 <li><strong>Year:</strong> 2016</li>
 </ul>
-
 <h3 id="digital-pathology-congress">Digital Pathology Congress</h3>
-
 <ul>
 <li><strong>Location:</strong> London, United Kingdom</li>
 <li><strong>Year:</strong> 2016</li>
 </ul>
-
-<h3 id="european-conference-of-pathology-computational-pathology-symposium">European Conference of Pathology - Computational Pathology Symposium</h3>
-
+<h3 id="european-conference-of-pathology---computational-pathology-symposium">European Conference of Pathology - Computational Pathology Symposium</h3>
 <ul>
 <li><strong>Location:</strong> Cologne, Germany</li>
 <li><strong>Year:</strong> 2016</li>
@@ -1683,7 +1812,7 @@
   <div class="col-12 col-sm-4">
     <div class="featurette-icon"><i class="fas fa-brain"></i></div>
     <h3>Deep Learning</h3>
-    <p>Since 2013 I have been developing algorithms based on deep learning, initially with <a href="http://deeplearning.net/software/theano/">Theano</a>, later with TensorFlow. My initial work and that of many others is covered in our <a href="{{&lt; ref &quot;/publication/litj-17/index.md&quot; &gt;}}">survey</a>.</p>
+    <p>Since 2013 I have been developing algorithms based on deep learning, initially with <a href="http://deeplearning.net/software/theano/">Theano</a>, later with TensorFlow. My initial work and that of many others is covered in our [survey]({{&lt; ref &ldquo;/publication/litj-17/index.md&rdquo; &gt;}}).</p>
   </div>
   
   
@@ -1705,10 +1834,10 @@
   <div class="col-12 col-sm-4">
     <div class="featurette-icon"><i class="fas fa-language"></i></div>
     <h3>Languages</h3>
-    <p><strong>Dutch</strong>: native<br />
-  <strong>English</strong>: fluent<br />
-  <strong>German</strong>: intermediate<br />
-  <strong>French</strong>: basic</p>
+    <p><strong>Dutch</strong>: native<br>
+<strong>English</strong>: fluent<br>
+<strong>German</strong>: intermediate<br>
+<strong>French</strong>: basic</p>
   </div>
   
 </div>
@@ -1722,29 +1851,24 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/bash.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/bash.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -1752,7 +1876,12 @@
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
     
 
     
@@ -1773,6 +1902,7 @@
 
     
     
+
     
     
     
@@ -1783,7 +1913,9 @@
     
     
     
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    
+    
+    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
 
     
 
@@ -1792,13 +1924,14 @@
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

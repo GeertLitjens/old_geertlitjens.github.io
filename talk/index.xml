@@ -7,7 +7,7 @@
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <url>https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://geertlitjens.nl/talk/</link>
     </image>
@@ -30,8 +30,8 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
-&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend 
+&lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
 </description>
     </item>
     
@@ -49,7 +49,6 @@
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/talk/dag-van-de-pathologie/</guid>
       <description>&lt;p&gt;This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.&lt;/p&gt;
-
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vShDh2ln7_BMyIhnBJzjdLw71yzr9ojssfkyiuddkjpg7sZpN_6dbpw2JTEtJnPEMpWJf1zJUA6eeGR/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;

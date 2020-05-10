@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geertlitjens.nl/img/icon-192.png</url>
+      <url>https://geertlitjens.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://geertlitjens.nl/project/</link>
     </image>
@@ -23,6 +23,8 @@
 
 
 
+  
+  
 
 
 
@@ -32,11 +34,16 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-prostate-cancer-segmentation-using-convolutional-neural-networks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Prostate cancer segmentation using convolutional neural networks.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -48,13 +55,9 @@
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Several groups have shown that quantifying the tumour and its micro-environment at the cellular level can result in biomarkers with strong prognostic potential, for example tumour/stroma ratio, the presence and composition of immune infiltrates or the amount of proliferating (Ki67-positive) cells. However, these findings have not translated to clinical practice due to the cumbersome and subjective manual extraction of these biomarkers from tissue slides.&lt;/p&gt;
-
 &lt;p&gt;Recent years have seen the more widespread introduction of whole-slide imaging systems, which for the first time allow computerized processing of tissue slides. Automated extraction of aforementioned quantitative biomarkers through image analysis can achieve the required accuracy and robustness to impact clinical practice. In tandem with these developments, computer vision has seen a machine learning revolution over the past decade due to the advent of deep learning.&lt;/p&gt;
-
 &lt;p&gt;In this project, we will combine deep learning and digitized whole-slide imaging of prostate cancer for reproducible extraction of quantitative biomarkers. Furthermore, due to the ability of deep learning systems to learn relevant features without human intervention, we expect to identify novel biomarkers which allow us to further improve the current risk models.&lt;/p&gt;
-
 &lt;p&gt;The aim of this project is to prevent unnecessary surgery and adjuvant therapy for individual patients by improving currently established risk models. Risk models will be enhanced through the addition of pre- and post-operative quantitative biomarkers obtained via image analysis and deep learning. We will focus both on the accurate and objective quantification of biomarkers already identified in literature and the discovery of novel biomarkers.&lt;/p&gt;
 </description>
     </item>
@@ -64,18 +67,16 @@
       <link>https://geertlitjens.nl/project/camelyon/</link>
       <pubDate>Fri, 22 Jan 2016 22:00:35 +0100</pubDate>
       <guid>https://geertlitjens.nl/project/camelyon/</guid>
-      <description>
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.&lt;/p&gt;
-
 &lt;p&gt;The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists. The presence of metastases in lymph nodes has therapeutic implications for breast cancer patients. Therefore, an automated solution would hold great promise to reduce the workload of pathologists while at the same time reduce the subjectivity in diagnosis.&lt;/p&gt;
 
 
 
 
 
+  
+  
 
 
 
@@ -85,11 +86,16 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-detection-of-breast-cancer-metastases-in-lymph-nodes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Detection of breast cancer metastases in lymph nodes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -101,18 +107,13 @@
 
 &lt;/figure&gt;
 
-
 &lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
-
 &lt;p&gt;The TNM system is an internationally accepted means to classify the extent of cancer spread in patients with a solid tumour. It is one of the most important tools for clinicians to help them select a suitable treatment option and to obtain an indication of prognosis. Since the histological assessment of lymph node metastases is an essential part of TNM classification, CAMELYON17 will focus on the pathologic N-stage, in short: pN-stage.&lt;/p&gt;
-
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
-
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
-
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-
-&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the 
+&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -127,6 +128,8 @@
 
 
 
+  
+  
 
 
 
@@ -136,11 +139,16 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-quantification-of-cd3-positive-cells-inside-yellow-and-outside-green-the-invasive-margin-of-prostate-cancer-orange-specimens&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/aahctd/featured_hu8dea62950b20b086faff196c1d701874_176128_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Quantification of CD3-positive cells inside (yellow) and outside (green) the invasive margin of prostate cancer (orange) specimens.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/aahctd/featured_hu8dea62950b20b086faff196c1d701874_176128_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;484&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -152,8 +160,8 @@
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;Within this project, funded by the &lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
+&lt;p&gt;Within this project, funded by the 
+&lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
 </description>
     </item>
     
@@ -177,6 +185,8 @@
 
 
 
+  
+  
 
 
 
@@ -186,11 +196,16 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;Transversal slide through the prosate in a T2-weighted MRI sequence.&#34;&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+&lt;figure id=&#34;figure-transversal-slide-through-the-prosate-in-a-t2-weighted-mri-sequence&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/mpmri-pca/featured_hu82c705709ed6cbe2deb511e0b8d9074a_253218_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Transversal slide through the prosate in a T2-weighted MRI sequence.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/mpmri-pca/featured_hu82c705709ed6cbe2deb511e0b8d9074a_253218_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;545&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -202,8 +217,8 @@
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my &lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my 
+&lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
