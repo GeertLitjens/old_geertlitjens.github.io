@@ -5,12 +5,117 @@
     <link>https://geertlitjens.nl/authors/geert/</link>
       <atom:link href="https://geertlitjens.nl/authors/geert/index.xml" rel="self" type="application/rss+xml" />
     <description>Geert Litjens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/authors/geert/avatar_hu479035fafd22d129fec6f5686c63d1ad_40390_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Geert Litjens</title>
       <link>https://geertlitjens.nl/authors/geert/</link>
     </image>
+    
+    <item>
+      <title>DeepDerma</title>
+      <link>https://geertlitjens.nl/project/deepderma/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/project/deepderma/</guid>
+      <description>&lt;p&gt;Due to the tripling of skin cancer incidence over the past two decades, more skin biopsies and resections are performed than ever before. This has led to an enormous increase in workload for pathologists, who perform the microscopic diagnostics of skin samples.
+Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-annotation-of-a-basal-cell-carcinoma-a-skin-cancer-with-typically-good-prognosis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We propose not just to develop an algorithm which can perform skin diagnostics at the level of an expert pathologist, but also explicitly identify the most fruitful way of integrating these algorithms into the routine workflow. This project is exceedingly timely, as by the end of 2019 all histopathological diagnostics in the Radboud University Medical Center will be done digitally.&lt;/p&gt;
+&lt;p&gt;The project consists of four work packages. In work package 1, we will collect a large retrospective cohort of annotated and labeled skin biopsies and resections from multiple centers. The focus of work package 2 is on development of algorithms for segmentation of different skin tissue classes, subtyping of basal cell carcinoma, and identification of rare incidental findings. Work package 3 and 4 cover the development and prospective evaluation of the optimal algorithm-integrated workflow in a real world clinical setting.&lt;/p&gt;
+&lt;p&gt;After completion, we will have the world’s first prospectively evaluated algorithm-supported workflow for digital pathology, and a valuable, expert labeled, retrospective dataset of skin specimens; both excellent targets for valorization. Last, it will increase the time of pathologists for complex diagnostics and reduce the wait time for patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview with Kijk on AI in Medical Imaging</title>
+      <link>https://geertlitjens.nl/media/kijk-gleason/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/kijk-gleason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visit Dutch Prostate Cancer Patient Foundation</title>
+      <link>https://geertlitjens.nl/talk/visit-patient-foundation/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/talk/visit-patient-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRC article on artificial intelligence in medicine</title>
+      <link>https://geertlitjens.nl/media/nrc-gleason/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/nrc-gleason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</title>
+      <link>https://geertlitjens.nl/media/bnr-interview-gleason/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/bnr-interview-gleason/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/YnW2rUtjnNM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NOS Tech Podcast on AI for Gleason Grading</title>
+      <link>https://geertlitjens.nl/media/nos-techpodcast-gleason/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/nos-techpodcast-gleason/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fYaJ8xZrEFI?start=857&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Prostate Cancer Diagnostics</title>
+      <link>https://geertlitjens.nl/talk/prostate-cancer-academy/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/talk/prostate-cancer-academy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</title>

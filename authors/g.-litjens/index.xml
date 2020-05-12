@@ -5,12 +5,28 @@
     <link>https://geertlitjens.nl/authors/g.-litjens/</link>
       <atom:link href="https://geertlitjens.nl/authors/g.-litjens/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Litjens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>G. Litjens</title>
       <link>https://geertlitjens.nl/authors/g.-litjens/</link>
     </image>
+    
+    <item>
+      <title>Artificial Intelligence Assistance Significantly Improves Gleason Grading of Prostate Biopsies by Pathologists</title>
+      <link>https://geertlitjens.nl/publication/bult-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated deep-learning system for Gleason grading of prostate cancer using biopsies: a diagnostic study</title>
+      <link>https://geertlitjens.nl/publication/bult-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>No pixel-level annotations needed</title>
@@ -113,6 +129,14 @@
       <link>https://geertlitjens.nl/publication/pinc-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution-agnostic tissue segmentation in whole-slide histopathology images with convolutional neural networks</title>
+      <link>https://geertlitjens.nl/publication/band-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/band-19-a/</guid>
       <description></description>
     </item>
     

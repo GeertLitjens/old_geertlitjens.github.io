@@ -5,12 +5,62 @@
     <link>https://geertlitjens.nl/project/</link>
       <atom:link href="https://geertlitjens.nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://geertlitjens.nl/project/</link>
     </image>
+    
+    <item>
+      <title>DeepDerma</title>
+      <link>https://geertlitjens.nl/project/deepderma/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/project/deepderma/</guid>
+      <description>&lt;p&gt;Due to the tripling of skin cancer incidence over the past two decades, more skin biopsies and resections are performed than ever before. This has led to an enormous increase in workload for pathologists, who perform the microscopic diagnostics of skin samples.
+Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-annotation-of-a-basal-cell-carcinoma-a-skin-cancer-with-typically-good-prognosis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://geertlitjens.nl/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://geertlitjens.nl/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We propose not just to develop an algorithm which can perform skin diagnostics at the level of an expert pathologist, but also explicitly identify the most fruitful way of integrating these algorithms into the routine workflow. This project is exceedingly timely, as by the end of 2019 all histopathological diagnostics in the Radboud University Medical Center will be done digitally.&lt;/p&gt;
+&lt;p&gt;The project consists of four work packages. In work package 1, we will collect a large retrospective cohort of annotated and labeled skin biopsies and resections from multiple centers. The focus of work package 2 is on development of algorithms for segmentation of different skin tissue classes, subtyping of basal cell carcinoma, and identification of rare incidental findings. Work package 3 and 4 cover the development and prospective evaluation of the optimal algorithm-integrated workflow in a real world clinical setting.&lt;/p&gt;
+&lt;p&gt;After completion, we will have the world’s first prospectively evaluated algorithm-supported workflow for digital pathology, and a valuable, expert labeled, retrospective dataset of skin specimens; both excellent targets for valorization. Last, it will increase the time of pathologists for complex diagnostics and reduce the wait time for patients.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep PCa</title>

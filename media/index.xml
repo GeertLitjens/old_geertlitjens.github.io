@@ -5,12 +5,51 @@
     <link>https://geertlitjens.nl/media/</link>
       <atom:link href="https://geertlitjens.nl/media/index.xml" rel="self" type="application/rss+xml" />
     <description>In the Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>In the Media</title>
       <link>https://geertlitjens.nl/media/</link>
     </image>
+    
+    <item>
+      <title>Interview with Kijk on AI in Medical Imaging</title>
+      <link>https://geertlitjens.nl/media/kijk-gleason/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/kijk-gleason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRC article on artificial intelligence in medicine</title>
+      <link>https://geertlitjens.nl/media/nrc-gleason/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/nrc-gleason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</title>
+      <link>https://geertlitjens.nl/media/bnr-interview-gleason/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/bnr-interview-gleason/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/YnW2rUtjnNM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NOS Tech Podcast on AI for Gleason Grading</title>
+      <link>https://geertlitjens.nl/media/nos-techpodcast-gleason/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/media/nos-techpodcast-gleason/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fYaJ8xZrEFI?start=857&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</title>

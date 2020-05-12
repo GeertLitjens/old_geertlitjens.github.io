@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Artificial Intelligence Assistance Significantly Improves Gleason Grading of Prostate Biopsies by Pathologists</title>
+      <link>https://geertlitjens.nl/publication/bult-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated deep-learning system for Gleason grading of prostate cancer using biopsies: a diagnostic study</title>
+      <link>https://geertlitjens.nl/publication/bult-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/bult-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>No pixel-level annotations needed</title>
       <link>https://geertlitjens.nl/publication/laak-19/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
@@ -129,6 +145,14 @@
       <link>https://geertlitjens.nl/publication/pinc-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/pinc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution-agnostic tissue segmentation in whole-slide histopathology images with convolutional neural networks</title>
+      <link>https://geertlitjens.nl/publication/band-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/band-19-a/</guid>
       <description></description>
     </item>
     
