@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Impact of rescanning and normalization on convolutional neural network performance in multi-center, whole-slide classification of prostate cancer</title>
+      <link>https://geertlitjens.nl/publication/swid-20-b/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming convolutional neural networks for end-to-end learning with multi-megapixel images</title>
+      <link>https://geertlitjens.nl/publication/pinc-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/pinc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2019 International Society of Urological Pathology (ISUP) Consensus Conference on Grading of Prostatic Carcinoma.</title>
+      <link>https://geertlitjens.nl/publication/leen-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/leen-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence Assistance Significantly Improves Gleason Grading of Prostate Biopsies by Pathologists</title>
       <link>https://geertlitjens.nl/publication/bult-20-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -21,10 +45,42 @@
     </item>
     
     <item>
+      <title>Artificial intelligence to detect MYC translocation in slides of diffuse large B-cell lymphoma</title>
+      <link>https://geertlitjens.nl/publication/swid-20-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated deep-learning system for Gleason grading of prostate cancer using biopsies: a diagnostic study</title>
       <link>https://geertlitjens.nl/publication/bult-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/bult-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks</title>
+      <link>https://geertlitjens.nl/publication/linm-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/linm-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-class semantic cell segmentation and classification of aplasia in bone marrow histology images</title>
+      <link>https://geertlitjens.nl/publication/eeke-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/eeke-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting MYC translocation in HE specimens of diffuse large B-cell lymphoma through deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20/</guid>
       <description></description>
     </item>
     

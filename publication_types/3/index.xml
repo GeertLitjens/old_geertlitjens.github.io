@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/publication_types/3/</link>
       <atom:link href="https://geertlitjens.nl/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Impact of rescanning and normalization on convolutional neural network performance in multi-center, whole-slide classification of prostate cancer</title>
+      <link>https://geertlitjens.nl/publication/swid-20-b/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming convolutional neural networks for end-to-end learning with multi-megapixel images</title>
+      <link>https://geertlitjens.nl/publication/pinc-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/pinc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2019 International Society of Urological Pathology (ISUP) Consensus Conference on Grading of Prostatic Carcinoma.</title>
+      <link>https://geertlitjens.nl/publication/leen-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/leen-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence Assistance Significantly Improves Gleason Grading of Prostate Biopsies by Pathologists</title>
       <link>https://geertlitjens.nl/publication/bult-20-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/bult-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial intelligence to detect MYC translocation in slides of diffuse large B-cell lymphoma</title>
+      <link>https://geertlitjens.nl/publication/swid-20-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20-c/</guid>
       <description></description>
     </item>
     

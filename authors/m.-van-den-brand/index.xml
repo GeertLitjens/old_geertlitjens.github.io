@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. van den Brand | Geert Litjens</title>
+    <link>https://geertlitjens.nl/authors/m.-van-den-brand/</link>
+      <atom:link href="https://geertlitjens.nl/authors/m.-van-den-brand/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. van den Brand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
+      <title>M. van den Brand</title>
+      <link>https://geertlitjens.nl/authors/m.-van-den-brand/</link>
+    </image>
+    
+    <item>
+      <title>Artificial intelligence to detect MYC translocation in slides of diffuse large B-cell lymphoma</title>
+      <link>https://geertlitjens.nl/publication/swid-20-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting MYC translocation in HE specimens of diffuse large B-cell lymphoma through deep learning</title>
+      <link>https://geertlitjens.nl/publication/swid-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/swid-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
