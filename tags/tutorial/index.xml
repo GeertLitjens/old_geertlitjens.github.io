@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/tags/tutorial/</link>
       <atom:link href="https://geertlitjens.nl/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <description>tutorial</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>tutorial</title>
@@ -17,9 +17,7 @@
       <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
-      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using 
-&lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
+      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using &lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
 &lt;p&gt;To get started you need to setup a Python environment with NumPy, Matplotlib and TensorFlow 2.0. To use the PatchCAMELYON dataset with TensorFlow Datasets you will need to use my fork of the project for now as the pull request to add PatchCAMELYON to the master branch is not yet approved. To this end you need to do clone the repository and add it to your Python environment:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/GeertLitjens/tensorflow_datasets
 cd tensorflow_datasets
@@ -239,8 +237,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
   &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend 
-&lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
 </description>
     </item>
     

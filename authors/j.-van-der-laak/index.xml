@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/authors/j.-van-der-laak/</link>
       <atom:link href="https://geertlitjens.nl/authors/j.-van-der-laak/index.xml" rel="self" type="application/rss+xml" />
     <description>J. van der Laak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>J. van der Laak</title>
@@ -65,14 +65,6 @@
       <link>https://geertlitjens.nl/publication/tell-19-a/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://geertlitjens.nl/publication/tell-19-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Gleason Grading of Prostate Biopsies using Deep Learning</title>
-      <link>https://geertlitjens.nl/publication/bult-19-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/publication/bult-19-b/</guid>
       <description></description>
     </item>
     

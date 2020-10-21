@@ -5,9 +5,9 @@
     <link>https://geertlitjens.nl/authors/geert/</link>
       <atom:link href="https://geertlitjens.nl/authors/geert/index.xml" rel="self" type="application/rss+xml" />
     <description>Geert Litjens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://geertlitjens.nl/authors/geert/avatar_hu479035fafd22d129fec6f5686c63d1ad_40390_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>Geert Litjens</title>
       <link>https://geertlitjens.nl/authors/geert/</link>
     </image>
@@ -21,6 +21,11 @@
 Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -160,9 +165,7 @@ In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland whi
       <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
-      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using 
-&lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
+      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using &lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
 &lt;p&gt;To get started you need to setup a Python environment with NumPy, Matplotlib and TensorFlow 2.0. To use the PatchCAMELYON dataset with TensorFlow Datasets you will need to use my fork of the project for now as the pull request to add PatchCAMELYON to the master branch is not yet approved. To this end you need to do clone the repository and add it to your Python environment:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/GeertLitjens/tensorflow_datasets
 cd tensorflow_datasets
@@ -377,11 +380,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
       <link>https://geertlitjens.nl/post/ml-for-elementary-school/</link>
       <pubDate>Fri, 19 Apr 2019 13:41:14 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/ml-for-elementary-school/</guid>
-      <description>&lt;p&gt;In 2018 
-&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen van der Laak&lt;/a&gt; and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the 
-&lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt; and two of our PhD students: 
-&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/meyke-hermsen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meyke Hermsen&lt;/a&gt; and 
-&lt;a href=&#34;https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maschenka Balkenhol&lt;/a&gt;. In addition, the kids from the elemantary schools also made a great introductory for us:&lt;/p&gt;
+      <description>&lt;p&gt;In 2018 &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen van der Laak&lt;/a&gt; and I were nominated and eventually won a Radboud Science Award for our work with the CAMELYON challenge. One part of the prize was the oppertunity to turn our research into an educational program for elementary schools, specifically ages 9 till 12. This post is a summary of my experience going through this process and showcases the things we developed. Luckily, we were not in this alone and we got great support from the &lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt; and two of our PhD students: &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/meyke-hermsen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meyke Hermsen&lt;/a&gt; and &lt;a href=&#34;https://www.computationalpathologygroup.eu/members/maschenka-balkenhol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maschenka Balkenhol&lt;/a&gt;. In addition, the kids from the elemantary schools also made a great introductory for us:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/UHsXJe_fXgY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -398,10 +397,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 &lt;li&gt;Diagnosing cancer with artificially intelligent computers.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The fist two activities were aimed at getting a discussion going in the classroom on what the definition of intelligence is. Think along the lines of: Is a calculator intelligent? Or a navigation system? Secondly, the children were asked to discuss this at home and find examples of devices in their own house which they think were intelligent. In the end we would provide them with what we, within this project, mean with artificial intelligence: a computer program which automatically learns by example and can generalize what is learned this to unknown situations; similarly to the way they learn new skills.&lt;/p&gt;
-&lt;p&gt;The third activity was the first real hands-on activity for which I adapted the excellent webapp 
-&lt;a href=&#34;https://teachablemachine.withgoogle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teachable Machine&lt;/a&gt; by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found 
-&lt;a href=&#34;https://geertlitjens.github.io/teachable-machine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, with the source code 
-&lt;a href=&#34;https://github.com/GeertLitjens/teachable-machine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.&lt;/p&gt;
+&lt;p&gt;The third activity was the first real hands-on activity for which I adapted the excellent webapp &lt;a href=&#34;https://teachablemachine.withgoogle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teachable Machine&lt;/a&gt; by Google. I translated the app to Dutch and made some fixes for tablets and phones so it would be easier to use in the classroom. My adaptation can be found &lt;a href=&#34;https://geertlitjens.github.io/teachable-machine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, with the source code &lt;a href=&#34;https://github.com/GeertLitjens/teachable-machine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. This webapp allows you to train a three-class classifier with your webcam. One fun application is to turn hand-gestures into instruments, as depicted in the video below.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/oP8-_0ZyY3U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -410,12 +406,14 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 &lt;p&gt;The idea of this activity was that children can figure out what a computer can easily learn and what is more difficult. For example, if you teach it to react to your face, will it also react to your friend&amp;rsquo;s face? Can it discriminate between your left and right hand? And if it doesn&amp;rsquo;t, what do you need to do to make it learn the difference. Many challenges that actually appear in machine learning, like bias, can be explored this way in a playful manner.&lt;/p&gt;
 &lt;p&gt;The next two activities completely moved away from artifical intelligence and focused on a key job of a doctor: obtaining a diagnosis. In activity 4 we developed several disease scenarios and the children had to identify what questions you need to ask to figure out what disease the person has. Specifically, we had a scenario where a child was either suffering from food poisoning or the flu. This activity intends to show how the process of a diagnosis works and how, by asking the right questions, you can narrow down your options and eventually figure out what ails the patient.&lt;/p&gt;
 &lt;p&gt;Activity 5 move to the domain of histopathology. Here we introduced the microscope and concept of &amp;lsquo;good&amp;rsquo; cells and &amp;lsquo;bad&amp;rsquo; cells (cancer). We prepared a lot of images (one example below) to show the children the differences in appearance and how a pathologist, with a microscope, can see what is wrong with a patient. We also gave them a couple of images were they had to figure out themselves what were the good and bad cells.&lt;/p&gt;
-&lt;p&gt;The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a 
-&lt;a href=&#34;https://geertlitjens.github.io/metastaticcellclassifier/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webapp&lt;/a&gt; (source 
-&lt;a href=&#34;https://github.com/GeertLitjens/metastaticcellclassifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) which I made based of the 
-&lt;a href=&#34;https://github.com/brendansudol/faces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;face classifier&lt;/a&gt; by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &amp;lsquo;smart&amp;rsquo; computer system.&lt;/p&gt;
+&lt;p&gt;The last activity combined artificial intelligence and histopathological diagnostics. Here again we used a &lt;a href=&#34;https://geertlitjens.github.io/metastaticcellclassifier/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webapp&lt;/a&gt; (source &lt;a href=&#34;https://github.com/GeertLitjens/metastaticcellclassifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) which I made based of the &lt;a href=&#34;https://github.com/brendansudol/faces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;face classifier&lt;/a&gt; by Brendan Sudol. Here the students could upload images with cells and the computer would tell them whether they were good or bad. Initially they had to classify these images themselves and then see if the computer agreed. Additionally, they could try to find cases were they think the computer was wrong and see if a pattern could be established. This way they could interactively explore the limitations of this simple &amp;lsquo;smart&amp;rsquo; computer system.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -451,10 +449,8 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 &lt;/figure&gt;
 
-&lt;p&gt;After the activities were finished a group of teacher at elementary school 
-&lt;a href=&#34;https://www.po.deltascholen.org/BS-de-Gazelle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;de Gazelle&amp;rsquo;&lt;/a&gt; in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.&lt;/p&gt;
-&lt;p&gt;Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the 
-&lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt;. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.&lt;/p&gt;
+&lt;p&gt;After the activities were finished a group of teacher at elementary school &lt;a href=&#34;https://www.po.deltascholen.org/BS-de-Gazelle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;de Gazelle&amp;rsquo;&lt;/a&gt; in Arnhem tested the lessons at their school. We visited roughly halfway and gave a presentation after which the kids had the oppertunity to ask questions. I had a lot of fun and got great feedback, both from the teachers and the children.&lt;/p&gt;
+&lt;p&gt;Currently, we are in the phase of wrapping up the project. Our package of lessions and activities will be bundled in a book such that other schools can also use it. This book will be available through the &lt;a href=&#34;https://www.ru.nl/wetenschapsknooppunt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radboud Wetenschapsknooppunt&lt;/a&gt;. Last, we will give a presentation about this project at the Winterschool organized by the Wetenschapsknooppunt for teachers to share our experience.&lt;/p&gt;
 &lt;p&gt;All in all, it was great to see the enthusiasm for our research in both the teachers and the children and for me it was a very rewarding experience. If you are interested in any of the materials or the project, don&amp;rsquo;t hesitate to reach out to me.&lt;/p&gt;
 </description>
     </item>
@@ -469,8 +465,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
   &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend 
-&lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
 </description>
     </item>
     
@@ -573,6 +568,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 
 
+
+  
+
+
+
   
   
 
@@ -625,6 +625,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 
 
+
+  
+
+
+
   
   
 
@@ -662,8 +667,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-&lt;p&gt;Further information, registration, and the results are available on the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -675,6 +679,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
       <description>&lt;p&gt;To accuractely determine the outcome of clinical trials careful analysis of the biomarkers is required. In recent years this has become more and more complex due to quantity of biomarkers that has to be assessed in new clinical trials. Furthermore, as we move to more personalized therapy, we need to be able to measure even subtle changes in biomarker expression, putting a larger emphasis on accurate and precise biomarker quantification. These changes have made manual assessment of biomarker expression tedious, time-consuming, and, often, inaccurate.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -710,8 +719,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 &lt;/figure&gt;
 
-&lt;p&gt;Within this project, funded by the 
-&lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
+&lt;p&gt;Within this project, funded by the &lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
 </description>
     </item>
     
@@ -752,6 +760,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 
 
+
+  
+
+
+
   
   
 
@@ -784,8 +797,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 &lt;/figure&gt;
 
-&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my 
-&lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my &lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

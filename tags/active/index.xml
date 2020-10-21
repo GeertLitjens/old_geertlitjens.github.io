@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/tags/active/</link>
       <atom:link href="https://geertlitjens.nl/tags/active/index.xml" rel="self" type="application/rss+xml" />
     <description>Active</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>Active</title>
@@ -21,6 +21,11 @@
 Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -70,6 +75,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
       <description>&lt;p&gt;Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -125,6 +135,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 
 
 
+
+  
+
+
+
   
   
 
@@ -162,8 +177,7 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-&lt;p&gt;Further information, registration, and the results are available on the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/tags/skin-cancer/</link>
       <atom:link href="https://geertlitjens.nl/tags/skin-cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>Skin Cancer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>Skin Cancer</title>
@@ -21,6 +21,11 @@
 Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 

@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/tags/machine-learning/</link>
       <atom:link href="https://geertlitjens.nl/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>machine learning</title>
@@ -21,6 +21,11 @@
 Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -67,9 +72,7 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
       <link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link>
       <pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate>
       <guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid>
-      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using 
-&lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
+      <description>&lt;p&gt;This is the first part of a three part tutorial on how to get started with the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMELYON dataset&lt;/a&gt;. This first part will focus on getting a basic convolutional neural network trained using &lt;a href=&#34;https://github.com/basveeling/pcam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PatchCAMELYON&lt;/a&gt;, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p&gt;
 &lt;p&gt;To get started you need to setup a Python environment with NumPy, Matplotlib and TensorFlow 2.0. To use the PatchCAMELYON dataset with TensorFlow Datasets you will need to use my fork of the project for now as the pull request to add PatchCAMELYON to the master branch is not yet approved. To this end you need to do clone the repository and add it to your Python environment:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/GeertLitjens/tensorflow_datasets
 cd tensorflow_datasets
@@ -289,8 +292,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
   &lt;iframe src=&#34;https://www.youtube.com/embed/UYe6fn-P6_s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend 
-&lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
+&lt;p&gt;This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href=&#34;https://geertlitjens.nl/publication/litj-17/&#34;&gt;this&lt;/a&gt; publication.&lt;/p&gt;
 </description>
     </item>
     
@@ -302,6 +304,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
       <description>&lt;p&gt;Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -357,6 +364,11 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 
 
 
+
+  
+
+
+
   
   
 
@@ -394,8 +406,7 @@ model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-&lt;p&gt;Further information, registration, and the results are available on the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

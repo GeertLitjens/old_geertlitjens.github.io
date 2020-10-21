@@ -5,7 +5,7 @@
     <link>https://geertlitjens.nl/project/</link>
       <atom:link href="https://geertlitjens.nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -21,6 +21,11 @@
 Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -70,6 +75,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
       <description>&lt;p&gt;Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -125,6 +135,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 
 
 
+
+  
+
+
+
   
   
 
@@ -162,8 +177,7 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 &lt;p&gt;In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong&gt;artificial patients&lt;/strong&gt;, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p&gt;
 &lt;p&gt;The task in this challenge is to &lt;strong&gt;determine a pN-stage for every patient in the test dataset&lt;/strong&gt;. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
-&lt;p&gt;Further information, registration, and the results are available on the 
-&lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information, registration, and the results are available on the &lt;a href=&#34;https://camelyon17.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -175,6 +189,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
       <description>&lt;p&gt;To accuractely determine the outcome of clinical trials careful analysis of the biomarkers is required. In recent years this has become more and more complex due to quantity of biomarkers that has to be assessed in new clinical trials. Furthermore, as we move to more personalized therapy, we need to be able to measure even subtle changes in biomarker expression, putting a larger emphasis on accurate and precise biomarker quantification. These changes have made manual assessment of biomarker expression tedious, time-consuming, and, often, inaccurate.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -210,8 +229,7 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 
 &lt;/figure&gt;
 
-&lt;p&gt;Within this project, funded by the 
-&lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
+&lt;p&gt;Within this project, funded by the &lt;a href=&#34;https://www.humboldt-foundation.de/web/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Foundation&lt;/a&gt;, we set out to develop machine learning tools to automate the quantification and discovery of biomarkers in a variety of clinical trials. Specifically, we looked at applications in prostate cancer immunotherapy, lung cancer prognosis, and MAGE-expression in head and neck cancers.&lt;/p&gt;
 </description>
     </item>
     
@@ -232,6 +250,11 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
       <description>&lt;p&gt;Prostate cancer is the most commonly diagnosed malignancy and the second leading cause of cancer death among men in the Netherlands. Due to the shortcomings of the current diagnostic pathway for prostate cancer, especially with respect to assessing  cancer aggressiveness, alternative strategies are being investigated. Magnetic resonance imaging (MRI) has emerged as an important modality to assist and potentially replace (part of) the current diagnostic pathway. The high complexity of prostate MRI and the lack of sufficient expertise among the radiological community at large has opened the door for (semi-)automated analysis of prostate MRI by computer systems, with or without human intervention.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -267,8 +290,7 @@ Most of microscopic skin analysis is not professionally challenging, but it is t
 
 &lt;/figure&gt;
 
-&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my 
-&lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within this project such as system was developed and evaluated. It consisted of several key components: segmentation of the prostate gland in MRI, discovering cancer-specific features, system development and evaluation. The results were reported through a number of publications which are listed below and summarized in my &lt;a href=&#34;https://geertlitjens.nl/publication/litj-15-a/&#34;&gt;PhD Thesis&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
