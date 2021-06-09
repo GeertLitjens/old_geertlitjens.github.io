@@ -5,12 +5,28 @@
     <link>https://geertlitjens.nl/authors/h.-pinckaers/</link>
       <atom:link href="https://geertlitjens.nl/authors/h.-pinckaers/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Pinckaers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
       <title>H. Pinckaers</title>
       <link>https://geertlitjens.nl/authors/h.-pinckaers/</link>
     </image>
+    
+    <item>
+      <title>Detection of prostate cancer in whole-slide images through end-to-end training with image-level labels.</title>
+      <link>https://geertlitjens.nl/publication/pinc-21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/pinc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end classification on basal-cell carcinoma histopathology whole-slides images</title>
+      <link>https://geertlitjens.nl/publication/geij-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://geertlitjens.nl/publication/geij-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Streaming convolutional neural networks for end-to-end learning with multi-megapixel images</title>
