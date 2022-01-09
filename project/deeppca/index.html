@@ -1,1373 +1,317 @@
-<!DOCTYPE html><html lang="en-us" >
-
+<!doctype html><html lang=en-us>
 <head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  
-  
-  <meta name="generator" content="Wowchemy 4.8.0 for Hugo">
-  
-
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Geert Litjens">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Less unnecessary therapy for prostate cancer patients.">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://geertlitjens.nl/project/deeppca/">
-
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-  
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-
-  
-  
-  
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
-  
-
-  
-  
-
-  
-  
-  
-  
-    
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
-    
-    
-    
-      
-    
-    
-      
-      
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-      
-    
-
-    
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-        
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-    
-      
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-    
-  
-
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/wowchemy.css">
-
-  
-
-
-
-
-
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.4.0 for Hugo">
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<meta name=author content="Geert Litjens">
+<meta name=description content="Less unnecessary therapy for prostate cancer patients.">
+<link rel=alternate hreflang=en-us href=https://geertlitjens.nl/project/deeppca/>
+<meta name=theme-color content="hsl(339, 90%, 68%)">
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<link rel=stylesheet href=/css/wowchemy.7d86dc42c902b14610813b0603567dae.css>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139145569-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-139145569-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
-  
-
-  
-
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_192x192_fill_lanczos_center_2.png">
-
-  <link rel="canonical" href="https://geertlitjens.nl/project/deeppca/">
-
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  <meta property="twitter:card" content="summary_large_image">
-  
-  <meta property="twitter:site" content="@GeertLitjens">
-  <meta property="twitter:creator" content="@GeertLitjens">
-  
-  <meta property="og:site_name" content="Geert Litjens">
-  <meta property="og:url" content="https://geertlitjens.nl/project/deeppca/">
-  <meta property="og:title" content="Deep PCa | Geert Litjens">
-  <meta property="og:description" content="Less unnecessary therapy for prostate cancer patients."><meta property="og:image" content="https://geertlitjens.nl/project/deeppca/featured.png">
-  <meta property="twitter:image" content="https://geertlitjens.nl/project/deeppca/featured.png"><meta property="og:locale" content="en-us">
-  
-    
-      <meta property="article:published_time" content="2016-05-01T00:00:00&#43;00:00">
-    
-    <meta property="article:modified_time" content="2016-05-01T00:00:00&#43;00:00">
-  
-
-  
-
-
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://geertlitjens.nl/project/deeppca/"
-  },
-  "headline": "Deep PCa",
-  
-  "image": [
-    "https://geertlitjens.nl/project/deeppca/featured.png"
-  ],
-  
-  "datePublished": "2016-05-01T00:00:00Z",
-  "dateModified": "2016-05-01T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Geert Litjens"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Geert Litjens",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "Less unnecessary therapy for prostate cancer patients."
-}
-</script>
-
-  
-
-  
-
-
-  
-
-
-  
-
-
-
-
-
-  <title>Deep PCa | Geert Litjens</title>
-
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(a,b){gtag('event','click',{event_category:'outbound',event_label:a,transport_type:'beacon',event_callback:function(){b!=='_blank'&&(document.location=a)}}),console.debug("Outbound link clicked: "+a)}function onClickCallback(a){if(a.target.tagName!=='A'||a.target.host===window.location.host)return;trackOutboundLink(a.target,a.target.getAttribute('target'))}gtag('js',new Date),gtag('config','UA-139145569-1',{}),gtag('set',{cookie_flags:'SameSite=None;Secure'}),document.addEventListener('click',onClickCallback,!1)</script>
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://geertlitjens.nl/project/deeppca/>
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@GeertLitjens">
+<meta property="twitter:creator" content="@GeertLitjens">
+<meta property="og:site_name" content="Geert Litjens">
+<meta property="og:url" content="https://geertlitjens.nl/project/deeppca/">
+<meta property="og:title" content="Deep PCa | Geert Litjens">
+<meta property="og:description" content="Less unnecessary therapy for prostate cancer patients."><meta property="og:image" content="https://geertlitjens.nl/project/deeppca/featured.png">
+<meta property="twitter:image" content="https://geertlitjens.nl/project/deeppca/featured.png"><meta property="og:locale" content="en-us">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://geertlitjens.nl/project/deeppca/"},"headline":"Deep PCa","image":["https://geertlitjens.nl/project/deeppca/featured.png"],"datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Geert Litjens"},"publisher":{"@type":"Organization","name":"Geert Litjens","logo":{"@type":"ImageObject","url":"https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_192x192_fill_lanczos_center_3.png"}},"description":"Less unnecessary therapy for prostate cancer patients."}</script>
+<title>Deep PCa | Geert Litjens</title>
 </head>
-
-
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark ">
-
-  
-  
-  
-  
-    <script>const isSiteThemeDark = true;</script>
-  
-  
-  <script src="/js/load-theme.js"></script>
-
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class="page-wrapper dark" data-wc-page-id=e00b71851dc1664bd52e9c15d57a1f58>
+<script src=/js/wowchemy-init.min.b6ac29faab89ee14db88f0bed7aa6622.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
 </aside>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Geert Litjens</a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Geert Litjens</a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
-
-      
-      <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#media"><span>Media</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#presentations"><span>Presentations</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>About</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/cv"><span>CV</span></a>
-        </li>
-
-        
-        
-
-      
-
-        
-      </ul>
-    </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      
-
-      
-      
-
-      
-
-    </ul>
-
-  </div>
-</nav>
-
-
-
-  <article class="article article-project">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1>Deep PCa</h1>
-
-  
-
-  
-    
-
-
-
-<meta content="2016-05-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2016-05-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span ><a href="/authors/geert/">Geert Litjens</a></span>
-  </div>
-  
-  
-
-  <span class="article-date">
-    
-    
-      
-    
-    <time>May 1, 2016</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-    
-
-  
-
+<div class=page-header>
+<header class=header--fixed>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Geert Litjens</a>
 </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Geert Litjens</a>
 </div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.</p>
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-<figure id="figure-prostate-cancer-segmentation-using-convolutional-neural-networks">
-
-
-  <a data-fancybox="" href="/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png" data-caption="Prostate cancer segmentation using convolutional neural networks.">
-
-
-  <img data-src="/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="50%" height="500">
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#posts><span>Posts</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#projects><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#media><span>Media</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#presentations><span>Presentations</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#publications><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#about><span>About</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/cv><span>CV</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+<li class="nav-item dropdown theme-dropdown">
+<a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences">
+<i class="fas fa-moon" aria-hidden=true></i>
 </a>
-
-
-  
-  
-  <figcaption>
-    Prostate cancer segmentation using convolutional neural networks.
-  </figcaption>
-
-
-</figure>
-
+<div class=dropdown-menu>
+<a href=# class="dropdown-item js-set-theme-light">
+<span>Light</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-dark">
+<span>Dark</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-auto">
+<span>Automatic</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+</div>
+<div class=page-body>
+<article class="article article-project">
+<div class="article-container pt-3">
+<h1>Deep PCa</h1>
+<div class=article-metadata>
+</div>
+</div>
+<div class=article-container>
+<div class=article-style>
+<p>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.</p>
+<figure id=figure-prostate-cancer-segmentation-using-convolutional-neural-networks>
+<div class="d-flex justify-content-center">
+<div class=w-100><img alt="Prostate cancer segmentation using convolutional neural networks." srcset="/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_c39d617c39701127e2c5b6f0463b1764.webp 400w,
+/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_4d30aa8e8b7e730f03fb991419b2c68b.webp 760w,
+/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_1200x1200_fit_q75_h2_lanczos_3.webp 1200w" src=/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_c39d617c39701127e2c5b6f0463b1764.webp width=50% height=500 loading=lazy data-zoomable></div>
+</div><figcaption>
+Prostate cancer segmentation using convolutional neural networks.
+</figcaption></figure>
 <p>Several groups have shown that quantifying the tumour and its micro-environment at the cellular level can result in biomarkers with strong prognostic potential, for example tumour/stroma ratio, the presence and composition of immune infiltrates or the amount of proliferating (Ki67-positive) cells. However, these findings have not translated to clinical practice due to the cumbersome and subjective manual extraction of these biomarkers from tissue slides.</p>
 <p>Recent years have seen the more widespread introduction of whole-slide imaging systems, which for the first time allow computerized processing of tissue slides. Automated extraction of aforementioned quantitative biomarkers through image analysis can achieve the required accuracy and robustness to impact clinical practice. In tandem with these developments, computer vision has seen a machine learning revolution over the past decade due to the advent of deep learning.</p>
 <p>In this project, we will combine deep learning and digitized whole-slide imaging of prostate cancer for reproducible extraction of quantitative biomarkers. Furthermore, due to the ability of deep learning systems to learn relevant features without human intervention, we expect to identify novel biomarkers which allow us to further improve the current risk models.</p>
 <p>The aim of this project is to prevent unnecessary surgery and adjuvant therapy for individual patients by improving currently established risk models. Risk models will be enhanced through the addition of pre- and post-operative quantitative biomarkers obtained via image analysis and deep learning. We will focus both on the accurate and objective quantification of biomarkers already identified in literature and the discovery of novel biomarkers.</p>
-
-    </div>
-
-    
-
-
-
-
-
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/active/">Active</a>
-  
-  <a class="badge badge-light" href="/tags/machine-learning/">machine learning</a>
-  
-  <a class="badge badge-light" href="/tags/prostate-cancer/">Prostate Cancer</a>
-  
-  <a class="badge badge-light" href="/tags/computational-pathology/">Computational Pathology</a>
-  
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-
-  
-  
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span ><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span ><a href="/authors/h.-pinckaers/">H. Pinckaers</a></span>, <span ><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen - van de Kaa</a></span>, <span ><a href="/authors/g.-litjens/">G. Litjens</a></span>.
-  </span>
-  <a href="/publication/bult-19-a/">Automated Gleason Grading of Prostate Biopsies Using Deep Learning</a>.
-  <em>United States and Canadian Academy of Pathology (USCAP) 108th Annual Meeting</em>,
-  2019.
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deeppca/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
+<div class=article-tags>
+<a class="badge badge-light" href=/tag/active/>Active</a>
+<a class="badge badge-light" href=/tag/machine-learning/>machine learning</a>
+<a class="badge badge-light" href=/tag/prostate-cancer/>Prostate Cancer</a>
+<a class="badge badge-light" href=/tag/computational-pathology/>Computational Pathology</a>
 </div>
-
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span ><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span ><a href="/authors/p.-b%C3%A1ndi/">P. Bándi</a></span>, <span ><a href="/authors/j.-hoven/">J. Hoven</a></span>, <span ><a href="/authors/r.-de-loo/">R. de Loo</a></span>, <span ><a href="/authors/j.-lotz/">J. Lotz</a></span>, <span ><a href="/authors/n.-weiss/">N. Weiss</a></span>, <span ><a href="/authors/j.-der-laak/">J. der Laak</a></span>, <span ><a href="/authors/b.-van-ginneken/">B. van Ginneken</a></span>, <span ><a href="/authors/c.-de-kaa/">C. de Kaa</a></span>, <span ><a href="/authors/g.-litjens/">G. Litjens</a></span>.
-  </span>
-  <a href="/publication/bult-19/">Epithelium segmentation using deep learning in H&amp;E-stained prostate specimens with immunohistochemistry as reference standard</a>.
-  <em>Nat Sci Rep</em>,
-  2019.
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/bult-19/bult-19.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deeppca/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41598-018-37257-4" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
+<div class="article-widget content-widget-hr">
+<h3>Related</h3>
+<ul>
+<li><a href=/project/deepderma/>DeepDerma</a></li>
+<li><a href=/project/camelyon/>CAMELYON</a></li>
+<li><a href=/publication/tell-19-a/>Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology.</a></li>
+<li><a href=/publication/swid-19/>Learning to detect lymphocytes in immunohistochemistry with deep learning</a></li>
+<li><a href=/post/getting-started-with-camelyon/>Getting Started With Camelyon (Part 1)</a></li>
+</ul>
 </div>
-
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span ><a href="/authors/h.-pinckaers/">H. Pinckaers</a></span>, <span ><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span ><a href="/authors/g.-litjens/">G. Litjens</a></span>.
-  </span>
-  <a href="/publication/pinc-19/">High resolution whole prostate biopsy classification using streaming stochastic gradient descent</a>.
-  <em>in: Medical Imaging, volume 10956 of the Proceedings of the SPIE</em>,
-  2019.
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/pinc-19/pinc-19.pdf" target="_blank" rel="noopener">
-  PDF
+<div class="project-related-pages content-widget-hr">
+<h2>Publications</h2>
+<div class="pub-list-item view-citation" style=margin-bottom:1rem>
+<i class="far fa-file-alt pub-icon" aria-hidden=true></i>
+<span class="article-metadata li-cite-author">
+<span>
+<a href=/authors/w.-bulten/>W. Bulten</a></span>, <span>
+<a href=/authors/h.-pinckaers/>H. Pinckaers</a></span>, <span>
+<a href=/authors/c.-hulsbergen-van-de-kaa/>C. Hulsbergen - van de Kaa</a></span>, <span>
+<a href=/authors/g.-litjens/>G. Litjens</a></span>.
+</span>
+<a href=/publication/bult-19-a/>Automated Gleason Grading of Prostate Biopsies Using Deep Learning</a>.
+<em>United States and Canadian Academy of Pathology (USCAP) 108th Annual Meeting</em>,
+2019.
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/deeppca/>
+Project
 </a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deeppca/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1117/12.2512817" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
 </div>
-
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span ><a href="/authors/w.-bulten/">W. Bulten</a></span>, <span ><a href="/authors/c.-hulsbergen-van-de-kaa/">C. Hulsbergen - van de Kaa</a></span>, <span ><a href="/authors/j.-van-der-laak/">J. van der Laak</a></span>, <span ><a href="/authors/g.-litjens/">G. Litjens</a></span>.
-  </span>
-  <a href="/publication/bult-18/">Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</a>.
-  <em>in: Medical Imaging, volume 10581 of the Proceedings of the SPIE</em>,
-  2018.
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/bult-18/bult-18.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deeppca/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1117/12.2292872" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
 </div>
-
-          
-        
-      
-
-      
-      
-      
-    </div>
-  </div>
+<div class="pub-list-item view-citation" style=margin-bottom:1rem>
+<i class="far fa-file-alt pub-icon" aria-hidden=true></i>
+<span class="article-metadata li-cite-author">
+<span>
+<a href=/authors/w.-bulten/>W. Bulten</a></span>, <span>
+<a href=/authors/p.-bandi/>P. Bandi</a></span>, <span>
+<a href=/authors/j.-hoven/>J. Hoven</a></span>, <span>
+<a href=/authors/r.-de-loo/>R. de Loo</a></span>, <span>
+<a href=/authors/j.-lotz/>J. Lotz</a></span>, <span>
+<a href=/authors/n.-weiss/>N. Weiss</a></span>, <span>
+<a href=/authors/j.-der-laak/>J. der Laak</a></span>, <span>
+<a href=/authors/b.-van-ginneken/>B. van Ginneken</a></span>, <span>
+<a href=/authors/c.-de-kaa/>C. de Kaa</a></span>, <span>
+<a href=/authors/g.-litjens/>G. Litjens</a></span>.
+</span>
+<a href=/publication/bult-19/>Epithelium segmentation using deep learning in H&E-stained prostate specimens with immunohistochemistry as reference standard</a>.
+<em>Nat Sci Rep</em>,
+2019.
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/publication/bult-19/bult-19.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/deeppca/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1038/s41598-018-37257-4 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class="pub-list-item view-citation" style=margin-bottom:1rem>
+<i class="far fa-file-alt pub-icon" aria-hidden=true></i>
+<span class="article-metadata li-cite-author">
+<span>
+<a href=/authors/h.-pinckaers/>H. Pinckaers</a></span>, <span>
+<a href=/authors/w.-bulten/>W. Bulten</a></span>, <span>
+<a href=/authors/g.-litjens/>G. Litjens</a></span>.
+</span>
+<a href=/publication/pinc-19/>High resolution whole prostate biopsy classification using streaming stochastic gradient descent</a>.
+<em>in: Medical Imaging, volume 10956 of the Proceedings of the SPIE</em>,
+2019.
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/publication/pinc-19/pinc-19.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/deeppca/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1117/12.2512817 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class="pub-list-item view-citation" style=margin-bottom:1rem>
+<i class="far fa-file-alt pub-icon" aria-hidden=true></i>
+<span class="article-metadata li-cite-author">
+<span>
+<a href=/authors/w.-bulten/>W. Bulten</a></span>, <span>
+<a href=/authors/c.-hulsbergen-van-de-kaa/>C. Hulsbergen - van de Kaa</a></span>, <span>
+<a href=/authors/j.-van-der-laak/>J. van der Laak</a></span>, <span>
+<a href=/authors/g.-litjens/>G. Litjens</a></span>.
+</span>
+<a href=/publication/bult-18/>Automated segmentation of epithelial tissue in prostatectomy slides using deep learning</a>.
+<em>in: Medical Imaging, volume 10581 of the Proceedings of the SPIE</em>,
+2018.
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/publication/bult-18/bult-18.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/deeppca/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1117/12.2292872 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+</div>
+</div>
 </article>
-
-      
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
-
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/bash.min.js"></script>
-        
-      
-
-    
-
-    
-    
-
-    
-    
-    <script>const code_highlighting = true;</script>
-    
-
-    
-
-    
-    
-
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <script src="/js/wowchemy.min.e9934e4586590fe76d4de7e3c7f48deb.js"></script>
-
-    
-
-
-
-
-
-
-  
-  
-  <div class="container">
-    <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    © 2019
-  </p>
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
-    
-    Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
-    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    open source</a> website builder that empowers creators.
-    
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-  </div>
-  
-
-  
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
 </div>
-
+<div class=page-footer>
+<div class=container>
+<footer class=site-footer>
+<p class=powered-by>
+© 2019
+</p>
+<p class=powered-by>
+Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-themes target=_blank rel=noopener>open source</a> website builder that empowers creators.
+</p>
+</footer>
+</div>
+</div>
+<div id=modal class="modal fade" role=dialog>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<h5 class=modal-title>Cite</h5>
+<button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span>
+</button>
+</div>
+<div class=modal-body>
+<pre><code class="tex hljs"></code></pre>
+</div>
+<div class=modal-footer>
+<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
+<i class="fas fa-copy"></i> Copy
+</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
+<i class="fas fa-download"></i> Download
+</a>
+<div id=modal-error></div>
+</div>
+</div>
+</div>
+</div>
+<script src=/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js></script>
+<script src=https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js crossorigin=anonymous></script>
+<script id=search-hit-fuse-template type=text/x-template>
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+<script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script>
+<script id=page-data type=application/json>{"use_headroom":true}</script>
+<script src=/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js type=module></script>
+<script src=/en/js/wowchemy.min.0cb61b39a43590bf7470ddb0caa9f812.js></script>
 </body>
 </html>

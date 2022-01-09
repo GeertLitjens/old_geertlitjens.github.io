@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>machine learning | Geert Litjens</title><link>https://geertlitjens.nl/tag/machine-learning/</link><atom:link href="https://geertlitjens.nl/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>machine learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Apr 2019 13:41:43 +0200</lastBuildDate><image><url>https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png</url><title>machine learning</title><link>https://geertlitjens.nl/tag/machine-learning/</link></image><item><title>Getting Started With Camelyon (Part 1)</title><link>https://geertlitjens.nl/post/getting-started-with-camelyon/</link><pubDate>Wed, 24 Apr 2019 13:41:43 +0200</pubDate><guid>https://geertlitjens.nl/post/getting-started-with-camelyon/</guid><description>&lt;p>This is the first part of a three part tutorial on how to get started with the &lt;a href="https://camelyon17.grand-challenge.org" target="_blank" rel="noopener">CAMELYON dataset&lt;/a>. This first part will focus on getting a basic convolutional neural network trained using &lt;a href="https://github.com/basveeling/pcam" target="_blank" rel="noopener">PatchCAMELYON&lt;/a>, TensorFlow 2.0, Keras and TensorFlow Datasets. Part 2 will cover applying your trained model to a whole-slide image and visualizing the results and Part 3 will cover how to use the full dataset to train a model at different resolution levels, sampling strategies, and data augmentation.&lt;/p>
+&lt;p>To get started you need to setup a Python environment with NumPy, Matplotlib and TensorFlow 2.0. To use the PatchCAMELYON dataset with TensorFlow Datasets you will need to use my fork of the project for now as the pull request to add PatchCAMELYON to the master branch is not yet approved. To this end you need to do clone the repository and add it to your Python environment:&lt;/p>
+&lt;pre>&lt;code class="language-bash">git clone https://github.com/GeertLitjens/tensorflow_datasets
+cd tensorflow_datasets
+python setup.py develop
+&lt;/code>&lt;/pre>
+&lt;p>After this step you should be able to import the relevant packages with the following cell&lt;/p>
+&lt;pre>&lt;code class="language-python"># Import NumPy to handle array's and Matplotlib for plotting loss curves
+import numpy as np
+import matplotlib.pyplot as plt
+# Import TensorFlow and relevant Keras classes to setup the model
+import tensorflow as tf
+from tensorflow.keras.layers import Input, Dense, Conv2D, MaxPool2D, Flatten, Dropout
+from tensorflow.keras.models import Model
+from tensorflow.keras.optimizers import SGD
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.callbacks import ModelCheckpoint
+&lt;/code>&lt;/pre>
+&lt;p>The next cell will automatically download PatchCAMELYON from Zenodo and prepare the TensorFlow Datasets&lt;/p>
+&lt;pre>&lt;code class="language-python">import tensorflow_datasets as tfds
+pcam, pcam_info = tfds.load(&amp;quot;patch_camelyon&amp;quot;, with_info=True)
+print(pcam_info)
+&lt;/code>&lt;/pre>
+&lt;blockquote>
+&lt;pre>&lt;code class="language-python">&lt;/code>&lt;/pre>
+&lt;/blockquote>
+&lt;pre>&lt;code>tfds.core.DatasetInfo(
+name='patch_camelyon',
+version=1.0.0,
+description='The PatchCAMELYON dataset for identification of breast cancer metastases in lymph nodes. This dataset has been extracted from the larger CAMELYON dataset of 1399 whole-slide images, which created for the CAMELYON challenges at ISBI 2016 and 2017.It contains 96x96 RGB patches of normal lymph node and tumor tissue in a roughly 50/50 distributions. It packs the clinically-relevant task of metastasis detection into a straight-forward image classification task, akin to CIFAR-10 and MNIST. This increases the ease of use by removing the complexity of handling large whole-slide images.',
+urls=['https://github.com/basveeling/pcam', 'https://camelyon17.grand-challenge.org/'],
+features=FeaturesDict({
+'image': Image(shape=(96, 96, 3), dtype=tf.uint8),
+'label': ClassLabel(shape=(), dtype=tf.int64, num_classes=2)
+},
+total_num_examples=327680,
+splits={
+'test': &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;,
+'train': &amp;lt;tfds.core.SplitInfo num_examples=262144&amp;gt;,
+'validation': &amp;lt;tfds.core.SplitInfo num_examples=32768&amp;gt;
+},
+supervised_keys=('image', 'label'),
+citation='&amp;quot;&amp;quot;&amp;quot;
+@ARTICLE{Veeling2018-qh,
+title = &amp;quot;Rotation Equivariant {CNNs} for Digital Pathology&amp;quot;,
+author = &amp;quot;Veeling, Bastiaan S and Linmans, Jasper and Winkens, Jim and
+Cohen, Taco and Welling, Max&amp;quot;,
+month = jun,
+year = 2018,
+archivePrefix = &amp;quot;arXiv&amp;quot;,
+primaryClass = &amp;quot;cs.CV&amp;quot;,
+eprint = &amp;quot;1806.03962&amp;quot;
+}
+@article{Litjens2018,
+author = {Litjens, G. and Bándi, P. and Ehteshami Bejnordi, B. and Geessink, O. and Balkenhol, M. and Bult, P. and Halilovic, A. and Hermsen, M. and van de Loo, R. and Vogels, R. and Manson, Q.F. and Stathonikos, N. and Baidoshvili, A. and van Diest, P. and Wauters, C. and van Dijk, M. and van der Laak, J.},
+title = {1399 H&amp;amp;E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset},
+journal = {GigaScience},
+volume = {7},
+number = {6},
+year = {2018},
+month = {05},
+issn = {2047-217X},
+doi = {10.1093/gigascience/giy065},
+url = {https://dx.doi.org/10.1093/gigascience/giy065},
+eprint = {http://oup.prod.sis.lan/gigascience/article-pdf/7/6/giy065/25045131/giy065.pdf},
+}
+&amp;quot;&amp;quot;&amp;quot;',
+redistribution_info=,
+)
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code>
+Now we have our dataset ready, it is time to define our model. The cell below defines a very simple VGG-like convolutional neural network using Keras.
+```python
+#First setup the input to the network which has the dimensions of the patches contained within PatchCAMELYON
+input_img = Input(shape=(96,96,3))
+# Now we define the layers of the convolutional network: three blocks of two convolutional layers and a max-pool layer.
+x = Conv2D(16, (3, 3), padding='valid', activation='relu')(input_img)
+x = Conv2D(16, (3, 3), padding='valid', activation='relu')(x)
+x = MaxPool2D(pool_size=(2,2), strides=(2,2))(x)
+x = Conv2D(32, (3, 3), padding='valid', activation='relu')(x)
+x = Conv2D(32, (3, 3), padding='valid', activation='relu')(x)
+x = MaxPool2D(pool_size=(2,2), strides=(2,2))(x)
+x = Conv2D(64, (3, 3), padding='valid', activation='relu')(x)
+x = Conv2D(64, (3, 3), padding='valid', activation='relu')(x)
+x = MaxPool2D(pool_size=(2,2), strides=(2,2))(x)
+# Now we flatten the output from a 4D to a 2D tensor to be able to use fully-connected (dense) layers for the final
+# classification part. Here we also use a bit of dropout for regularization. The last layer uses a softmax to obtain class
+# likelihoods (i.e. metastasis vs. non-metastasis)
+x = Flatten()(x)
+x = Dense(256, activation='relu')(x)
+x = Dropout(rate=0.2)(x)
+x = Dense(128, activation='relu')(x)
+x = Dropout(rate=0.2)(x)
+predictions = Dense(2, activation='softmax')(x)
+# Now we define the inputs/outputs of the model and setup the optimizer. In this case we use regular stochastic gradient
+# descent with Nesterov momentum. The loss we use is cross-entropy and we would like to output accuracy as an additional metric.
+model = Model(inputs=input_img, outputs=predictions)
+sgd_opt = SGD(lr=0.01, momentum=0.9, decay=0.0, nesterov=True)
+model.compile(optimizer=sgd_opt,
+loss='categorical_crossentropy',
+metrics=['accuracy'])
+model.summary()
+&lt;/code>&lt;/pre>
+&lt;blockquote>
+&lt;pre>&lt;code class="language-text">&lt;/code>&lt;/pre>
+&lt;/blockquote>
+&lt;p>Model: &amp;ldquo;model&amp;rdquo;&lt;/p>
+&lt;hr>
+&lt;h1 id="layer-type-----------------output-shape--------------param-">Layer (type) Output Shape Param #&lt;/h1>
+&lt;p>input_1 (InputLayer) [(None, 96, 96, 3)] 0&lt;/p>
+&lt;hr>
+&lt;p>conv2d (Conv2D) (None, 94, 94, 16) 448&lt;/p>
+&lt;hr>
+&lt;p>conv2d_1 (Conv2D) (None, 92, 92, 16) 2320&lt;/p>
+&lt;hr>
+&lt;p>max_pooling2d (MaxPooling2D) (None, 46, 46, 16) 0&lt;/p>
+&lt;hr>
+&lt;p>conv2d_2 (Conv2D) (None, 44, 44, 32) 4640&lt;/p>
+&lt;hr>
+&lt;p>conv2d_3 (Conv2D) (None, 42, 42, 32) 9248&lt;/p>
+&lt;hr>
+&lt;p>max_pooling2d_1 (MaxPooling2 (None, 21, 21, 32) 0&lt;/p>
+&lt;hr>
+&lt;p>conv2d_4 (Conv2D) (None, 19, 19, 64) 18496&lt;/p>
+&lt;hr>
+&lt;p>conv2d_5 (Conv2D) (None, 17, 17, 64) 36928&lt;/p>
+&lt;hr>
+&lt;p>max_pooling2d_2 (MaxPooling2 (None, 8, 8, 64) 0&lt;/p>
+&lt;hr>
+&lt;p>flatten (Flatten) (None, 4096) 0&lt;/p>
+&lt;hr>
+&lt;p>dense (Dense) (None, 256) 1048832&lt;/p>
+&lt;hr>
+&lt;p>dropout (Dropout) (None, 256) 0&lt;/p>
+&lt;hr>
+&lt;p>dense_1 (Dense) (None, 128) 32896&lt;/p>
+&lt;hr>
+&lt;p>dropout_1 (Dropout) (None, 128) 0&lt;/p>
+&lt;hr>
+&lt;h1 id="dense_2-dense--------------none-2-----------------258">dense_2 (Dense) (None, 2) 258&lt;/h1>
+&lt;p>Total params: 1,154,066
+Trainable params: 1,154,066
+Non-trainable params: 0&lt;/p>
+&lt;hr>
+&lt;pre>&lt;code>
+To keep the dataset size small PatchCAMELYON is stored as int8 patches. For network training we need float32 and we want to normalize between 0 and 1. The function below performs this task.
+```python
+def convert_sample(sample):
+image, label = sample['image'], sample['label']
+image = tf.image.convert_image_dtype(image, tf.float32)
+label = tf.one_hot(label, 2, dtype=tf.float32)
+return image, label
+&lt;/code>&lt;/pre>
+&lt;p>Now we use the &lt;code>tf.data&lt;/code> pipeline to apply this function to the dataset in a parallel fashion. We also shuffle the training data with a shuffle buffer (which is randomly filled with samples from the dataset) of 1024. Next we define batches of 64 patches for training and 128 for validation. Last, we prefetch 2 batches such that we can get batches during training on the GPU.&lt;/p>
+&lt;pre>&lt;code class="language-python">train_pipeline = pcam['train'].map(convert_sample,
+num_parallel_calls=8).shuffle(1024).repeat().batch(64).prefetch(2)
+valid_pipeline = pcam['validation'].map(convert_sample,
+num_parallel_calls=8).repeat().batch(128).prefetch(2)
+&lt;/code>&lt;/pre>
+&lt;p>Now we just apply train and evaluate the model using our dataset pipeline. We pick the steps per epoch such that the entire training and validation set are covered each epoch. We keep the History object that &lt;code>fit&lt;/code> returns to plot the loss progression later on. We now just do 5 epochs for illustration purposes. Feel free to experiment with the number of epochs. If you want to keep the best model during training you can use the Keras &lt;code>ModelCheckpoint&lt;/code> callback to write each improvement to disk.&lt;/p>
+&lt;pre>&lt;code class="language-python">hist = model.fit(train_pipeline,
+validation_data=valid_pipeline,
+verbose=2, epochs=5, steps_per_epoch=4096, validation_steps=256)
+&lt;/code>&lt;/pre>
+&lt;blockquote>
+&lt;pre>&lt;code class="language-text">&lt;/code>&lt;/pre>
+&lt;/blockquote>
+&lt;p>Epoch 1/5
+4096/4096 - 101s - loss: 0.6756 - accuracy: 0.5501 - val_loss: 0.5228 - val_accuracy: 0.7527
+Epoch 2/5
+4096/4096 - 98s - loss: 0.4292 - accuracy: 0.8071 - val_loss: 0.3946 - val_accuracy: 0.8249
+Epoch 3/5
+4096/4096 - 99s - loss: 0.3165 - accuracy: 0.8675 - val_loss: 0.3634 - val_accuracy: 0.8390
+Epoch 4/5
+4096/4096 - 100s - loss: 0.2586 - accuracy: 0.8958 - val_loss: 0.3707 - val_accuracy: 0.8340
+Epoch 5/5
+4096/4096 - 99s - loss: 0.2260 - accuracy: 0.9118 - val_loss: 0.3353 - val_accuracy: 0.8568&lt;/p>
+&lt;pre>&lt;code>
+If we are happy with our performance on the validation set we can check whether it generalized to the test set. Note that it is bad practice to look at your test set performance too often; you will start making modification to your network/training procedure to optimize test set performance which results in optimistically biased performance estimates.
+```python
+test_pipeline = pcam['test'].map(convert_sample, num_parallel_calls=8).batch(128).prefetch(2)
+print(&amp;quot;Test set accuracy is {0:.4f}&amp;quot;.format(model.evaluate(test_pipeline, steps=128, verbose=0)[1]))
+&lt;/code>&lt;/pre>
+&lt;blockquote>
+&lt;pre>&lt;code class="language-text">&lt;/code>&lt;/pre>
+&lt;/blockquote>
+&lt;p>Test set accuracy is 0.8563&lt;/p>
+&lt;pre>&lt;code>
+If we are happy with the performance we can write the model to disk.
+```python
+model.save(&amp;quot;./patchcamelyon.hf5&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;p>If you followed along with all the steps you should get a test set performance between 0.8 and 0.87. Differences occur due to different weight initialization of the network for example. To make network training more reproducible you can specify the random seed for the weight initializers manually. Note that the training process cannot be fully deterministic due to backpropogation step in the CUDNN library not being deterministic. I hope you enjoyed this brief tutorial, the next post will be about how to use our saved model to classify a whole-slide image.&lt;/p></description></item><item><title>Introduction to Deep Learning in Medical Imaging</title><link>https://geertlitjens.nl/talk/intro-deep-learning/</link><pubDate>Sun, 16 Sep 2018 09:30:00 +0200</pubDate><guid>https://geertlitjens.nl/talk/intro-deep-learning/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/UYe6fn-P6_s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>This presentation was the first part of a half-a-day workshop on deep learning in medical imaging. It introduces the basic deep learning concepts, contrasts them to more traditional pattern recognition approaches, and shows some examples from the field. If you are interested in a more thorough overview of different applications, I can recommend &lt;a href="https://geertlitjens.nl/publication/litj-17/">this&lt;/a> publication.&lt;/p></description></item><item><title>CAMELYON</title><link>https://geertlitjens.nl/project/camelyon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/project/camelyon/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.&lt;/p>
+&lt;p>The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists. The presence of metastases in lymph nodes has therapeutic implications for breast cancer patients. Therefore, an automated solution would hold great promise to reduce the workload of pathologists while at the same time reduce the subjectivity in diagnosis.&lt;/p>
+&lt;figure id="figure-detection-of-breast-cancer-metastases-in-lymph-nodes">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Detection of breast cancer metastases in lymph nodes." srcset="
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_7328f63abb61955f723e9608130ba948.webp 400w,
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_03ef2794f5f197698bfbb938e54e7a90.webp 760w,
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_7328f63abb61955f723e9608130ba948.webp"
+width="50%"
+height="500"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Detection of breast cancer metastases in lymph nodes.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="task">Task&lt;/h2>
+&lt;p>The TNM system is an internationally accepted means to classify the extent of cancer spread in patients with a solid tumour. It is one of the most important tools for clinicians to help them select a suitable treatment option and to obtain an indication of prognosis. Since the histological assessment of lymph node metastases is an essential part of TNM classification, CAMELYON17 will focus on the pathologic N-stage, in short: pN-stage.&lt;/p>
+&lt;p>In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong>artificial patients&lt;/strong>, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p>
+&lt;p>The task in this challenge is to &lt;strong>determine a pN-stage for every patient in the test dataset&lt;/strong>. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>Further information, registration, and the results are available on the &lt;a href="https://camelyon17.grand-challenge.org" target="_blank" rel="noopener">challenge website&lt;/a>.&lt;/p></description></item><item><title>Deep PCa</title><link>https://geertlitjens.nl/project/deeppca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/project/deeppca/</guid><description>&lt;p>Most men die with, not because of prostate cancer. This high incidence-to-mortality ratio sounds like a positive trait, but comes with its own share of problems: high risk of overdiagnosis and overtreatment with significant patient morbidity. To combat overtreatment, several models have been developed to assign patients to risk categories with differing treatment regimes. Although these models show good correlation with patient outcome on the group level, their benefit for the individual patient remains limited.&lt;/p>
+&lt;figure id="figure-prostate-cancer-segmentation-using-convolutional-neural-networks">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Prostate cancer segmentation using convolutional neural networks." srcset="
+/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_c39d617c39701127e2c5b6f0463b1764.webp 400w,
+/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_4d30aa8e8b7e730f03fb991419b2c68b.webp 760w,
+/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://geertlitjens.nl/project/deeppca/featured_hu3f41f061ac44526ef00b786c7b376de1_58615_c39d617c39701127e2c5b6f0463b1764.webp"
+width="50%"
+height="500"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Prostate cancer segmentation using convolutional neural networks.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Several groups have shown that quantifying the tumour and its micro-environment at the cellular level can result in biomarkers with strong prognostic potential, for example tumour/stroma ratio, the presence and composition of immune infiltrates or the amount of proliferating (Ki67-positive) cells. However, these findings have not translated to clinical practice due to the cumbersome and subjective manual extraction of these biomarkers from tissue slides.&lt;/p>
+&lt;p>Recent years have seen the more widespread introduction of whole-slide imaging systems, which for the first time allow computerized processing of tissue slides. Automated extraction of aforementioned quantitative biomarkers through image analysis can achieve the required accuracy and robustness to impact clinical practice. In tandem with these developments, computer vision has seen a machine learning revolution over the past decade due to the advent of deep learning.&lt;/p>
+&lt;p>In this project, we will combine deep learning and digitized whole-slide imaging of prostate cancer for reproducible extraction of quantitative biomarkers. Furthermore, due to the ability of deep learning systems to learn relevant features without human intervention, we expect to identify novel biomarkers which allow us to further improve the current risk models.&lt;/p>
+&lt;p>The aim of this project is to prevent unnecessary surgery and adjuvant therapy for individual patients by improving currently established risk models. Risk models will be enhanced through the addition of pre- and post-operative quantitative biomarkers obtained via image analysis and deep learning. We will focus both on the accurate and objective quantification of biomarkers already identified in literature and the discovery of novel biomarkers.&lt;/p></description></item><item><title>DeepDerma</title><link>https://geertlitjens.nl/project/deepderma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/project/deepderma/</guid><description>&lt;p>Due to the tripling of skin cancer incidence over the past two decades, more skin biopsies and resections are performed than ever before. This has led to an enormous increase in workload for pathologists, who perform the microscopic diagnostics of skin samples.
+Most of microscopic skin analysis is not professionally challenging, but it is time consuming and can lead to reduced time for more complex diagnostics and increased wait time for patients. Machine learning and specifically deep learning offers a path to automating the diagnoses of skin samples, which would reduce the pressure on pathologists and the cost of diagnosis, both in time and money.&lt;/p>
+&lt;figure id="figure-annotation-of-a-basal-cell-carcinoma-a-skin-cancer-with-typically-good-prognosis">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis." srcset="
+/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_1d607c63ae43719b7dba94a2e3b8b364.webp 400w,
+/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_ae20c5f4969135c3fd13782c51c3ffe7.webp 760w,
+/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://geertlitjens.nl/project/deepderma/featured_huab03e89e8b7ea695843dd8e7fc56edc8_571530_1d607c63ae43719b7dba94a2e3b8b364.webp"
+width="50%"
+height="500"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Annotation of a Basal Cell Carcinoma, a skin cancer with, typically, good prognosis.
+&lt;/figcaption>&lt;/figure>
+&lt;p>We propose not just to develop an algorithm which can perform skin diagnostics at the level of an expert pathologist, but also explicitly identify the most fruitful way of integrating these algorithms into the routine workflow. This project is exceedingly timely, as by the end of 2019 all histopathological diagnostics in the Radboud University Medical Center will be done digitally.&lt;/p>
+&lt;p>The project consists of four work packages. In work package 1, we will collect a large retrospective cohort of annotated and labeled skin biopsies and resections from multiple centers. The focus of work package 2 is on development of algorithms for segmentation of different skin tissue classes, subtyping of basal cell carcinoma, and identification of rare incidental findings. Work package 3 and 4 cover the development and prospective evaluation of the optimal algorithm-integrated workflow in a real world clinical setting.&lt;/p>
+&lt;p>After completion, we will have the world’s first prospectively evaluated algorithm-supported workflow for digital pathology, and a valuable, expert labeled, retrospective dataset of skin specimens; both excellent targets for valorization. Last, it will increase the time of pathologists for complex diagnostics and reduce the wait time for patients.&lt;/p></description></item></channel></rss>

@@ -1,153 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>In the Media | Geert Litjens</title>
-    <link>https://geertlitjens.nl/media/</link>
-      <atom:link href="https://geertlitjens.nl/media/index.xml" rel="self" type="application/rss+xml" />
-    <description>In the Media</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png</url>
-      <title>In the Media</title>
-      <link>https://geertlitjens.nl/media/</link>
-    </image>
-    
-    <item>
-      <title>Interview with Kijk on AI in Medical Imaging</title>
-      <link>https://geertlitjens.nl/media/kijk-gleason/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/kijk-gleason/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NRC article on artificial intelligence in medicine</title>
-      <link>https://geertlitjens.nl/media/nrc-gleason/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/nrc-gleason/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</title>
-      <link>https://geertlitjens.nl/media/bnr-interview-gleason/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/bnr-interview-gleason/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/YnW2rUtjnNM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>NOS Tech Podcast on AI for Gleason Grading</title>
-      <link>https://geertlitjens.nl/media/nos-techpodcast-gleason/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/nos-techpodcast-gleason/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fYaJ8xZrEFI?start=857&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</title>
-      <link>https://geertlitjens.nl/media/omroep_pm_zomeravond/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/omroep_pm_zomeravond/</guid>
-      <description>&lt;p&gt;Above you can find the full link to the video on the Omroep P&amp;amp;M website (via the Video button). For convenience I have also added a link to YouTube, which you can see here:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/seXpZq9v1EU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Report on Omroep Gelderland on &#39;De Nieuwe Mens&#39;</title>
-      <link>https://geertlitjens.nl/media/omroep_gelderland_interview/</link>
-      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/omroep_gelderland_interview/</guid>
-      <description>&lt;p&gt;Above you can find the full link to the article and the video on the Omroep Gelderland website (via the Video button). For convenience I have also uploaded the video to YouTube, which you can see here:&lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/3dt-E1vBr94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland which covers our research in a bit more detail. It is hosted on SoundCloud and can be listened here:&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614820420&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>BNR Wetenschap Vandaag - Zomercollege</title>
-      <link>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/sKz4mGxbSxw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>BNR Beter - Interview</title>
-      <link>https://geertlitjens.nl/media/beter-interview/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/beter-interview/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/nh5ruSNs37Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Interview with Prostate Cancer Patient Foundation</title>
-      <link>https://geertlitjens.nl/media/prostaatkankerstichting/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/prostaatkankerstichting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Report on Nieuwsuur about CAMELYON.</title>
-      <link>https://geertlitjens.nl/media/nieuwsuur_camelyon/</link>
-      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/nieuwsuur_camelyon/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/yLlk89EAgUU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Interview Regional TV at Alpe Hu&#39;Zes</title>
-      <link>https://geertlitjens.nl/media/alpehuzes-interview/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/alpehuzes-interview/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/nFWP2vxO2l4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Interview with Vox about FameLab</title>
-      <link>https://geertlitjens.nl/media/vox-famelab/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://geertlitjens.nl/media/vox-famelab/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In the Media | Geert Litjens</title><link>https://geertlitjens.nl/media/</link><atom:link href="https://geertlitjens.nl/media/index.xml" rel="self" type="application/rss+xml"/><description>In the Media</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><image><url>https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png</url><title>In the Media</title><link>https://geertlitjens.nl/media/</link></image><item><title>Interview with Kijk on AI in Medical Imaging</title><link>https://geertlitjens.nl/media/kijk-gleason/</link><pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/kijk-gleason/</guid><description>&lt;p>Interview with Wouter Bulten and myself on AI in medical imaging for popular science magazine Kijk, with a specific focus on our &lt;a href="https://geertlitjens.nl/publication/bult-20/">automated Gleason grading algorithm&lt;/a>.&lt;/p></description></item><item><title>NRC article on artificial intelligence in medicine</title><link>https://geertlitjens.nl/media/nrc-gleason/</link><pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/nrc-gleason/</guid><description>&lt;p>Article covering some of the latest advances of AI in medical imaging, with specific focus on our &lt;a href="https://geertlitjens.nl/publication/bult-20/">JAMA Oncology&lt;/a> paper on automated Gleason grading (on the cover of the Science section).&lt;/p></description></item><item><title>BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</title><link>https://geertlitjens.nl/media/bnr-interview-gleason/</link><pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/bnr-interview-gleason/</guid><description>&lt;p>Interview together with Wouter Bulten on our publication in JAMA Oncology on using AI for automated Gleason grading.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/YnW2rUtjnNM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>NOS Tech Podcast on AI for Gleason Grading</title><link>https://geertlitjens.nl/media/nos-techpodcast-gleason/</link><pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/nos-techpodcast-gleason/</guid><description>&lt;p>Interview in the NOS op 3 tech podcast on AI for medical imaging&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/fYaJ8xZrEFI?start=857" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Interview in 'De zomeravond van...' van Omroep P&amp;M</title><link>https://geertlitjens.nl/media/omroep_pm_zomeravond/</link><pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/omroep_pm_zomeravond/</guid><description>&lt;p>Interview for the show &amp;lsquo;De zomeravond van&amp;hellip;&amp;rsquo; for Omroep P&amp;amp;M, which is an interview program for (former) residents of the municipality Peel &amp;amp; Maas. It partly highlights my work, but also some personal items.&lt;/p>
+&lt;p>Above you can find the full link to the video on the Omroep P&amp;amp;M website (via the Video button). For convenience I have also added a link to YouTube, which you can see here:&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/seXpZq9v1EU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Report on Omroep Gelderland on 'De Nieuwe Mens'</title><link>https://geertlitjens.nl/media/omroep_gelderland_interview/</link><pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/omroep_gelderland_interview/</guid><description>&lt;p>Above you can find the full link to the article and the video on the Omroep Gelderland website (via the Video button). For convenience I have also uploaded the video to YouTube, which you can see here:&lt;/p>
+&lt;p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/3dt-E1vBr94" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br>
+In addition, a longer podcast was made by Vera Eisink from Omroep Gelderland which covers our research in a bit more detail. It is hosted on SoundCloud and can be listened here:&lt;/p>
+&lt;iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614820420&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">&lt;/iframe></description></item><item><title>BNR Wetenschap Vandaag - Zomercollege</title><link>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/wetenschapvandaag-zomercollege/</guid><description>&lt;p>For a special series of Summer Mini-Lectures Jeroen van der Laak and I were interviewed by Karlijn Meinders on AI in diagnostic pathology.
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/sKz4mGxbSxw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>BNR Beter - Interview</title><link>https://geertlitjens.nl/media/beter-interview/</link><pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/beter-interview/</guid><description>&lt;p>Interview with BNR Beter on the digitization of pathology and the role of artificial intelligence in the workflow of the pathologist. Together with prof. Paul van Diest.
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nh5ruSNs37Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Interview with Prostate Cancer Patient Foundation</title><link>https://geertlitjens.nl/media/prostaatkankerstichting/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/prostaatkankerstichting/</guid><description>&lt;p>Interview with the Foundation which supports prostate cancer patients in the Netherlands. They supported my Bas Mulder Award application and were interested in my research. This interview gives a good overview of the goals of the project for a general audience. Note that the interview is in Dutch.&lt;/p></description></item><item><title>Report on Nieuwsuur about CAMELYON.</title><link>https://geertlitjens.nl/media/nieuwsuur_camelyon/</link><pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/nieuwsuur_camelyon/</guid><description>&lt;p>Report by Nieuwsuur on the results of our &lt;a href="https://geertlitjens.nl/publication/ehte-17/">JAMA publication&lt;/a> which showed that AI could perform at the level of expert pathologists.
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/yLlk89EAgUU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Interview Regional TV at Alpe Hu'Zes</title><link>https://geertlitjens.nl/media/alpehuzes-interview/</link><pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/alpehuzes-interview/</guid><description>&lt;p>During Alpe Hu&amp;rsquo;Zes in 2016 I was given the honor to receive the Bas Mulder Award to continue my research. I was invited to speak a bit about my work during the event during the live registration.
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nFWP2vxO2l4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Interview with Vox about FameLab</title><link>https://geertlitjens.nl/media/vox-famelab/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/media/vox-famelab/</guid><description>&lt;p>Interview about my participation in FameLab in 2015.&lt;/p></description></item></channel></rss>

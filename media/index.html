@@ -1,2556 +1,477 @@
-<!DOCTYPE html><html lang="en-us" >
-
+<!doctype html><html lang=en-us>
 <head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  
-  
-  <meta name="generator" content="Wowchemy 4.8.0 for Hugo">
-  
-
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Geert Litjens">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Geert&#39;s blog on his research and other interests.">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://geertlitjens.nl/media/">
-
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-  
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-
-  
-  
-  
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
-  
-
-  
-  
-
-  
-  
-  
-  
-    
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
-    
-    
-    
-      
-    
-    
-      
-      
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-      
-    
-
-    
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-        
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-    
-      
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-    
-  
-
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/wowchemy.css">
-
-  
-
-
-
-
-
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.4.0 for Hugo">
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<meta name=author content="Geert Litjens">
+<meta name=description content="Geert's blog on his research and other interests.">
+<link rel=alternate hreflang=en-us href=https://geertlitjens.nl/media/>
+<meta name=theme-color content="hsl(339, 90%, 68%)">
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<link rel=stylesheet href=/css/wowchemy.7d86dc42c902b14610813b0603567dae.css>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139145569-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-139145569-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
-  
-
-  
-  <link rel="alternate" href="/media/index.xml" type="application/rss+xml" title="Geert Litjens">
-  
-
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_192x192_fill_lanczos_center_2.png">
-
-  <link rel="canonical" href="https://geertlitjens.nl/media/">
-
-  
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
-  <meta property="twitter:card" content="summary">
-  
-  <meta property="twitter:site" content="@GeertLitjens">
-  <meta property="twitter:creator" content="@GeertLitjens">
-  
-  <meta property="og:site_name" content="Geert Litjens">
-  <meta property="og:url" content="https://geertlitjens.nl/media/">
-  <meta property="og:title" content="In the Media | Geert Litjens">
-  <meta property="og:description" content="Geert&#39;s blog on his research and other interests."><meta property="og:image" content="https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://geertlitjens.nl/images/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
-  
-    <meta property="og:updated_time" content="2020-05-01T00:00:00&#43;00:00">
-  
-
-  
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-  <title>In the Media | Geert Litjens</title>
-
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(a,b){gtag('event','click',{event_category:'outbound',event_label:a,transport_type:'beacon',event_callback:function(){b!=='_blank'&&(document.location=a)}}),console.debug("Outbound link clicked: "+a)}function onClickCallback(a){if(a.target.tagName!=='A'||a.target.host===window.location.host)return;trackOutboundLink(a.target,a.target.getAttribute('target'))}gtag('js',new Date),gtag('config','UA-139145569-1',{}),gtag('set',{cookie_flags:'SameSite=None;Secure'}),document.addEventListener('click',onClickCallback,!1)</script>
+<link rel=alternate href=/media/index.xml type=application/rss+xml title="Geert Litjens">
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://geertlitjens.nl/media/>
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@GeertLitjens">
+<meta property="twitter:creator" content="@GeertLitjens">
+<meta property="og:site_name" content="Geert Litjens">
+<meta property="og:url" content="https://geertlitjens.nl/media/">
+<meta property="og:title" content="In the Media | Geert Litjens">
+<meta property="og:description" content="Geert's blog on his research and other interests."><meta property="og:image" content="https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png">
+<meta property="twitter:image" content="https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+<meta property="og:updated_time" content="2020-05-01T00:00:00+00:00">
+<title>In the Media | Geert Litjens</title>
 </head>
-
-
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark ">
-
-  
-  
-  
-  
-    <script>const isSiteThemeDark = true;</script>
-  
-  
-  <script src="/js/load-theme.js"></script>
-
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class="page-wrapper dark" data-wc-page-id=ddf7136bbdbc1149a24ccd3a3acfd105>
+<script src=/js/wowchemy-init.min.b6ac29faab89ee14db88f0bed7aa6622.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
 </aside>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Geert Litjens</a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Geert Litjens</a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
-
-      
-      <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#media"><span>Media</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#presentations"><span>Presentations</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>About</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/cv"><span>CV</span></a>
-        </li>
-
-        
-        
-
-      
-
-        
-      </ul>
-    </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      
-
-      
-      
-
-      
-
-    </ul>
-
-  </div>
+<div class=page-header>
+<header class=header--fixed>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Geert Litjens</a>
+</div>
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Geert Litjens</a>
+</div>
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#posts><span>Posts</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#projects><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#media><span>Media</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#presentations><span>Presentations</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#publications><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#about><span>About</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/cv><span>CV</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+<li class="nav-item dropdown theme-dropdown">
+<a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences">
+<i class="fas fa-moon" aria-hidden=true></i>
+</a>
+<div class=dropdown-menu>
+<a href=# class="dropdown-item js-set-theme-light">
+<span>Light</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-dark">
+<span>Dark</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-auto">
+<span>Automatic</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
 </nav>
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
+</header>
+</div>
+<div class=page-body>
 <div class="universal-wrapper pt-3">
-  <h1>In the Media</h1>
-
-  
-
-  
+<h1>In the Media</h1>
 </div>
-
-
-
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
-
-      
-
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2020</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/kijk-gleason/"  itemprop="url">Interview with Kijk on AI in Medical Imaging</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview with Wouter Bulten and myself on AI in medical imaging for popular science magazine Kijk, with a specific focus on our …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          May 1, 2020
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2020-05-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-05-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
+<div class=universal-wrapper>
+<div class=row>
+<div class=col-lg-12>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2020</h3>
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/kijk-gleason/kijk-gleason.pdf" target="_blank" rel="noopener">
-  PDF
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Interview with Kijk on AI in Medical Imaging</a></div>
+<div class=article-style>
+Interview with Wouter Bulten and myself on AI in medical imaging for popular science magazine Kijk, with a specific focus on our <a href=/publication/bult-20/>automated Gleason grading algorithm</a>.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=/media/kijk-gleason/kijk-gleason.pdf target=_blank rel=noopener>
+PDF
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/kijk-gleason/" >
-      <img src="/media/kijk-gleason/featured_hu1ec56d4c2796e247158c3137d68e07c9_255203_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/nrc-gleason/"  itemprop="url">NRC article on artificial intelligence in medicine</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Article covering some of the latest advances of AI in medical imaging, with specific focus on our <a href="/publication/bult-20/">JAMA Oncology</a> paper on automated …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Feb 1, 2020
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2020-02-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-02-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/nrc-gleason/nrc-gleason.pdf" target="_blank" rel="noopener">
-  PDF
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/kijk-gleason/featured_hu1ec56d4c2796e247158c3137d68e07c9_255203_540x0_resize_q75_h2_lanczos_3.webp height=699 width=540 alt="Interview with Kijk on AI in Medical Imaging" loading=lazy>
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/nrc-gleason/" >
-      <img src="/media/nrc-gleason/featured_huf0da0f65815dc1d395c4fef7a8f39b54_171433_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/nos-techpodcast-gleason/"  itemprop="url">NOS Tech Podcast on AI for Gleason Grading</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview and podcast with Omroep Gelderland after my appearance in the theater show &lsquo;De Nieuwe Mens&rsquo; in Lux, during which …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jan 9, 2020
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2020-01-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-01-09 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=fYaJ8xZrEFI&amp;t=857" target="_blank" rel="noopener">
-  Video
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>NRC article on artificial intelligence in medicine</a></div>
+<div class=article-style>
+Article covering some of the latest advances of AI in medical imaging, with specific focus on our <a href=/publication/bult-20/>JAMA Oncology</a> paper on automated Gleason grading (on the cover of the Science section).
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=/media/nrc-gleason/nrc-gleason.pdf target=_blank rel=noopener>
+PDF
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/nos-techpodcast-gleason/" >
-      <img src="/media/nos-techpodcast-gleason/featured_hue2deeec69d41c75f9ff0f7d1a94382bc_26793_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/bnr-interview-gleason/"  itemprop="url">BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview together with Wouter Bulten on our publication in JAMA Oncology on using AI for automated Gleason grading.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jan 9, 2020
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2020-01-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-01-09 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/YnW2rUtjnNM" target="_blank" rel="noopener">
-  Video
+<div class="col-12 col-md-6 order-first order-md-2">
+<a href>
+<img src=/media/nrc-gleason/featured_huf0da0f65815dc1d395c4fef7a8f39b54_171433_540x0_resize_q75_h2_lanczos_3.webp height=775 width=540 alt="NRC article on artificial intelligence in medicine" loading=lazy>
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/bnr-interview-gleason/" >
-      <img src="/media/bnr-interview-gleason/featured_hua78e61dc49404a24f3c007c54afbc416_49825_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2019</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/omroep_pm_zomeravond/"  itemprop="url">Interview in &#39;De zomeravond van...&#39; van Omroep P&amp;M</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview for the show &lsquo;De zomeravond van&hellip;&rsquo; for Omroep P&amp;M, which is an interview program for (former) residents …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Aug 8, 2019
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2019-08-08 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-08-08 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.omroeppenm.nl/de-zomeravond-van-geert-litjens/tvgemist/item?nuCWwmxCiFKVvLF9FHSGHrebGNiwNB8A" target="_blank" rel="noopener">
-  Video
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>NOS Tech Podcast on AI for Gleason Grading</a></div>
+<div class=article-style>
+Interview in the NOS op 3 tech podcast on AI for medical imaging
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=fYaJ8xZrEFI&t=857" target=_blank rel=noopener>
+Video
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/omroep_pm_zomeravond/" >
-      <img src="/media/omroep_pm_zomeravond/featured_hu5404387449eb535551dd398c4ba55afe_168067_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/omroep_gelderland_interview/"  itemprop="url">Report on Omroep Gelderland on &#39;De Nieuwe Mens&#39;</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview and podcast with Omroep Gelderland after my appearance in the theater show &lsquo;De Nieuwe Mens&rsquo; in Lux, during which …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          May 6, 2019
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2019-05-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-05-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.omroepgelderland.nl/nieuws/2407893/Nijmeegse-primeur-computer-analyseert-straks-kankercellen" target="_blank" rel="noopener">
-  Video
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/nos-techpodcast-gleason/featured_hue2deeec69d41c75f9ff0f7d1a94382bc_26793_540x0_resize_q75_h2_lanczos.webp height=540 width=540 alt="NOS Tech Podcast on AI for Gleason Grading" loading=lazy>
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/omroep_gelderland_interview/" >
-      <img src="/media/omroep_gelderland_interview/featured_huf705ad37561ff0c4027d7a8eee00cb41_56766_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2018</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/wetenschapvandaag-zomercollege/"  itemprop="url">BNR Wetenschap Vandaag - Zomercollege</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      For a special series of Summer Mini-Lectures Jeroen van der Laak and I were interviewed by Karlijn Meinders on AI in diagnostic …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jul 18, 2018
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2018-07-18 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-07-18 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=sKz4mGxbSxw" target="_blank" rel="noopener">
-  Video
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>BNR Wetenschap Vandaag - Interview AI for prostate cancer grading</a></div>
+<div class=article-style>
+Interview together with Wouter Bulten on our publication in JAMA Oncology on using AI for automated Gleason grading.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=https://youtu.be/YnW2rUtjnNM target=_blank rel=noopener>
+Video
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/wetenschapvandaag-zomercollege/" >
-      <img src="/media/wetenschapvandaag-zomercollege/featured_hua78e61dc49404a24f3c007c54afbc416_49825_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/beter-interview/"  itemprop="url">BNR Beter - Interview</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview with BNR Beter on the digitization of pathology and the role of artificial intelligence in the workflow of the pathologist. …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jun 4, 2018
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2018-06-04 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-06-04 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=nh5ruSNs37Q" target="_blank" rel="noopener">
-  Video
+<div class="col-12 col-md-6 order-first order-md-2">
+<a href>
+<img src=/media/bnr-interview-gleason/featured_hua78e61dc49404a24f3c007c54afbc416_49825_540x0_resize_q75_h2_lanczos.webp height=540 width=540 alt="BNR Wetenschap Vandaag - Interview AI for prostate cancer grading" loading=lazy>
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/beter-interview/" >
-      <img src="/media/beter-interview/featured_hu5a0e82d9ed90aa031edbea0c597ea303_46900_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/prostaatkankerstichting/"  itemprop="url">Interview with Prostate Cancer Patient Foundation</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview with the Foundation which supports prostate cancer patients in the Netherlands. They supported my Bas Mulder Award …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Mar 1, 2018
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2018-03-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-03-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/prostaatkankerstichting/prostaatkankerstichting.pdf" target="_blank" rel="noopener">
-  PDF
+</div>
+</div>
+</div>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2019</h3>
+</div>
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Interview in &lsquo;De zomeravond van&mldr;&rsquo; van Omroep P&M</a></div>
+<div class=article-style>
+Interview for the show &lsquo;De zomeravond van&mldr;&rsquo; for Omroep P&M, which is an interview program for (former) residents of the municipality Peel & Maas. It partly highlights my work, but also some personal items.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=https://www.omroeppenm.nl/de-zomeravond-van-geert-litjens/tvgemist/item?nuCWwmxCiFKVvLF9FHSGHrebGNiwNB8A target=_blank rel=noopener>
+Video
 </a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deeppca/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/prostaatkankerstichting/" >
-      <img src="/media/prostaatkankerstichting/featured_hu827397a6582da4a3a184fc01e720cfbd_361432_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2017</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/nieuwsuur_camelyon/"  itemprop="url">Report on Nieuwsuur about CAMELYON.</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Report by Nieuwsuur on the results of our <a href="/publication/ehte-17/">JAMA publication</a> which showed that AI could perform at the level of expert pathologists.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Dec 13, 2017
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2017-12-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2017-12-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/camelyon/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=yLlk89EAgUU" target="_blank" rel="noopener">
-  Video
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/omroep_pm_zomeravond/featured_hu5404387449eb535551dd398c4ba55afe_168067_540x0_resize_q75_h2_lanczos.webp height=306 width=540 alt="Interview in 'De zomeravond van...' van Omroep P&M" loading=lazy>
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/nieuwsuur_camelyon/" >
-      <img src="/media/nieuwsuur_camelyon/featured_hu2c5ea9fc2d94d8a3690b206ec6439597_12302_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2016</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/alpehuzes-interview/"  itemprop="url">Interview Regional TV at Alpe Hu&#39;Zes</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      During Alpe Hu&rsquo;Zes in 2016 I was given the honor to receive the Bas Mulder Award to continue my research. I was invited to speak …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jun 1, 2016
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2016-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2016-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=nFWP2vxO2l4" target="_blank" rel="noopener">
-  Video
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Report on Omroep Gelderland on &lsquo;De Nieuwe Mens&rsquo;</a></div>
+<div class=article-style>
+Above you can find the full link to the article and the video on the Omroep Gelderland website (via the Video button). For convenience I have also uploaded the video to YouTube, which you can see here:
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=https://www.omroepgelderland.nl/nieuws/2407893/Nijmeegse-primeur-computer-analyseert-straks-kankercellen target=_blank rel=noopener>
+Video
 </a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/alpehuzes-interview/" >
-      <img src="/media/alpehuzes-interview/featured_hu1de71962b5a49d986c2d55795e728f77_71676_150x0_resize_q90_lanczos.jpg" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-      <div class="row" id="media_list">
-        <div class="col-lg-2">
-          <h3>2015</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/media/vox-famelab/"  itemprop="url">Interview with Vox about FameLab</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Interview about my participation in FameLab in 2015.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        <span itemprop="startDate">
-          Jan 1, 2015
-        </span>
-      </div>
-            
-
-      
-        
-
-
-
-<meta content="2015-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2015-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
 </div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/vox-famelab/vox-famelab.pdf" target="_blank" rel="noopener">
-  PDF
+<div class="col-12 col-md-6 order-first order-md-2">
+<a href>
+<img src=/media/omroep_gelderland_interview/featured_huf705ad37561ff0c4027d7a8eee00cb41_56766_540x0_resize_q75_h2_lanczos.webp height=304 width=540 alt="Report on Omroep Gelderland on 'De Nieuwe Mens'" loading=lazy>
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/media/vox-famelab/" >
-      <img src="/media/vox-famelab/featured_hu7de6bf858333aacff6ee269a5f87785c_87548_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
 </div>
-
-            
-          
-
-        </div>
-      </div>
-      
-
-    </div>
-  </div>
-
 </div>
-
-      
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
-
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/bash.min.js"></script>
-        
-      
-
-    
-
-    
-    
-
-    
-    
-    <script>const code_highlighting = true;</script>
-    
-
-    
-
-    
-    
-
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <script src="/js/wowchemy.min.e9934e4586590fe76d4de7e3c7f48deb.js"></script>
-
-    
-
-
-
-
-
-
-  
-  
-  <div class="container">
-    <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    © 2019
-  </p>
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
-    
-    Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
-    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    open source</a> website builder that empowers creators.
-    
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
+</div>
+</div>
+</div>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2018</h3>
+</div>
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>BNR Wetenschap Vandaag - Zomercollege</a></div>
+<div class=article-style>
+For a special series of Summer Mini-Lectures Jeroen van der Laak and I were interviewed by Karlijn Meinders on AI in diagnostic pathology.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=sKz4mGxbSxw" target=_blank rel=noopener>
+Video
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/wetenschapvandaag-zomercollege/featured_hua78e61dc49404a24f3c007c54afbc416_49825_540x0_resize_q75_h2_lanczos.webp height=540 width=540 alt="BNR Wetenschap Vandaag - Zomercollege" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>BNR Beter - Interview</a></div>
+<div class=article-style>
+Interview with BNR Beter on the digitization of pathology and the role of artificial intelligence in the workflow of the pathologist. Together with prof. Paul van Diest.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=nh5ruSNs37Q" target=_blank rel=noopener>
+Video
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first order-md-2">
+<a href>
+<img src=/media/beter-interview/featured_hu5a0e82d9ed90aa031edbea0c597ea303_46900_540x0_resize_q75_h2_lanczos.webp height=540 width=540 alt="BNR Beter - Interview" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Interview with Prostate Cancer Patient Foundation</a></div>
+<div class=article-style>
+Interview with the Foundation which supports prostate cancer patients in the Netherlands. They supported my Bas Mulder Award application and were interested in my research. This interview gives a good overview of the goals of the project for a general audience. Note that the interview is in Dutch.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=/media/prostaatkankerstichting/prostaatkankerstichting.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary btn-page-header" href=/project/deeppca/>
+Project
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/prostaatkankerstichting/featured_hu827397a6582da4a3a184fc01e720cfbd_361432_540x0_resize_q75_h2_lanczos_3.webp height=763 width=540 alt="Interview with Prostate Cancer Patient Foundation" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2017</h3>
+</div>
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Report on Nieuwsuur about CAMELYON.</a></div>
+<div class=article-style>
+Report by Nieuwsuur on the results of our <a href=/publication/ehte-17/>JAMA publication</a> which showed that AI could perform at the level of expert pathologists.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=/project/camelyon/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=yLlk89EAgUU" target=_blank rel=noopener>
+Video
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/nieuwsuur_camelyon/featured_hu2c5ea9fc2d94d8a3690b206ec6439597_12302_540x0_resize_q75_h2_lanczos.webp height=540 width=540 alt="Report on Nieuwsuur about CAMELYON." loading=lazy>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2016</h3>
+</div>
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Interview Regional TV at Alpe Hu&rsquo;Zes</a></div>
+<div class=article-style>
+During Alpe Hu&rsquo;Zes in 2016 I was given the honor to receive the Bas Mulder Award to continue my research. I was invited to speak a bit about my work during the event during the live registration.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=nFWP2vxO2l4" target=_blank rel=noopener>
+Video
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/alpehuzes-interview/featured_hu1de71962b5a49d986c2d55795e728f77_71676_540x0_resize_q75_h2_lanczos.webp height=476 width=540 alt="Interview Regional TV at Alpe Hu'Zes" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=row id=media_list>
+<div class=col-lg-2>
+<h3>2015</h3>
+</div>
+<div class=col-lg-10>
+<div class="col-lg-12 mb-5 view-showcase">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<div class="section-subheading article-title mb-0 mt-0"><a href>Interview with Vox about FameLab</a></div>
+<div class=article-style>
+Interview about my participation in FameLab in 2015.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header" href=/media/vox-famelab/vox-famelab.pdf target=_blank rel=noopener>
+PDF
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<a href>
+<img src=/media/vox-famelab/featured_hu7de6bf858333aacff6ee269a5f87785c_87548_540x0_resize_q75_h2_lanczos_3.webp height=546 width=540 alt="Interview with Vox about FameLab" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=page-footer>
+<div class=container>
+<footer class=site-footer>
+<p class=powered-by>
+© 2019
+</p>
+<p class=powered-by>
+Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-themes target=_blank rel=noopener>open source</a> website builder that empowers creators.
+</p>
 </footer>
-
-  </div>
-  
-
-  
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
 </div>
-
+</div>
+<div id=modal class="modal fade" role=dialog>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<h5 class=modal-title>Cite</h5>
+<button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span>
+</button>
+</div>
+<div class=modal-body>
+<pre><code class="tex hljs"></code></pre>
+</div>
+<div class=modal-footer>
+<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
+<i class="fas fa-copy"></i> Copy
+</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
+<i class="fas fa-download"></i> Download
+</a>
+<div id=modal-error></div>
+</div>
+</div>
+</div>
+</div>
+<script src=/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js></script>
+<script src=https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js crossorigin=anonymous></script>
+<script id=search-hit-fuse-template type=text/x-template>
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+<script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script>
+<script id=page-data type=application/json>{"use_headroom":true}</script>
+<script src=/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js type=module></script>
+<script src=/en/js/wowchemy.min.0cb61b39a43590bf7470ddb0caa9f812.js></script>
 </body>
 </html>

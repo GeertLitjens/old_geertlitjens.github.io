@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Metastases | Geert Litjens</title><link>https://geertlitjens.nl/tag/metastases/</link><atom:link href="https://geertlitjens.nl/tag/metastases/index.xml" rel="self" type="application/rss+xml"/><description>Metastases</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><image><url>https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png</url><title>Metastases</title><link>https://geertlitjens.nl/tag/metastases/</link></image><item><title>CAMELYON</title><link>https://geertlitjens.nl/project/camelyon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://geertlitjens.nl/project/camelyon/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Built on the success of its predecessor, CAMELYON17 is the second grand challenge in pathology organised by the Diagnostic Image Analysis Group (DIAG) and Department of Pathology of the Radboud University Medical Center (Radboudumc) in Nijmegen, The Netherlands.&lt;/p>
+&lt;p>The goal of this challenge is to evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections. This task has high clinical relevance and would normally require extensive microscopic assessment by pathologists. The presence of metastases in lymph nodes has therapeutic implications for breast cancer patients. Therefore, an automated solution would hold great promise to reduce the workload of pathologists while at the same time reduce the subjectivity in diagnosis.&lt;/p>
+&lt;figure id="figure-detection-of-breast-cancer-metastases-in-lymph-nodes">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Detection of breast cancer metastases in lymph nodes." srcset="
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_7328f63abb61955f723e9608130ba948.webp 400w,
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_03ef2794f5f197698bfbb938e54e7a90.webp 760w,
+/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://geertlitjens.nl/project/camelyon/featured_hubada0ba51fa091eb34b957ad6af373e8_629988_7328f63abb61955f723e9608130ba948.webp"
+width="50%"
+height="500"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Detection of breast cancer metastases in lymph nodes.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="task">Task&lt;/h2>
+&lt;p>The TNM system is an internationally accepted means to classify the extent of cancer spread in patients with a solid tumour. It is one of the most important tools for clinicians to help them select a suitable treatment option and to obtain an indication of prognosis. Since the histological assessment of lymph node metastases is an essential part of TNM classification, CAMELYON17 will focus on the pathologic N-stage, in short: pN-stage.&lt;/p>
+&lt;p>In clinical practice several lymph nodes are surgically removed after which these nodes are processed in the pathology laboratory. In this challenge we forged &lt;strong>artificial patients&lt;/strong>, with 5 slides provided for each patient where each slide corresponds to exactly one lymph node.&lt;/p>
+&lt;p>The task in this challenge is to &lt;strong>determine a pN-stage for every patient in the test dataset&lt;/strong>. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. For the evaluation of the results we use five class quadratic weighted kappa where the classes are the pN-stages.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>Further information, registration, and the results are available on the &lt;a href="https://camelyon17.grand-challenge.org" target="_blank" rel="noopener">challenge website&lt;/a>.&lt;/p></description></item></channel></rss>
