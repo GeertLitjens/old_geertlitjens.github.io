@@ -1,0 +1,288 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.4.0 for Hugo">
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<meta name=author content="Geert Litjens">
+<meta name=description content="Diagnosis and Gleason grading of prostate cancer in biopsies are critical for the clinical management of men with prostate cancer. Despite this, the high grading variability among pathologists leads to the potential for under- and overtreatment. Artificial intelligence (AI) systems have shown promise in assisting pathologists to perform Gleason grading, which could help address this problem. In this mini-review, we highlight studies reporting on the development of AI systems for cancer detection and Gleason grading, and discuss the progress needed for widespread clinical implementation, as well as anticipated future developments. PATIENT SUMMARY: This mini-review summarizes the evidence relating to the validation of artificial intelligence (AI)-assisted cancer detection and Gleason grading of prostate cancer in biopsies, and highlights the remaining steps required prior to its widespread clinical implementation. We found that, although there is strong evidence to show that AI is able to perform Gleason grading on par with experienced uropathologists, more work is needed to ensure the accuracy of results from AI systems in diverse settings across different patient populations, digitization platforms, and pathology laboratories.">
+<link rel=alternate hreflang=en-us href=https://geertlitjens.nl/publication/kart-21-a/>
+<meta name=theme-color content="hsl(339, 90%, 68%)">
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/vs2015.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<link rel=stylesheet href=/css/wowchemy.7d86dc42c902b14610813b0603567dae.css>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139145569-1"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(a,b){gtag('event','click',{event_category:'outbound',event_label:a,transport_type:'beacon',event_callback:function(){b!=='_blank'&&(document.location=a)}}),console.debug("Outbound link clicked: "+a)}function onClickCallback(a){if(a.target.tagName!=='A'||a.target.host===window.location.host)return;trackOutboundLink(a.target,a.target.getAttribute('target'))}gtag('js',new Date),gtag('config','UA-139145569-1',{}),gtag('set',{cookie_flags:'SameSite=None;Secure'}),document.addEventListener('click',onClickCallback,!1)</script>
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://geertlitjens.nl/publication/kart-21-a/>
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@GeertLitjens">
+<meta property="twitter:creator" content="@GeertLitjens">
+<meta property="og:site_name" content="Geert Litjens">
+<meta property="og:url" content="https://geertlitjens.nl/publication/kart-21-a/">
+<meta property="og:title" content="Artificial Intelligence for Diagnosis and Gleason Grading of Prostate Cancer in Biopsies-Current Status and Next Steps. | Geert Litjens">
+<meta property="og:description" content="Diagnosis and Gleason grading of prostate cancer in biopsies are critical for the clinical management of men with prostate cancer. Despite this, the high grading variability among pathologists leads to the potential for under- and overtreatment. Artificial intelligence (AI) systems have shown promise in assisting pathologists to perform Gleason grading, which could help address this problem. In this mini-review, we highlight studies reporting on the development of AI systems for cancer detection and Gleason grading, and discuss the progress needed for widespread clinical implementation, as well as anticipated future developments. PATIENT SUMMARY: This mini-review summarizes the evidence relating to the validation of artificial intelligence (AI)-assisted cancer detection and Gleason grading of prostate cancer in biopsies, and highlights the remaining steps required prior to its widespread clinical implementation. We found that, although there is strong evidence to show that AI is able to perform Gleason grading on par with experienced uropathologists, more work is needed to ensure the accuracy of results from AI systems in diverse settings across different patient populations, digitization platforms, and pathology laboratories."><meta property="og:image" content="https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png">
+<meta property="twitter:image" content="https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2022-01-11T12:43:05+00:00">
+<meta property="article:modified_time" content="2022-01-11T13:43:06+01:00">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://geertlitjens.nl/publication/kart-21-a/"},"headline":"Artificial Intelligence for Diagnosis and Gleason Grading of Prostate Cancer in Biopsies-Current Status and Next Steps.","datePublished":"2022-01-11T12:43:05Z","dateModified":"2022-01-11T13:43:06+01:00","author":{"@type":"Person","name":"Kimmo Kartasalo"},"publisher":{"@type":"Organization","name":"Geert Litjens","logo":{"@type":"ImageObject","url":"https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_192x192_fill_lanczos_center_3.png"}},"description":"Diagnosis and Gleason grading of prostate cancer in biopsies are critical for the clinical management of men with prostate cancer. Despite this, the high grading variability among pathologists leads to the potential for under- and overtreatment. Artificial intelligence (AI) systems have shown promise in assisting pathologists to perform Gleason grading, which could help address this problem. In this mini-review, we highlight studies reporting on the development of AI systems for cancer detection and Gleason grading, and discuss the progress needed for widespread clinical implementation, as well as anticipated future developments. PATIENT SUMMARY: This mini-review summarizes the evidence relating to the validation of artificial intelligence (AI)-assisted cancer detection and Gleason grading of prostate cancer in biopsies, and highlights the remaining steps required prior to its widespread clinical implementation. We found that, although there is strong evidence to show that AI is able to perform Gleason grading on par with experienced uropathologists, more work is needed to ensure the accuracy of results from AI systems in diverse settings across different patient populations, digitization platforms, and pathology laboratories."}</script>
+<title>Artificial Intelligence for Diagnosis and Gleason Grading of Prostate Cancer in Biopsies-Current Status and Next Steps. | Geert Litjens</title>
+</head>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class="page-wrapper dark" data-wc-page-id=679ffc5387d24ef7bac4e569e09271ab>
+<script src=/js/wowchemy-init.min.b6ac29faab89ee14db88f0bed7aa6622.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
+</aside>
+<div class=page-header>
+<header class=header--fixed>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Geert Litjens</a>
+</div>
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Geert Litjens</a>
+</div>
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#posts><span>Posts</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#projects><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#media><span>Media</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#presentations><span>Presentations</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#publications><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#about><span>About</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/cv><span>CV</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+<li class="nav-item dropdown theme-dropdown">
+<a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences">
+<i class="fas fa-moon" aria-hidden=true></i>
+</a>
+<div class=dropdown-menu>
+<a href=# class="dropdown-item js-set-theme-light">
+<span>Light</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-dark">
+<span>Dark</span>
+</a>
+<a href=# class="dropdown-item js-set-theme-auto">
+<span>Automatic</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+</div>
+<div class=page-body>
+<div class=pub>
+<div class="article-container pt-3">
+<h1>Artificial Intelligence for Diagnosis and Gleason Grading of Prostate Cancer in Biopsies-Current Status and Next Steps.</h1>
+<div class=article-metadata>
+<div>
+<span>
+<a href=/authors/kimmo-kartasalo/>Kimmo Kartasalo</a></span>, <span>
+<a href=/authors/wouter-bulten/>Wouter Bulten</a></span>, <span>
+<a href=/authors/brett-delahunt/>Brett Delahunt</a></span>, <span>
+<a href=/authors/po-hsuan-cameron-chen/>Po-Hsuan Cameron Chen</a></span>, <span>
+<a href=/authors/hans-pinckaers/>Hans Pinckaers</a></span>, <span>
+<a href=/authors/henrik-olsson/>Henrik Olsson</a></span>, <span>
+<a href=/authors/xiaoyi-ji/>Xiaoyi Ji</a></span>, <span>
+<a href=/authors/nita-mulliqi/>Nita Mulliqi</a></span>, <span>
+<a href=/authors/hemamali-samaratunga/>Hemamali Samaratunga</a></span>, <span>
+<a href=/authors/toyonori-tsuzuki/>Toyonori Tsuzuki</a></span>, <span>
+<a href=/authors/johan-lindberg/>Johan Lindberg</a></span>, <span>
+<a href=/authors/mattias-rantalainen/>Mattias Rantalainen</a></span>, <span>
+<a href=/authors/carolina-wahlby/>Carolina Wählby</a></span>, <span>
+<a href=/authors/geert-litjens/>Geert Litjens</a></span>, <span>
+<a href=/authors/pekka-ruusuvuori/>Pekka Ruusuvuori</a></span>, <span>
+<a href=/authors/lars-egevad/>Lars Egevad</a></span>, <span>
+<a href=/authors/martin-eklund/>Martin Eklund</a></span>
+</div>
+<span class=article-date>
+July, 2021
+</span>
+</div>
+<div class="btn-links mb-3">
+<a href=# class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename=/publication/kart-21-a/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header" href=https://doi.org/10.1016/j.euf.2021.07.002 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=article-container>
+<h3>Abstract</h3>
+<p class=pub-abstract>Diagnosis and Gleason grading of prostate cancer in biopsies are critical for the clinical management of men with prostate cancer. Despite this, the high grading variability among pathologists leads to the potential for under- and overtreatment. Artificial intelligence (AI) systems have shown promise in assisting pathologists to perform Gleason grading, which could help address this problem. In this mini-review, we highlight studies reporting on the development of AI systems for cancer detection and Gleason grading, and discuss the progress needed for widespread clinical implementation, as well as anticipated future developments. PATIENT SUMMARY: This mini-review summarizes the evidence relating to the validation of artificial intelligence (AI)-assisted cancer detection and Gleason grading of prostate cancer in biopsies, and highlights the remaining steps required prior to its widespread clinical implementation. We found that, although there is strong evidence to show that AI is able to perform Gleason grading on par with experienced uropathologists, more work is needed to ensure the accuracy of results from AI systems in diverse settings across different patient populations, digitization platforms, and pathology laboratories.</p>
+<div class=row>
+<div class=col-md-1></div>
+<div class=col-md-10>
+<div class=row>
+<div class="col-12 col-md-3 pub-row-heading">Type</div>
+<div class="col-12 col-md-9">
+<a href=/publication/#3>
+Journal article
+</a>
+</div>
+</div>
+</div>
+<div class=col-md-1></div>
+</div>
+<div class="d-md-none space-below"></div>
+<div class=row>
+<div class=col-md-1></div>
+<div class=col-md-10>
+<div class=row>
+<div class="col-12 col-md-3 pub-row-heading">Publication</div>
+<div class="col-12 col-md-9"><em>Eur Urol Focus</em></div>
+</div>
+</div>
+<div class=col-md-1></div>
+</div>
+<div class="d-md-none space-below"></div>
+<div class=space-below></div>
+<div class=article-style></div>
+<div class=article-tags>
+<a class="badge badge-light" href=/tag/artificial-intelligence-gleason-grading-histopathology-prostate-cancer-uropathology/>Artificial intelligence; Gleason grading; Histopathology; Prostate cancer; Uropathology</a>
+</div>
+<div class=share-box>
+<ul class=share>
+<li>
+<a href="https://twitter.com/intent/tweet?url=https://geertlitjens.nl/publication/kart-21-a/&text=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps." target=_blank rel=noopener class=share-btn-twitter aria-label=twitter>
+<i class="fab fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/sharer.php?u=https://geertlitjens.nl/publication/kart-21-a/&t=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps." target=_blank rel=noopener class=share-btn-facebook aria-label=facebook>
+<i class="fab fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="mailto:?subject=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps.&body=https://geertlitjens.nl/publication/kart-21-a/" target=_blank rel=noopener class=share-btn-email aria-label=envelope>
+<i class="fas fa-envelope"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/shareArticle?url=https://geertlitjens.nl/publication/kart-21-a/&title=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps." target=_blank rel=noopener class=share-btn-linkedin aria-label=linkedin-in>
+<i class="fab fa-linkedin-in"></i>
+</a>
+</li>
+<li>
+<a href="whatsapp://send?text=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps.%20https://geertlitjens.nl/publication/kart-21-a/" target=_blank rel=noopener class=share-btn-whatsapp aria-label=whatsapp>
+<i class="fab fa-whatsapp"></i>
+</a>
+</li>
+<li>
+<a href="https://service.weibo.com/share/share.php?url=https://geertlitjens.nl/publication/kart-21-a/&title=Artificial%20Intelligence%20for%20Diagnosis%20and%20Gleason%20Grading%20of%20Prostate%20Cancer%20in%20Biopsies-Current%20Status%20and%20Next%20Steps." target=_blank rel=noopener class=share-btn-weibo aria-label=weibo>
+<i class="fab fa-weibo"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class=page-footer>
+<div class=container>
+<footer class=site-footer>
+<p class=powered-by>
+© 2019
+</p>
+<p class=powered-by>
+Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-themes target=_blank rel=noopener>open source</a> website builder that empowers creators.
+</p>
+</footer>
+</div>
+</div>
+<div id=modal class="modal fade" role=dialog>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<h5 class=modal-title>Cite</h5>
+<button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span>
+</button>
+</div>
+<div class=modal-body>
+<pre><code class="tex hljs"></code></pre>
+</div>
+<div class=modal-footer>
+<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
+<i class="fas fa-copy"></i> Copy
+</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
+<i class="fas fa-download"></i> Download
+</a>
+<div id=modal-error></div>
+</div>
+</div>
+</div>
+</div>
+<script src=/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js></script>
+<script src=https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js crossorigin=anonymous></script>
+<script id=search-hit-fuse-template type=text/x-template>
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+<script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script>
+<script id=page-data type=application/json>{"use_headroom":true}</script>
+<script src=/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js type=module></script>
+<script src=/en/js/wowchemy.min.0cb61b39a43590bf7470ddb0caa9f812.js></script>
+</body>
+</html>
