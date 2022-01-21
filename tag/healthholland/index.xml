@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HealthHolland | Geert Litjens</title><link>https://geertlitjens.nl/tag/healthholland/</link><atom:link href="https://geertlitjens.nl/tag/healthholland/index.xml" rel="self" type="application/rss+xml"/><description>HealthHolland</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 11 Jan 2022 15:29:21 +0100</lastBuildDate><image><url>https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png</url><title>HealthHolland</title><link>https://geertlitjens.nl/tag/healthholland/</link></image><item><title>AI-supported cancer grading for more efficient and accurate histopathological diagnosis (DeepGrading)</title><link>https://geertlitjens.nl/project/ppp-deepgrading/</link><pubDate>Tue, 11 Jan 2022 15:29:21 +0100</pubDate><guid>https://geertlitjens.nl/project/ppp-deepgrading/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Optimal treatment decisions for cancer patients are hampered by variability in grading among pathologists. When there is a suspicion for cancer, typically a tissue biopsy is taken. This biopsy is stained with hematoxylin and eosin (H&amp;amp;E) and evaluated by a pathologist for the presence and aggressiveness (i.e. grading) of the tumor. Professional organizations have drafted standardized guidelines on how this grading should be performed; however, there is still significant inter- and intra-observer variation among pathologists. Artificial intelligence, specifically through deep learning, has shown to increase efficiency and consistency in histopathological diagnosis, and, recently, to perform grading at the expert level. We have prototypes of such algorithms validated in the lab which could significantly impact clinical practice, but have not yet been tested in routine diagnostics. The aim of this project is three-fold.&lt;/p>
+&lt;p>
+&lt;figure id="figure-example-of-automated-prostate-cancer-grading-including-bar-plots-of-grades-assigned-by-multiple-pathologists">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Example of automated prostate cancer grading, including bar plots of grades assigned by multiple pathologists" srcset="
+/project/ppp-deepgrading/featured_hu89bde7ffdd6d32f799a92da8cbce97e7_165693_8d2064006c7afc74e65315ac2b5f696a.webp 400w,
+/project/ppp-deepgrading/featured_hu89bde7ffdd6d32f799a92da8cbce97e7_165693_ae810ec51e0d1ebb380abef5920253ac.webp 760w,
+/project/ppp-deepgrading/featured_hu89bde7ffdd6d32f799a92da8cbce97e7_165693_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://geertlitjens.nl/project/ppp-deepgrading/featured_hu89bde7ffdd6d32f799a92da8cbce97e7_165693_8d2064006c7afc74e65315ac2b5f696a.webp"
+width="760"
+height="376"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Example of automated prostate cancer grading, including bar plots of grades assigned by multiple pathologists
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="tasks">Tasks&lt;/h2>
+&lt;p>First, we will further develop our existing grading algorithms for prostate and breast cancer, to enhance robustness to variance in data sources and disease (sub)types. Second, we will conduct studies to determine the most efficient way to integrate algorithms into the routine workflow. Last, we will evaluate the most promising workflow prospectively in pilot lines at both peripheral and academic centers to assess performance. Currently, there are no algorithms commercially available which can do pathologist-level grading of cancer. Thus, this project can have both significant societal and economic impact. From a societal perspective, we can make expert grading available at locations without access to subspecialized pathologists. Outside the Netherlands, there are pathologist shortages in countries such as India and China where these algorithms could have even more impact. Thirona is already ISO13485 certified and has experience with CE certification and FDA 510(k) clearance. As such, upon completion of this project, algorithms could be commercially available quickly, offering the potential for a significant disruption of the health care market.&lt;/p>
+&lt;p>
+&lt;figure id="figure-examples-of-prostate-biopsy-transurethral-resection-and-prostatectomy">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Examples of prostate biopsy, transurethral resection, and prostatectomy" srcset="
+/project/ppp-deepgrading/surgical_entities_hu7557648230985fa00b2bf2b28982a3d2_347217_4d8fcd77f163e543bc103b6be72a9316.webp 400w,
+/project/ppp-deepgrading/surgical_entities_hu7557648230985fa00b2bf2b28982a3d2_347217_44de861b65b54ee2e4ad3bc38931da22.webp 760w,
+/project/ppp-deepgrading/surgical_entities_hu7557648230985fa00b2bf2b28982a3d2_347217_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://geertlitjens.nl/project/ppp-deepgrading/surgical_entities_hu7557648230985fa00b2bf2b28982a3d2_347217_4d8fcd77f163e543bc103b6be72a9316.webp"
+width="760"
+height="248"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Examples of prostate biopsy, transurethral resection, and prostatectomy
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item></channel></rss>
