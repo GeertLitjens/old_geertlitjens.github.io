@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ERC | Geert Litjens</title><link>https://geertlitjens.nl/tag/erc/</link><atom:link href="https://geertlitjens.nl/tag/erc/index.xml" rel="self" type="application/rss+xml"/><description>ERC</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 11 Jan 2022 15:29:38 +0100</lastBuildDate><image><url>https://geertlitjens.nl/media/icon_hue0c2058e8f722cf54419e3dfd4f45926_15543_512x512_fill_lanczos_center_3.png</url><title>ERC</title><link>https://geertlitjens.nl/tag/erc/</link></image><item><title>AISCAP</title><link>https://geertlitjens.nl/project/erc-aiscap/</link><pubDate>Tue, 11 Jan 2022 15:29:38 +0100</pubDate><guid>https://geertlitjens.nl/project/erc-aiscap/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Computational pathology, the application of advanced machine learning (ML) methods to digitized tissue sections, can revolutionize cancer care and research. Specifically, I propose a paradigm shift by moving away from the currently used manual grading systems towards ML-supported patient prognostication. However, significant knowledge gaps are hindering the field of computational pathology. We do not know how to: 1) effectively leverage global and local information in WSIs, 2) identify pan-cancer and cancer-specific prognostic features, and 3) make ML models explainable and interpretable.&lt;/p>
+&lt;p>
+&lt;figure id="figure-flowchart-of-the-interlocking-work-packages">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Flowchart of the interlocking work packages" srcset="
+/project/erc-aiscap/featured_hua9c1074d7efe068f74d45a2f6193ecd8_184892_956574a2efb802c9a8e60a7c864f7944.webp 400w,
+/project/erc-aiscap/featured_hua9c1074d7efe068f74d45a2f6193ecd8_184892_633411acd04525656c0bd27e3ed63564.webp 760w,
+/project/erc-aiscap/featured_hua9c1074d7efe068f74d45a2f6193ecd8_184892_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://geertlitjens.nl/project/erc-aiscap/featured_hua9c1074d7efe068f74d45a2f6193ecd8_184892_956574a2efb802c9a8e60a7c864f7944.webp"
+width="760"
+height="488"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Flowchart of the interlocking work packages
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="tasks">Tasks&lt;/h2>
+&lt;p>This ambitious project will address these critical knowledge gaps by building on the novel stochastic streaming gradient descent developed in my group. First, I will push SSGD to the next level by integrating hierarchical hyperparameter optimization and separable convolutions. Second, to identify pan-cancer and cancer-specific prognostic biomarkers, I will integrate innovative multi-task and cross-task learning algorithms with SSGD. Third, I will leverage the latest advances in concept learning and natural language processing to endow deep neural networks with unprecedented transparency and explainability. Last, I will validate our developed methodology in the largest dataset of oncological WSIs globally.&lt;/p>
+&lt;p>By publicly releasing all developed tools and data, the proposed project will have a scientific multiplier effect on the fields of computational pathology, machine learning, and oncology. Specifically, the enhanced SSGD method can open new research areas for ML that require data across scales, such as remote sensing. My novel approach to ML explainability can encourage the adoption of innovative technologies, such as self-driving cars. Last, the derived specific and pan-cancer biomarkers will have a tremendous impact on the quest to understand cancer development and progression, and ultimately on public health and the economy&lt;/p></description></item></channel></rss>
